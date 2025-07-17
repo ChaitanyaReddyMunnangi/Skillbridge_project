@@ -1,0 +1,1212 @@
+What does RBI stand for?
+A. Reserve Bank of India
+B. Regional Bank of India
+C. Rural Banking Institute
+A
+RBI is India's central bank.
+Which type of account is primarily for saving money and earns interest?
+A. Current Account
+B. Savings Account
+C. Fixed Deposit Account
+B
+Savings accounts are designed for individuals to save money and earn interest.
+What is a cheque?
+A. A type of electronic payment
+B. A written order to a bank to pay a stated sum of money from the drawer's account to the payee
+C. A credit card
+B
+A cheque is a traditional paper-based payment instrument.
+What is the full form of ATM?
+A. Any Time Money
+B. Automated Teller Machine
+C. Automatic Transfer Mechanism
+B
+ATMs provide automated banking services.
+Which of these is a type of loan?
+A. Savings Loan
+B. Personal Loan
+C. Deposit Loan
+B
+A personal loan is an unsecured loan for personal use.
+What is 'Net Banking'?
+A. Banking through a physical branch
+B. Performing banking transactions electronically over the internet
+C. Using an ATM for transactions
+B
+Net banking offers convenient online access to banking services.
+What does KYC stand for in banking?
+A. Keep Your Cash
+B. Know Your Customer
+C. Key Yield Calculation
+B
+KYC is a process to verify the identity of clients.
+What is a 'Fixed Deposit' (FD)?
+A. A savings account with flexible withdrawals
+B. A financial instrument provided by banks which provides investors with a higher rate of interest than a regular savings account, until the given maturity date
+C. A type of loan account
+B
+Fixed Deposits offer higher interest for a fixed tenure.
+Which document is commonly required for opening a bank account in India?
+A. Driving License
+B. Passport
+C. PAN Card
+C
+PAN Card is a mandatory document for financial transactions in India.
+What is 'Repo Rate'?
+A. The rate at which commercial banks can borrow money from the RBI
+B. The rate at which RBI borrows money from commercial banks
+C. The rate of interest on home loans
+A
+Repo rate is a key monetary policy tool by RBI.
+What is 'Reverse Repo Rate'?
+A. The rate at which commercial banks can borrow money from the RBI
+B. The rate at which RBI borrows money from commercial banks
+C. The rate of interest on personal loans
+B
+Reverse Repo rate is also a monetary policy tool.
+What is a 'Credit Card'?
+A. A card that allows you to withdraw money from your savings account
+B. A payment card issued to users to enable the cardholder to borrow funds
+C. A loyalty card for shopping
+B
+Credit cards allow borrowing funds up to a limit.
+What is a 'Debit Card'?
+A. A payment card that allows you to borrow money
+B. A payment card that deducts money directly from your checking account
+C. A card used for online shopping only
+B
+Debit cards use funds directly from your linked bank account.
+What is 'NEFT'?
+A. National Electronic Fund Transfer - an electronic fund transfer system
+B. New Economic Financial Trend
+C. Non-Emergency Fund Tracking
+A
+NEFT is a popular system for inter-bank fund transfers in India.
+What is 'RTGS'?
+A. Real Time Gross Settlement - a system for large value inter-bank transactions
+B. Rapid Transaction Generation System
+C. Retail Trading and Goods Services
+A
+RTGS is for high-value, immediate fund transfers.
+What is a 'Bank Statement'?
+A. A document outlining the bank's financial goals
+B. A record of all financial transactions in a bank account over a set period
+C. A marketing brochure from the bank
+B
+Bank statements provide a summary of account activity.
+What is 'Loan against Property' (LAP)?
+A. A loan given without any collateral
+B. A secured loan where the borrower pledges a property as collateral
+C. A loan specifically for buying new property
+B
+LAP allows you to leverage your existing property for funds.
+What is 'Digital Wallet'?
+A. A physical wallet that stores digital currency
+B. An electronic device or online service that allows one party to make electronic transactions with another party
+C. A type of secure physical vault
+B
+Digital wallets simplify online and in-store payments.
+What is a 'Cheque Bounce'?
+A. When a cheque is successfully cleared
+B. When a cheque is returned unpaid due to insufficient funds or other reasons
+C. A type of marketing campaign for cheques
+B
+A cheque bounce indicates a payment failure.
+What is 'IFSC Code'?
+A. International Financial Standards Committee Code
+B. Indian Financial System Code - an alphanumeric code that uniquely identifies a bank-branch participating in the NEFT system
+C. Interbank Fund Settlement Code
+B
+IFSC code is essential for online fund transfers in India.
+What is 'Mobile Banking'?
+A. Banking through a call center
+B. Performing banking transactions via a mobile phone application
+C. Banking from a moving vehicle
+B
+Mobile banking provides on-the-go access to banking services.
+What is 'Interest Rate'?
+A. The fee charged by a bank for account maintenance
+B. The amount charged, expressed as a percentage of principal, by a lender to a borrower for the use of assets
+C. The amount of money you deposit in a bank
+B
+Interest rate determines the cost of borrowing or return on saving.
+What is 'MCLR' in Indian banking?
+A. Minimum Cost of Lending Rate
+B. Marginal Cost of Funds based Lending Rate - the minimum interest rate a bank can charge for a loan
+C. Maximum Credit Limit Ratio
+B
+MCLR is a benchmark for loan interest rates in India.
+What is a 'Demand Draft' (DD)?
+A. A personal cheque issued by an individual
+B. A payment instrument issued by a bank to a client, directing another bank branch to pay a certain sum to the payee
+C. A type of credit note
+B
+DDs are considered safer than personal cheques as they are guaranteed by the bank.
+What is 'UPI' in India?
+A. Universal Payment Interface
+B. Unified Payments Interface - a system that powers multiple bank accounts into a single mobile application
+C. Unique Personal Identification
+B
+UPI is a popular real-time payment system in India.
+What is a 'Current Account'?
+A. An account primarily for savings with interest
+B. A type of deposit account for businesses and professionals, characterized by frequent transactions and no interest earnings
+C. A fixed deposit account
+B
+Current accounts are suitable for high transaction volumes.
+What is 'CIBIL Score'?
+A. A score for customer loyalty
+B. A three-digit numeric summary of your credit history, used by banks to assess creditworthiness
+C. A bank's internal ranking system
+B
+CIBIL score is crucial for loan approvals in India.
+What is 'Inflation'?
+A. A decrease in the general price level of goods and services
+B. A general increase in the prices of goods and services over time and a fall in the purchasing value of money
+C. A stable economic condition
+B
+Inflation impacts the purchasing power of money.
+What is a 'Mortgage Loan'?
+A. An unsecured loan
+B. A loan secured by real property (house, land) where the borrower is obliged to pay back with a predetermined set of payments
+C. A loan for business expansion
+B
+Mortgage loans are common for home purchases.
+What is 'Balance Transfer' in loans?
+A. Transferring funds between bank accounts
+B. Transferring the outstanding balance of a loan from one lender to another, often to get a lower interest rate
+C. Transferring loan responsibility to another person
+B
+Balance transfer can help reduce interest burden.
+What is 'Cash Reserve Ratio' (CRR)?
+A. The percentage of total deposits that commercial banks have to keep with the RBI in the form of liquid cash
+B. The percentage of loans a bank can give out
+C. The ratio of cash to non-cash transactions
+A
+CRR helps RBI control liquidity in the banking system.
+What is 'Statutory Liquidity Ratio' (SLR)?
+A. The percentage of deposits that banks must maintain as liquid assets like gold, approved securities, and cash
+B. The ratio of a bank's total assets to its total liabilities
+C. The maximum amount of cash a bank can hold
+A
+SLR is another tool used by RBI to control bank lending.
+What is 'SWIFT Code'?
+A. Society for Worldwide Interbank Financial Telecommunication Code - a standard format of Business Identifier Codes (BICs)
+B. Secure Worldwide Internet Fund Transfer Code
+C. Swift Withdrawal and International Fund Transfer Code
+A
+SWIFT codes are used for international money transfers.
+What is 'Financial Inclusion'?
+A. Including only wealthy individuals in banking services
+B. The provision of affordable financial services to all segments of society, especially vulnerable groups
+C. Excluding certain groups from financial services
+B
+Financial inclusion aims to bring everyone into the formal financial system.
+What is 'Microfinance'?
+A. Providing large loans to big corporations
+B. Providing small loans and other financial services to low-income individuals or groups, often lacking access to conventional banking
+C. Funding for micro-enterprises only
+B
+Microfinance helps alleviate poverty by empowering small businesses.
+What is a 'Bearer Cheque'?
+A. A cheque that can only be deposited into the payee's account
+B. A cheque payable to the person who bears or presents it, regardless of the name written on it
+C. A cheque that requires special endorsement
+B
+Bearer cheques are risky as anyone can encash them.
+What is an 'Account Payee Cheque'?
+A. A cheque that can be encashed by anyone
+B. A cheque that can only be deposited into the payee's account and cannot be encashed over the counter
+C. A cheque for specific business payments only
+B
+Account payee cheques ensure the funds are credited to the named payee's account.
+What is 'EMI' in banking?
+A. Extra Money Interest
+B. Equated Monthly Installment - a fixed payment amount made by a borrower to a lender at a specified date each calendar month
+C. Electronic Money Identifier
+B
+EMIs are common for loan repayments.
+What is 'Pre-approved Loan'?
+A. A loan that requires extensive documentation
+B. A loan offer from a bank to an existing customer based on their creditworthiness, without a new application process
+C. A loan for which you have to apply first
+B
+Pre-approved loans offer quick access to funds.
+What is 'Non-Performing Asset' (NPA) in banking?
+A. An asset that is generating regular income for the bank
+B. A loan or advance for which the principal or interest payment remained overdue for a period of 90 days
+C. A bank's liquid assets
+B
+NPAs are a significant challenge for banks.
+What is 'Overdraft Facility'?
+A. A type of fixed deposit account
+B. A financial arrangement that allows account holders to withdraw money even if their account balance goes below zero, up to a certain limit
+C. A facility to transfer excess funds to another account
+B
+Overdrafts provide short-term liquidity.
+What is 'Prime Lending Rate' (PLR)?
+A. The interest rate banks charge to their most creditworthy corporate customers
+B. The interest rate on savings accounts
+C. The maximum interest rate a bank can charge
+A
+PLR was an earlier benchmark for lending rates.
+What is 'Unified Account Statement' (UAS) for provident funds?
+A. A statement showing only your current bank balance
+B. A single statement for all your EPF and EPS accounts
+C. A statement for all your loan accounts
+B
+UAS simplifies provident fund tracking for employees.
+What is 'Demonetisation'?
+A. Introducing new currency notes
+B. The act of stripping a currency unit of its status as legal tender
+C. Increasing the value of currency
+B
+Demonetisation can have significant economic impacts.
+What is 'Islamic Banking'?
+A. A banking system based on interest-free transactions
+B. A banking system that only serves Islamic countries
+C. A banking system that only invests in halal businesses
+A
+Islamic banking adheres to Sharia law principles, avoiding interest (riba).
+What is 'Financial Literacy'?
+A. The ability to read financial statements only
+B. The ability to understand and effectively use various financial skills, including personal financial management, budgeting, and investing
+C. Knowing the names of all banks
+B
+Financial literacy empowers individuals to make informed financial decisions.
+What is 'Sub-Prime Lending'?
+A. Lending to customers with excellent credit history
+B. Lending to borrowers with low credit ratings or who otherwise would not be able to get a mortgage
+C. Lending at very low interest rates
+B
+Sub-prime lending carries higher risk.
+What is 'Forex' in banking?
+A. Foreign Exports
+B. Foreign Exchange - the conversion of one currency into another
+C. Financial Operations Executive
+B
+Forex markets facilitate international trade and investment.
+What is 'Money Laundering'?
+A. The process of cleaning old currency notes
+B. The illegal process of concealing the origins of money obtained illegally
+C. A system for digital money transfer
+B
+Money laundering is a serious financial crime.
+What is 'Wholesale Banking'?
+A. Banking services for individual customers
+B. Banking services provided to large institutions like corporations, government agencies, and other banks
+C. Banking services for small businesses only
+B
+Wholesale banking deals with large-scale financial transactions.
+What is 'Retail Banking'?
+A. Banking services for large corporations
+B. Banking services offered to individual consumers, rather than to companies, institutions, or other banks
+C. Banking services for retail stores only
+B
+Retail banking includes services like savings accounts, personal loans, and credit cards.
+What is 'Universal Banking'?
+A. Providing banking services globally
+B. A system where banks undertake a wide variety of financial services, including retail banking, wholesale banking, and investment banking
+C. Banking services for universities
+B
+Universal banking offers a comprehensive range of financial products.
+What is a 'Promissory Note'?
+A. A bank receipt
+B. A written promise by one party to pay a specified sum of money to another party at a specified future date or on demand
+C. A loan application form
+B
+Promissory notes are a form of debt instrument.
+What is 'Financial System'?
+A. A system for managing personal finances only
+B. A set of institutions, instruments, and markets that facilitates the transfer of funds from savers to investors
+C. A country's tax collection system
+B
+The financial system is crucial for economic development.
+What is 'Derivatives' in finance?
+A. Basic savings accounts
+B. Financial contracts whose value is derived from an underlying asset, group of assets, or benchmark
+C. Physical assets like gold or silver
+B
+Derivatives are used for hedging or speculation.
+What is 'Hedging' in finance?
+A. Taking on more risk
+B. A strategy employed to offset losses in investments by taking an opposite position in a related asset
+C. Investing in a single asset type
+B
+Hedging aims to reduce financial risk.
+What is 'Capital Market'?
+A. Market for short-term funds
+B. Market where long-term funds are raised through instruments like stocks and bonds
+C. Market for everyday goods
+B
+Capital markets facilitate long-term investment.
+What is 'Money Market'?
+A. Market for long-term funds
+B. Market for short-term borrowing and lending, usually for less than a year
+C. Market for foreign exchange
+B
+Money markets provide liquidity for short-term needs.
+What is 'SEBI' in India?
+A. Small Enterprise Banking Institute
+B. Securities and Exchange Board of India - the regulator for the securities market in India
+C. State Education and Banking Initiative
+B
+SEBI protects investor interests in the securities market.
+What is 'SARFAESI Act'?
+A. An act related to bank deposits
+B. The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, for recovery of NPAs
+C. An act for agricultural loans
+B
+SARFAESI Act empowers banks to recover bad loans.
+What is a 'Bancassurance' model?
+A. A model where banks only sell their own insurance products
+B. A partnership between a bank and an insurance company where the bank sells the insurance products of the insurance company
+C. An insurance scheme for bank employees
+B
+Bancassurance allows banks to offer insurance to their customers.
+What is 'Credit Default Swap' (CDS)?
+A. An agreement for exchanging goods
+B. A financial swap agreement that the seller of the CDS will compensate the buyer (usually the creditor of the reference loan) in the event of a loan default
+C. A type of savings bond
+B
+CDS is a financial derivative used for credit risk transfer.
+What is 'Islamic Sukuk'?
+A. A type of conventional bond
+B. Islamic bonds that represent ownership in a tangible asset, rather than a debt
+C. A short-term loan
+B
+Sukuk complies with Sharia law.
+What is 'Basel III'?
+A. A new type of banking software
+B. An international regulatory framework for banks, setting standards for capital adequacy, stress testing, and market liquidity risk
+C. A financial product for retail investors
+B
+Basel III aims to strengthen bank regulation.
+What is 'Syndicated Loan'?
+A. A loan given by a single bank
+B. A large loan provided by a group of lenders (syndicate) to a single borrower
+C. A loan only for syndicates
+B
+Syndicated loans are common for large corporate borrowings.
+What is 'Asset Securitization'?
+A. Converting assets into liabilities
+B. The process of converting illiquid assets into marketable securities
+C. Protecting physical assets with security guards
+B
+Securitization can enhance liquidity for financial institutions.
+What is a 'Rating Agency' in finance?
+A. An agency that rates customer satisfaction for banks
+B. A company that assesses the financial strength of companies and government entities, issuing credit ratings
+C. An agency that rates employee performance in banks
+B
+Credit rating agencies provide valuable insights for investors.
+What is 'Quantitative Easing' (QE)?
+A. A policy where central banks sell government bonds
+B. A monetary policy where central banks buy government bonds or other financial assets to inject money directly into the economy
+C. A policy to increase interest rates
+B
+QE is used to stimulate the economy, especially during crises.
+What is 'Bearer Bonds'?
+A. Bonds registered in the owner's name
+B. Bonds that are not registered in the owner's name and are payable to the person who possesses them
+C. Bonds specifically for bear markets
+B
+Bearer bonds carry higher risk due to lack of ownership record.
+What is 'Green Banking'?
+A. Banking services for agricultural sector only
+B. A form of banking that encourages environmentally friendly practices and reduces carbon footprint from banking activities
+C. Banking that only accepts green currency
+B
+Green banking promotes sustainable development.
+What is 'Shadow Banking'?
+A. Banking activities that occur in darkness
+B. A term for financial intermediaries that conduct credit intermediation outside the regulated banking system
+C. Banking services provided by illegal organizations
+B
+Shadow banking poses regulatory challenges.
+What is 'Correspondent Banking'?
+A. Banking done through correspondence letters
+B. A system where a bank provides services on behalf of another bank, often across international borders
+C. Banking services for journalists
+B
+Correspondent banking facilitates international payments.
+What is 'Offshore Banking'?
+A. Banking services for oil rigs
+B. Banking services conducted by banks located outside the country of residence of the depositor, often for tax advantages or looser regulations
+C. Banking done without physical branches
+B
+Offshore banking can involve complex legal and tax implications.
+What is 'Digital Transformation in Banking'?
+A. Converting all bank branches into digital kiosks
+B. The adoption of digital technology by banks to improve processes, culture, and customer experiences
+C. Only offering online banking services
+B
+Digital transformation enhances efficiency and customer engagement in banking.
+What is 'KYC (Know Your Customer) Norms'?
+A. Rules for banks to know their employees
+B. Guidelines issued by the central bank for financial institutions to obtain identification and address details of customers
+C. Rules for bank marketing
+B
+KYC norms combat money laundering and terrorist financing.
+What is 'Sub-prime Mortgage'?
+A. A mortgage loan to a borrower with excellent credit history
+B. A mortgage loan offered to individuals with poor credit history, typically with higher interest rates and less favorable terms
+C. A mortgage loan for commercial properties only
+B
+Sub-prime mortgages were a key factor in the 2008 financial crisis.
+What is a 'Lock-in Period' in banking?
+A. The period during which a bank is closed
+B. A period during which an investment or deposit cannot be withdrawn without penalty
+C. The time it takes to open a new bank account
+B
+Lock-in periods are common in FDs and certain investment products.
+What is 'Base Rate' in Indian banking?
+A. The maximum interest rate a bank can charge
+B. The minimum interest rate that all commercial banks are allowed to lend to their customers
+C. The interest rate on savings accounts
+B
+Base rate was replaced by MCLR as a lending benchmark.
+What is 'Financial Stability Board' (FSB)?
+A. A board that manages a country's stock market
+B. An international body that monitors and makes recommendations about the global financial system
+C. A board for bank mergers
+B
+FSB promotes global financial stability.
+What is 'Central Bank Digital Currency' (CBDC)?
+A. A digital version of physical currency issued and backed by a country's central bank
+B. A cryptocurrency like Bitcoin
+C. Digital money issued by private companies
+A
+CBDCs are a sovereign currency in digital form.
+What is 'Credit Bureau'?
+A. An agency that collects debt for banks
+B. An organization that collects and maintains credit information on individuals and businesses, providing credit reports to lenders
+C. A government department that issues loans
+B
+Credit bureaus help lenders assess credit risk.
+What is 'Open Banking'?
+A. Banks operating 24/7
+B. A system that allows third-party financial service providers to access customer banking data (with consent) through APIs to offer new services
+C. Banking without any security measures
+B
+Open banking fosters innovation and competition in financial services.
+What is 'Tokenization' in payments?
+A. Exchanging physical cash for tokens
+B. The process of replacing sensitive data (like credit card numbers) with a unique, encrypted token that cannot be reversed engineered
+C. A reward program for bank customers
+B
+Tokenization enhances payment security.
+What is 'Fintech'?
+A. Financial technology - technology that seeks to improve and automate the delivery and use of financial services
+B. A new type of banking product
+C. Financial auditing software
+A
+Fintech is rapidly transforming the financial industry.
+What is 'Regulatory Sandbox' in finance?
+A. A physical sandbox for financial regulators
+B. A framework set up by a regulator that allows new financial products and services to be tested in a live but controlled environment
+C. A place for banks to store their data
+B
+Regulatory sandboxes encourage innovation while managing risks.
+What is 'Leverage' in banking?
+A. Investing without borrowing
+B. The use of borrowed capital for an investment, expecting the profits made to be greater than the interest payable
+C. Reducing financial risk
+B
+Leverage can amplify both gains and losses.
+What is 'Underwriting' in banking/finance?
+A. The process of writing down financial statements
+B. The process by which an individual or institution takes on financial risk for a fee, often associated with loans, insurance, or securities
+C. Signing documents below the line
+B
+Underwriting assesses risk before taking it on.
+What is 'Non-Banking Financial Company' (NBFC)?
+A. A company that performs all functions of a bank
+B. A financial institution that provides banking services but does not hold a banking license and cannot accept deposits from the public
+C. A company that only deals with loans
+B
+NBFCs offer various financial services like loans, investments, and insurance.
+What is 'Stress Testing' in banking?
+A. Testing bank employees under stress
+B. A simulation conducted to determine the resilience of a bank to various adverse economic scenarios
+C. A marketing survey for banking services
+B
+Stress testing helps assess a bank's capital adequacy and risk management.
+What is 'Asset-Liability Management' (ALM)?
+A. Managing only bank assets
+B. The process of managing the financial risks that arise due to mismatches between assets and liabilities, especially in terms of interest rate and liquidity risks
+C. Managing only bank liabilities
+B
+ALM is crucial for a bank's financial health.
+What is 'Basel Norms'?
+A. Regulations for international trade
+B. International banking regulations issued by the Basel Committee on Banking Supervision (BCBS) to strengthen the regulation, supervision, and risk management of the banking sector
+C. Norms for bank holidays
+B
+Basel norms set international standards for banking supervision.
+What is 'Bridge Loan'?
+A. A long-term loan
+B. A short-term loan used to cover expenses until a larger, longer-term financing is secured
+C. A loan for building bridges
+B
+Bridge loans provide temporary financing solutions.
+What is 'Factoring' in finance?
+A. Dividing a loan into smaller parts
+B. A financial transaction whereby a business sells its accounts receivable (invoices) to a third party (called a factor) at a discount
+C. Calculating interest rates
+B
+Factoring helps businesses improve cash flow.
+What is 'Forfaiting' in finance?
+A. A type of personal loan
+B. The purchase of medium to long-term trade receivables (promissory notes or bills of exchange) without recourse to the seller
+C. A system for managing financial penalties
+B
+Forfaiting is used in international trade finance.
+What is 'Hedging Instruments'?
+A. Tools used for gardening
+B. Financial tools like options, futures, and swaps used to reduce exposure to various risks
+C. Instruments for measuring financial growth
+B
+Hedging instruments help mitigate financial market risks.
+What is 'Investment Banking'?
+A. Banking services for individual savings
+B. A specific division of banking related to the creation of capital for other companies, governments, and other entities
+C. Banking services for charities
+B
+Investment banking includes activities like mergers & acquisitions and underwriting.
+What is 'Commercial Banking'?
+A. Banking services for individuals only
+B. Banking services provided to businesses, offering products like business loans, checking accounts, and treasury management
+C. Banking services for commercial advertisements
+B
+Commercial banking supports the financial needs of businesses.
+What is 'Deposit Insurance'?
+A. Insurance for bank employees
+B. A system that protects depositors' money in case a bank fails, up to a certain limit
+C. Insurance for fixed deposits only
+B
+Deposit insurance provides safety and confidence to depositors.
+What is 'Credit Rating'?
+A. A rating of a bank's customer service
+B. An evaluation of the creditworthiness of an individual or entity, typically a loan applicant
+C. A rating of bank branch aesthetics
+B
+Credit rating influences lending decisions and interest rates.
+What is 'Secured Loan'?
+A. A loan given without any collateral
+B. A loan backed by collateral, such as property or a vehicle, which the lender can seize if the borrower defaults
+C. A loan for security purposes only
+B
+Secured loans typically have lower interest rates due to reduced risk for the lender.
+What is 'Unsecured Loan'?
+A. A loan backed by collateral
+B. A loan not backed by collateral, granted based on the borrower's creditworthiness and promise to repay
+C. A loan that is not safe
+B
+Unsecured loans usually have higher interest rates and stricter eligibility criteria.
+What is 'Banking Ombudsman'?
+A. A bank employee dealing with complaints
+B. An independent authority established to resolve customer complaints against banks, if they are not resolved by the bank itself
+C. A bank's internal auditor
+B
+Banking Ombudsman ensures fair and quick resolution of customer grievances.
+What is 'Treasury Management' in banking?
+A. Managing a bank's physical treasury
+B. The management of an organization's liquidity and financial risks, including its cash, investments, and financial transactions
+C. Managing a country's national treasury
+B
+Treasury management optimizes cash flow and mitigates financial risks for businesses.
+What is 'Credit Risk'?
+A. The risk of losing money due to natural disasters
+B. The risk of default on a debt by a borrower
+C. The risk of fraudulent transactions
+B
+Credit risk is a fundamental risk in banking.
+What is 'Operational Risk'?
+A. The risk of a bank's operations being too slow
+B. The risk of loss resulting from inadequate or failed internal processes, people and systems or from external events
+C. The risk of market fluctuations
+B
+Operational risk includes fraud, system failures, and human errors.
+What is 'Market Risk'?
+A. The risk of losing customers in the market
+B. The risk of losses in positions arising from movements in market prices, such as interest rates, exchange rates, and equity prices
+C. The risk of a new competitor entering the market
+B
+Market risk affects a bank's investment portfolio.
+What is 'Liquidity Risk'?
+A. The risk of a bank having too much liquid cash
+B. The risk that a bank will be unable to meet its financial obligations as they fall due without incurring unacceptable losses
+C. The risk of water damage to bank assets
+B
+Liquidity risk is critical for bank stability.
+What is 'Regulatory Risk'?
+A. The risk of new bank regulations being too lenient
+B. The risk of changes in laws and regulations that can negatively impact a bank's operations or profitability
+C. The risk of not following internal bank policies
+B
+Regulatory risk requires banks to adapt to evolving compliance landscapes.
+What is 'Cybersecurity in Banking'?
+A. Physical security measures for bank branches
+B. The practice of protecting electronic systems, networks, and data from digital attacks, damage, or unauthorized access within the banking sector
+C. Security for banking vaults
+B
+Cybersecurity is paramount in protecting sensitive financial data and systems.
+What is 'Blockchain Technology' in banking?
+A. A method for physical money transfer
+B. A decentralized, distributed ledger technology that can be used for secure and transparent record-keeping in financial transactions
+C. A type of traditional accounting system
+B
+Blockchain has potential applications in payments, trade finance, and digital identity.
+What is 'Robo-Advisors' in finance?
+A. Human financial advisors using robots
+B. Digital platforms that provide automated, algorithm-driven financial planning services with little to no human supervision
+C. Robots that manage bank branches
+B
+Robo-advisors make investment advice more accessible and affordable.
+What is 'IFRS 9' in banking?
+A. International Financial Reporting Standard for bank marketing
+B. An international accounting standard that specifies how financial instruments should be recognized, measured, and derecognized
+C. A standard for bank building design
+B
+IFRS 9 significantly impacts how banks account for financial assets and liabilities, especially loan loss provisions.
+What is 'Stress Scenarios' in banking?
+A. Everyday situations in a bank
+B. Hypothetical adverse economic and financial conditions used to test a bank's resilience and capital adequacy
+C. Scenarios for bank advertising campaigns
+B
+Stress scenarios help identify vulnerabilities in a bank's financial position.
+What is 'Digital Lending'?
+A. Lending money using physical cash only
+B. The process of applying for and receiving loans entirely through digital platforms, without human intervention or physical paperwork
+C. Lending to digital companies only
+B
+Digital lending offers convenience and speed for borrowers.
+What is 'Data Analytics in Banking'?
+A. Analyzing only historical financial statements manually
+B. The process of examining large datasets in banking to uncover patterns, correlations, and insights that can inform business decisions
+C. Counting the number of transactions per day
+B
+Data analytics helps banks understand customer behavior, manage risk, and identify opportunities.
+What is 'API Banking'?
+A. Banking through telephone calls only
+B. A system where banks expose their services and data to third-party developers and other businesses through Application Programming Interfaces (APIs)
+C. Banking without any security
+B
+API banking facilitates integration and creation of new financial products and services.
+What is 'Core Banking Solution' (CBS)?
+A. Software used for a single bank branch
+B. A centralized system used by banks to manage all its operations, including customer data, transactions, and various banking products
+C. A system for only online transactions
+B
+CBS integrates all banking functions, improving efficiency and customer service.
+What is 'Payment Gateway'?
+A. A physical gate at a bank
+B. A merchant service that processes credit card and other payment transactions for online and traditional brick and mortar businesses
+C. A system for withdrawing cash from ATMs
+B
+Payment gateways are crucial for e-commerce transactions.
+What is 'Open Loop Payment System'?
+A. A payment system where the card can only be used at the issuer's own network
+B. A payment system where the card can be used across different merchant networks and ATMs, typically involving multiple banks
+C. A payment system that is not secure
+B
+Visa and Mastercard are examples of open loop systems.
+What is 'Closed Loop Payment System'?
+A. A payment system where the card can be used across different merchant networks
+B. A payment system where the card can only be used at the issuer's own network of merchants or ATMs
+C. A payment system that is always open
+B
+Gift cards or store-specific credit cards are examples of closed loop systems.
+What is 'Digital Signature' in banking?
+A. A handwritten signature scanned and stored digitally
+B. A mathematical scheme for demonstrating the authenticity of digital messages or documents, crucial for secure online banking
+C. A signature made using a digital pen
+B
+Digital signatures ensure integrity and non-repudiation of electronic transactions.
+What is 'Biometric Authentication' in banking?
+A. Authentication using passwords only
+B. Authentication using unique biological characteristics like fingerprints, facial recognition, or iris scans for identity verification
+C. Authentication using a security card
+B
+Biometric authentication enhances security and convenience.
+What is 'Peer-to-Peer (P2P) Lending'?
+A. Lending between banks
+B. The practice of lending money to individuals or businesses through online platforms that match lenders directly with borrowers
+C. Lending between family members only
+B
+P2P lending bypasses traditional financial intermediaries.
+What is 'Syndicate Bank'?
+A. A bank that deals only with syndicates
+B. An Indian public sector bank that merged with Canara Bank
+C. A private sector bank
+B
+Syndicate Bank was a prominent public sector bank in India.
+What is 'Call Money Market'?
+A. A market for long-term loans
+B. A money market segment where short-term funds are borrowed and lent on an overnight basis or for a very short period
+C. A market for international currency exchange
+B
+Call money market provides immediate liquidity to banks.
+What is 'Notice Money Market'?
+A. A market for loans with a long notice period
+B. A money market segment where funds are lent and borrowed for a period exceeding overnight up to 14 days without any collateral
+C. A market for government securities
+B
+Notice money market caters to slightly longer-term interbank liquidity needs.
+What is 'Term Money Market'?
+A. A market for very short-term funds
+B. A money market segment where funds are borrowed and lent for a period beyond 14 days and up to one year
+C. A market for fixed deposits only
+B
+Term money market provides funds for longer short-term durations.
+What is 'Treasury Bills' (T-Bills)?
+A. Long-term government bonds
+B. Short-term debt instruments issued by the government to meet its short-term funding requirements
+C. Bills for government buildings
+B
+T-Bills are highly liquid and considered risk-free.
+What is 'Commercial Paper' (CP)?
+A. Paper used for printing currency
+B. A short-term, unsecured promissory note issued by corporations to raise short-term funds
+C. A government bond for commercial purposes
+B
+CP is a common money market instrument for corporate short-term funding.
+What is 'Certificate of Deposit' (CD)?
+A. A document certifying a fixed deposit
+B. A time deposit that is a promissory note issued by a bank entitling the bearer to receive interest
+C. A certificate for opening a bank account
+B
+CDs are negotiable instruments offering fixed interest rates.
+What is 'Repo Market'?
+A. A market for selling repossessed goods
+B. A market where short-term loans are exchanged for government securities as collateral, usually for overnight or very short terms
+C. A market for car loans
+B
+Repo market is crucial for liquidity management by banks and RBI.
+What is 'Financial Engineering'?
+A. Designing financial buildings
+B. The use of mathematical techniques, computer science, and financial theory to create new and innovative financial instruments and solutions
+C. Repairing financial systems
+B
+Financial engineering involves complex financial product design and risk management.
+What is 'Arbitrage' in finance?
+A. Making a profit by guessing market movements
+B. The simultaneous buying and selling of an asset in different markets to profit from a difference in the asset's price
+C. Investing for long-term growth only
+B
+Arbitrage exploits temporary price discrepancies.
+What is 'Contingent Liability'?
+A. A definite financial obligation
+B. A potential liability that may occur depending on the outcome of an uncertain future event
+C. A liability that has already occurred
+B
+Contingent liabilities are common in banking, e.g., guarantees.
+What is 'Consortium Lending'?
+A. Lending by a single bank to a consortium of borrowers
+B. A type of lending where multiple banks or financial institutions come together to jointly finance a single large project or borrower
+C. Lending to consortia of small businesses
+B
+Consortium lending distributes risk among multiple lenders.
+What is 'Financial Ombudsman Scheme'?
+A. A scheme for banks to settle disputes internally
+B. A free and impartial service that settles disputes between consumers and financial service providers
+C. A scheme for financial advisors
+B
+The Financial Ombudsman Service is an alternative to court for resolving financial disputes.
+What is 'Open Market Operations' (OMO)?
+A. Banks operating in open markets only
+B. The buying and selling of government securities in the open market by the central bank to control the money supply
+C. Trading of goods in an open market
+B
+OMO is a key tool of monetary policy by central banks.
+What is 'Base Lending Rate' (BLR) in Malaysia?
+A. The maximum lending rate
+B. A reference interest rate determined by individual banks based on their cost of funds, used for pricing loans
+C. The interest rate on savings accounts
+B
+BLR was a common benchmark for loans in Malaysia before being replaced by Base Rate (BR).
+What is 'Base Rate' (BR) in Malaysia?
+A. The maximum lending rate
+B. A new reference rate that replaced BLR, determined by banks based on a formula linked to the OPR (Overnight Policy Rate)
+C. The interest rate on fixed deposits
+B
+BR is the primary reference rate for retail floating rate loans in Malaysia.
+What is 'Overnight Policy Rate' (OPR) in Malaysia?
+A. The interest rate for long-term loans
+B. The target rate for the overnight interbank money market, set by Bank Negara Malaysia to signal its monetary policy stance
+C. The interest rate on credit cards
+B
+OPR influences other interest rates in the banking system.
+What is 'Islamic Window' in conventional banks?
+A. A separate physical branch for Islamic banking
+B. A division within a conventional bank that offers Sharia-compliant financial products and services alongside conventional ones
+C. An online portal for Islamic banking
+B
+Islamic windows allow conventional banks to tap into the Islamic finance market.
+What is 'Tier 1 Capital' in banking?
+A. Capital invested by general public
+B. The core capital of a bank, consisting primarily of equity capital and disclosed reserves, used to absorb losses
+C. Capital used for daily operations only
+B
+Tier 1 capital is a key measure of a bank's financial strength.
+What is 'Tier 2 Capital' in banking?
+A. Primary capital of a bank
+B. Supplementary capital that includes revaluation reserves, hybrid instruments, and subordinated debt, used to absorb losses in case of liquidation
+C. Capital for investment purposes only
+B
+Tier 2 capital provides additional loss absorption capacity.
+What is 'Capital Adequacy Ratio' (CAR)?
+A. A ratio of a bank's profits to its losses
+B. A measure of a bank's capital in relation to its risk-weighted assets, indicating its ability to absorb potential losses
+C. A ratio of bank deposits to loans
+B
+CAR is a critical regulatory measure of a bank's solvency.
+What is 'Basel Committee on Banking Supervision' (BCBS)?
+A. A committee that supervises all banks globally
+B. A committee of banking supervisory authorities that provides a forum for cooperation on banking supervisory matters
+C. A committee for setting bank interest rates
+B
+BCBS sets international standards for bank regulation.
+What is 'Systemically Important Financial Institution' (SIFI)?
+A. A small local bank
+B. A financial institution whose distress or disorderly failure, because of its size, complexity, and interconnectedness, would cause significant disruption to the wider financial system and economic activity
+C. A bank that focuses on systemic risk
+B
+SIFIs are subject to stricter regulatory oversight.
+What is 'Haircut' in finance?
+A. A type of grooming service offered by banks
+B. The percentage by which the market value of an asset is reduced for the purpose of calculating collateral values, reflecting potential risk
+C. A reduction in salary for bank employees
+B
+Haircuts are applied to collateral to account for market fluctuations.
+What is 'Bank Run'?
+A. A marathon event sponsored by a bank
+B. When a large number of customers withdraw their money from a bank at the same time due to concerns about the bank's solvency
+C. A quick deposit process
+B
+Bank runs can lead to bank failures.
+What is 'Moral Hazard' in banking?
+A. A risk associated with ethical behavior of bank employees
+B. The risk that a party insulated from risk may behave differently than if they were fully exposed to the risk, often seen when banks take on excessive risk knowing they might be bailed out
+C. A risk of natural disasters affecting banks
+B
+Moral hazard can arise from deposit insurance or too-big-to-fail policies.
+What is 'Advisory Banking'?
+A. Banks providing only basic transaction services
+B. A service offered by banks to provide expert advice and guidance on financial matters to individuals, corporations, or governments
+C. Banking through advertisements only
+B
+Advisory banking helps clients make informed financial decisions.
+What is 'Sukuk al-Ijarah'?
+A. An Islamic bond based on debt
+B. An Islamic bond based on a lease agreement, where the issuer sells an asset to the Sukuk holders and then leases it back
+C. An Islamic savings product
+B
+Sukuk al-Ijarah is a common type of Islamic bond.
+What is 'Venture Capital in Banking'?
+A. Capital provided for safe investments only
+B. A form of private equity financing that is provided by venture capital firms or funds to start-ups, early-stage, and emerging companies that have been deemed to have high growth potential
+C. Capital for establishing new bank branches
+B
+Venture capital plays a crucial role in funding innovative businesses.
+What is 'Financial Repression'?
+A. Suppressing financial crimes
+B. Policies by which governments extract resources from the financial system to finance their own debt at below-market interest rates, often harming savers
+C. Policies to encourage financial innovation
+B
+Financial repression can lead to negative real interest rates for savers.
+What is 'Ring-fencing' in banking?
+A. Protecting bank buildings with physical fences
+B. A regulatory measure that requires banks to separate their retail banking operations from their investment banking activities to protect depositors' money
+C. Creating a closed network for interbank transactions
+B
+Ring-fencing aims to prevent contagion from risky investment banking activities.
+What is 'Financial Contagion'?
+A. The spread of financial news
+B. The process by which a financial shock in one part of the financial system or economy spreads to other parts, potentially leading to a systemic crisis
+C. The spread of financial diseases
+B
+Financial contagion highlights the interconnectedness of financial markets.
+What is 'Capital Flight'?
+A. The movement of capital within a country
+B. The large-scale exodus of financial assets and capital from a country due to political or economic instability
+C. The process of attracting foreign investment
+B
+Capital flight can destabilize a country's economy.
+What is 'Financial Bubble'?
+A. A period of stable financial growth
+B. A market phenomenon characterized by a rapid escalation of asset prices, followed by a sudden collapse, fueled by speculative buying rather than intrinsic value
+C. A protected financial market
+B
+Financial bubbles can lead to significant economic downturns.
+What is 'Credit Crunch'?
+A. An abundance of available credit
+B. A sudden sharp reduction in the availability of money or credit from banks and other lenders
+C. A new type of snack offered by banks
+B
+A credit crunch can severely restrict economic activity.
+What is 'Deposit Multiplier'?
+A. The total amount of deposits in a bank
+B. The ratio of the maximum amount of money that a bank can create from an initial deposit to the amount of the initial deposit itself
+C. The rate at which deposits grow
+B
+The deposit multiplier demonstrates how banks create money through lending.
+What is 'Disintermediation' in finance?
+A. Increasing the role of financial intermediaries
+B. The process of removing the middleman or intermediary from financial transactions, often through direct investment or peer-to-peer lending
+C. Creating new financial intermediaries
+B
+Disintermediation can reduce costs and increase efficiency in financial markets.
+What is 'Reconciliation' in banking?
+A. Resolving conflicts between bank employees
+B. The process of ensuring that two sets of records (e.g., bank statement and company's cash book) are in agreement, by identifying and explaining any differences
+C. Reconciling customer complaints
+B
+Reconciliation is crucial for accurate financial record-keeping.
+What is 'Proof of Address' (POA) in banking?
+A. A document showing your current location
+B. A document used to verify a customer's residential address, commonly required for KYC compliance
+C. Proof of bank branch address
+B
+Utility bills, passport, or driving license are common POA documents.
+What is 'Proof of Identity' (POI) in banking?
+A. A document proving your nationality
+B. A document used to verify a customer's identity, commonly required for KYC compliance
+C. Proof of bank employee identity
+B
+Passport, Aadhaar card, or PAN card are common POI documents.
+What is 'E-KYC'?
+A. Electronic Know Your Customer - a paper-based KYC process
+B. An electronic and paperless process for Know Your Customer (KYC) verification, often done through Aadhaar-based authentication
+C. Enhanced KYC
+B
+e-KYC simplifies and speeds up the customer onboarding process.
+What is 'Lead Bank Scheme' in India?
+A. A scheme for banks to lead in technology
+B. A scheme where individual banks are made responsible for certain districts to facilitate credit allocation and promote development
+C. A scheme for banks to lend to leaders
+B
+Lead Bank Scheme aims for better coordination between banks and government agencies for rural development.
+What is 'Financial inclusion through BC (Banking Correspondent) model'?
+A. Banks using bicycles for banking services
+B. A model where individuals or entities are appointed by banks to provide basic banking services in remote areas, acting as agents
+C. Banks using blockchain for inclusion
+B
+BC model extends banking services to unbanked populations.
+What is 'ATM Interoperability'?
+A. ATMs of one bank only working with its own cards
+B. The ability of an ATM to accept cards from different banks and allow transactions across different bank networks
+C. ATMs that only dispense specific denominations
+B
+ATM interoperability enhances convenience for customers.
+What is 'White Label ATM'?
+A. An ATM managed by a bank
+B. An ATM owned and operated by a non-bank entity, but offering banking services under a tie-up with sponsoring banks
+C. An ATM for exclusive customers
+B
+White Label ATMs expand ATM network access, especially in rural areas.
+What is 'Brown Label ATM'?
+A. An ATM owned by a bank but maintained by a third party
+B. An ATM owned by a third party but whose branding and cash management are done by a sponsoring bank
+C. An ATM with a brown color
+A
+Brown Label ATMs are a form of outsourcing ATM operations.
+What is 'Green Label ATM'?
+A. An ATM that dispenses green currency
+B. An ATM meant for agricultural transactions only
+C. An ATM that promotes eco-friendly banking
+B
+Green Label ATMs serve the agricultural sector.
+What is 'Orange Label ATM'?
+A. An ATM for orange juice sellers
+B. An ATM meant for share transactions only
+C. An ATM with an orange color scheme
+B
+Orange Label ATMs facilitate stock market transactions.
+What is 'Pink Label ATM'?
+A. An ATM for pink-colored cards
+B. An ATM meant for women only, with added security features
+C. An ATM for charity donations
+B
+Pink Label ATMs aim to provide a safer banking experience for women.
+What is 'KYC Update'?
+A. Updating bank software
+B. The process of periodically verifying and updating customer identification and address details as per regulatory requirements
+C. Updating bank's marketing materials
+B
+KYC updates ensure that banks have current customer information.
+What is 'Interoperable Cardless Cash Withdrawal' at ATMs?
+A. Withdrawing cash with a card only
+B. A facility that allows customers to withdraw cash from any bank's ATM using UPI, without needing a physical debit card
+C. Withdrawing cash with a digital wallet only
+B
+This feature enhances convenience and security for ATM withdrawals.
+What is 'Financial Scams'?
+A. Legitimate financial investments
+B. Deceptive practices designed to trick individuals into parting with their money or personal information, often through false promises of high returns or urgent requests
+C. Complex financial products
+B
+Awareness is key to protecting oneself from financial scams.
+What is 'Phishing in Banking'?
+A. Fishing for compliments from bank customers
+B. A type of cyber attack where fraudsters attempt to trick individuals into revealing sensitive information (e.g., login credentials, card details) by impersonating a legitimate entity like a bank
+C. A technique for bank data analysis
+B
+Phishing emails and messages are common threats to online banking security.
+What is 'Vishing'?
+A. A type of visual fraud
+B. A form of phishing that uses voice communication (phone calls) to trick victims into revealing sensitive information
+C. A method for video conferencing in banking
+B
+Vishing attacks often involve impersonating bank representatives.
+What is 'Smishing'?
+A. A type of social media scam
+B. A form of phishing that uses SMS text messages to trick victims into revealing sensitive information or clicking malicious links
+C. A method for small business banking
+B
+Smishing is a growing threat, using text messages to deliver scams.
+What is 'Impersonation Fraud' in banking?
+A. Fraud committed by banks
+B. Fraud where criminals pretend to be a legitimate person or organization (e.g., bank, government official) to deceive victims into giving money or information
+C. Fraud committed by impersonators on stage
+B
+Impersonation fraud targets individuals' trust and fear.
+What is 'DDoS Attack' in banking?
+A. Direct Data Offering Services
+B. Distributed Denial of Service attack, where multiple compromised computer systems attack a target (e.g., a bank's website) to overwhelm it with traffic, making it unavailable
+C. Digital Data Optimization System
+B
+DDoS attacks can disrupt online banking services.
+What is 'Ransomware Attack' in banking?
+A. Attack on bank's physical security
+B. A type of malicious software that encrypts a victim's files and demands a ransom payment to decrypt them, posing a significant threat to banking systems
+C. Attack on bank employees' health
+B
+Ransomware can severely impact bank operations and data access.
+What is 'Data Breach' in banking?
+A. When a bank shares its data with other banks legitimately
+B. A security incident in which sensitive, protected, or confidential data from a bank is copied, transmitted, viewed, stolen, or used by an unauthorized individual
+C. A breach in a bank's physical structure
+B
+Data breaches can lead to financial fraud and reputational damage.
+What is 'Fraud Detection Systems' in banking?
+A. Systems for detecting loyal customers
+B. Technologies and processes used by banks to identify and prevent fraudulent activities by analyzing transaction patterns and anomalies
+C. Systems for tracking bank employee performance
+B
+Fraud detection systems use AI and machine learning to combat financial crime.
+What is 'Behavioral Biometrics' in banking security?
+A. Using physical biometrics like fingerprints only
+B. Analyzing unique behavioral patterns (e.g., typing speed, mouse movements, how a user holds their phone) to verify identity and detect anomalies for security
+C. Studying customer behavior for marketing
+B
+Behavioral biometrics offers continuous authentication and passive fraud detection.
+What is 'Zero Trust Security Model' in banking?
+A. Trusting all users and devices by default
+B. A security framework that assumes no user or device, whether inside or outside the network, should be trusted by default, and verifies every access request
+C. A model where banks trust no one
+B
+Zero Trust enhances security by requiring strict identity verification for all access attempts.
+What is 'Cloud Security in Banking'?
+A. Securing data in on-premise servers only
+B. The strategies, policies, and technologies designed to protect data, applications, and infrastructure operating in cloud computing environments used by banks
+C. Security for banking in cloudy weather
+B
+Cloud security addresses unique challenges of data protection and compliance in cloud deployments.
+What is 'Artificial Intelligence (AI) in Banking'?
+A. AI robots replacing all bank employees
+B. The use of AI technologies (like machine learning, natural language processing) for tasks such as fraud detection, personalized banking, credit scoring, and customer service automation
+C. AI for only basic calculations
+B
+AI is transforming various aspects of banking operations and customer experience.
+What is 'Machine Learning (ML) in Banking'?
+A. Banks using traditional statistical methods only
+B. A subset of AI where systems learn from data to identify patterns and make predictions without explicit programming, applied in areas like risk assessment, fraud detection, and algorithmic trading
+C. ML for automated teller machines only
+B
+ML enables banks to gain deeper insights from large datasets and automate complex decisions.
+What is 'Robotic Process Automation (RPA) in Banking'?
+A. Robots performing all customer interactions
+B. The use of software robots (bots) to automate repetitive, rule-based tasks in banking operations, such as data entry, reconciliation, and report generation
+C. RPA for building new bank branches
+B
+RPA improves efficiency, reduces errors, and frees up human employees for higher-value tasks.
+What is 'Chatbots in Banking'?
+A. Physical robots serving customers in branches
+B. AI-powered conversational agents that interact with customers through text or voice to answer queries, provide information, and assist with basic banking transactions
+C. Chat rooms for bank employees
+B
+Chatbots enhance customer service and reduce call center load.
+What is 'Big Data in Banking'?
+A. Only structured data in small amounts
+B. Extremely large and complex datasets that cannot be easily processed by traditional data processing applications, used to derive insights into customer behavior, market trends, and risk
+C. Data about large banks only
+B
+Big Data analytics helps banks make data-driven decisions.
+What is 'Predictive Analytics in Banking'?
+A. Analyzing past data only
+B. Using historical data, statistical algorithms, and machine learning techniques to identify the likelihood of future outcomes, such as loan defaults, customer churn, or market trends
+C. Predicting employee performance
+B
+Predictive analytics enables proactive decision-making and risk mitigation.
+What is 'Algorithmic Trading' in banking?
+A. Trading based on human intuition only
+B. The use of computer programs to execute trades based on pre-programmed instructions that take into account variables like time, price, and volume
+C. Trading physical goods in a market
+B
+Algorithmic trading aims for speed and efficiency in financial markets.
+What is 'Regtech'?
+A. Regulatory technology - technology used for bank regulation
+B. The use of technology to enhance regulatory processes, compliance, and reporting within the financial services industry
+C. Technology for regulating climate
+B
+Regtech helps banks meet complex regulatory requirements more efficiently.
+What is 'Suptech'?
+A. Supervisory technology - technology used for bank supervision
+B. The use of technology by supervisory authorities to support supervision and regulation of the financial sector
+C. Technology for superior bank services
+B
+Suptech helps regulators monitor financial institutions more effectively.
+What is 'Credit Scoring Models' in banking?
+A. Models for scoring bank employees
+B. Statistical algorithms used to assess the creditworthiness of loan applicants by assigning a numerical score based on various financial and behavioral data points
+C. Models for bank branch design
+B
+Credit scoring models automate and standardize lending decisions.
+What is 'Risk-Weighted Assets' (RWA) in banking?
+A. Assets that have no risk
+B. Bank assets or off-balance-sheet exposures, weighted according to their riskiness, used to calculate a bank's capital requirements
+C. Assets weighted by their physical size
+B
+RWA is a key component in calculating Capital Adequacy Ratio.
+What is 'Financial Crime Compliance'?
+A. Compliance with financial reporting standards only
+B. The adherence to laws and regulations designed to prevent and detect financial crimes like money laundering, terrorist financing, and fraud within financial institutions
+C. Compliance with marketing regulations
+B
+Financial crime compliance is crucial for maintaining integrity in the financial system.
+What is 'Anti-Money Laundering (AML)'?
+A. A process to clean dirty money
+B. A set of laws, regulations, and procedures designed to prevent criminals from disguising illegally obtained funds as legitimate income
+C. Preventing the spread of financial rumors
+B
+AML measures are critical for combating financial crime globally.
+What is 'Counter-Terrorist Financing (CTF)'?
+A. Financing counter-terrorism activities
+B. Measures taken to prevent funds from being used to finance terrorist activities, often integrated with AML efforts
+C. Financing counter-intelligence operations
+B
+CTF aims to disrupt the financial flow to terrorist organizations.
+What is 'Whistleblower Policy' in banking?
+A. A policy for bank employees to blow whistles
+B. A policy that protects bank employees who report illegal or unethical activities within the organization, encouraging transparency and accountability
+C. A policy for customer complaints
+B
+Whistleblower policies are important for corporate governance and preventing financial misconduct.
+What is 'Ethical Banking'?
+A. Banking without any rules
+B. A form of banking that operates on principles of social and environmental responsibility, considering the impact of its investments and operations on society and the planet
+C. Banking that only focuses on profits
+B
+Ethical banking prioritizes positive societal and environmental impact alongside financial returns.

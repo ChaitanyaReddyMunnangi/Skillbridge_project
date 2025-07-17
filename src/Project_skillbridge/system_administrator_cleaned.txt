@@ -1,0 +1,600 @@
+What is the primary function of a DNS server (Set 1)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 1)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 1)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 1)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 1)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 1)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 1)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 1)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 1)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 1)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 2)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 2)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 2)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 2)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 2)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 2)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 2)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 2)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 2)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 2)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 3)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 3)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 3)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 3)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 3)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 3)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 3)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 3)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 3)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 3)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 4)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 4)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 4)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 4)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 4)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 4)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 4)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 4)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 4)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 4)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 5)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 5)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 5)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 5)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 5)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 5)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 5)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 5)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 5)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 5)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 6)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 6)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 6)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 6)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 6)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 6)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 6)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 6)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 6)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 6)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 7)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 7)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 7)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 7)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 7)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 7)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 7)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 7)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 7)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 7)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 8)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 8)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 8)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 8)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 8)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 8)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 8)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 8)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 8)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 8)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 9)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 9)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 9)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 9)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 9)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 9)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 9)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 9)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 9)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 9)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.
+What is the primary function of a DNS server (Set 10)?
+A. To assign IP addresses to devices
+B. To translate domain names into IP addresses
+C. To provide firewall protection
+B
+DNS servers resolve domain names like www.example.com into IP addresses for client devices.
+Which command is used to view the current IP configuration in Windows (Set 10)?
+A. ipconfig
+B. ifconfig
+C. netstat
+A
+The 'ipconfig' command displays IP address, subnet mask, and gateway on Windows systems.
+Which Linux command is used to change file permissions (Set 10)?
+A. chmod
+B. chperm
+C. lsmod
+A
+'chmod' changes file permission settings in Unix/Linux environments.
+What is Active Directory primarily used for (Set 10)?
+A. Managing databases
+B. Web hosting
+C. Managing users and resources in a Windows domain
+C
+Active Directory is a directory service for Windows domain networks that handles authentication and authorization.
+Which port does SSH use by default (Set 10)?
+A. 21
+B. 22
+C. 23
+B
+SSH (Secure Shell) uses port 22 to securely access remote computers.
+Which command in Linux is used to monitor system resource usage in real-time (Set 10)?
+A. ps
+B. top
+C. kill
+B
+'top' provides a real-time view of system processes and resource usage.
+What is RAID 1 used for (Set 10)?
+A. Striping data across multiple drives
+B. Mirroring data across two or more disks
+C. Parity-based error checking
+B
+RAID 1 provides redundancy by duplicating the same data on two disks.
+Which protocol is used for sending emails (Set 10)?
+A. FTP
+B. SMTP
+C. SNMP
+B
+SMTP (Simple Mail Transfer Protocol) is used for sending emails between servers.
+What does the 'ping' command do (Set 10)?
+A. Lists all connected devices
+B. Measures packet loss between systems
+C. Tests connectivity between two network devices
+C
+'ping' sends ICMP echo requests to check if a host is reachable over the network.
+What is the role of a firewall (Set 10)?
+A. Encrypt files
+B. Monitor CPU usage
+C. Control incoming and outgoing network traffic
+C
+Firewalls enforce network security policies by filtering traffic.

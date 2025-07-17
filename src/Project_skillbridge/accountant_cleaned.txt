@@ -1,0 +1,600 @@
+What does GAAP stand for (Set 1)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 1)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 1)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 1)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 1)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 1)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 1)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 1)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 1)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 1)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 2)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 2)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 2)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 2)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 2)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 2)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 2)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 2)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 2)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 2)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 3)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 3)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 3)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 3)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 3)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 3)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 3)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 3)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 3)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 3)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 4)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 4)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 4)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 4)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 4)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 4)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 4)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 4)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 4)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 4)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 5)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 5)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 5)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 5)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 5)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 5)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 5)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 5)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 5)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 5)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 6)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 6)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 6)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 6)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 6)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 6)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 6)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 6)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 6)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 6)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 7)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 7)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 7)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 7)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 7)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 7)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 7)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 7)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 7)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 7)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 8)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 8)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 8)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 8)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 8)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 8)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 8)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 8)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 8)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 8)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 9)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 9)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 9)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 9)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 9)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 9)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 9)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 9)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 9)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 9)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.
+What does GAAP stand for (Set 10)?
+A. General Accepted Auditing Principles
+B. Generally Accepted Accounting Principles
+C. Governmental Accounting and Auditing Protocol
+B
+GAAP provides a standard framework of guidelines for financial accounting used in any given jurisdiction.
+Which financial statement shows a company’s assets, liabilities, and equity (Set 10)?
+A. Income Statement
+B. Cash Flow Statement
+C. Balance Sheet
+C
+The Balance Sheet provides a snapshot of a company’s financial condition at a specific point in time.
+Which accounting concept assumes that a business will continue to operate indefinitely (Set 10)?
+A. Matching Concept
+B. Going Concern Concept
+C. Accrual Concept
+B
+The Going Concern Concept assumes the entity will remain in business for the foreseeable future.
+Which book is used for initial recording of financial transactions (Set 10)?
+A. Ledger
+B. Journal
+C. Trial Balance
+B
+Transactions are first recorded in the Journal before being posted to the Ledger.
+What is depreciation (Set 10)?
+A. An increase in the value of an asset
+B. Allocation of the cost of an asset over its useful life
+C. A method to increase profit
+B
+Depreciation spreads the cost of a tangible asset over its useful lifespan.
+Which entry records the earning of interest revenue (Set 10)?
+A. Debit Interest Revenue, Credit Cash
+B. Debit Cash, Credit Interest Revenue
+C. Debit Expense, Credit Revenue
+B
+Interest received increases cash and revenue, so Cash is debited and Interest Revenue is credited.
+What does IFRS stand for (Set 10)?
+A. International Financial Reporting Standards
+B. Internal Finance Regulation Standards
+C. Indian Finance and Reporting System
+A
+IFRS are international standards for preparing and presenting financial statements.
+What type of account is 'Accounts Receivable' (Set 10)?
+A. Liability
+B. Asset
+C. Expense
+B
+'Accounts Receivable' is an asset because it represents money owed to the business.
+Which financial statement reports revenue and expenses over a period of time (Set 10)?
+A. Income Statement
+B. Balance Sheet
+C. Bank Reconciliation
+A
+The Income Statement summarizes income and expenses to determine net profit or loss.
+What is the double-entry rule for every transaction (Set 10)?
+A. Debit one account, credit another
+B. Only credit an account
+C. Only debit an account
+A
+The double-entry system ensures every transaction affects at least two accounts, maintaining balance.

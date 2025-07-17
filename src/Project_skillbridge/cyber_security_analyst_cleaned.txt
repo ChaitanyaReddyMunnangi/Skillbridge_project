@@ -1,0 +1,600 @@
+What is the primary purpose of a firewall (Set 1)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 1)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 1)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 1)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 1)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 1)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 1)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 1)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 1)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 1)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 2)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 2)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 2)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 2)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 2)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 2)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 2)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 2)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 2)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 2)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 3)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 3)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 3)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 3)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 3)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 3)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 3)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 3)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 3)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 3)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 4)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 4)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 4)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 4)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 4)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 4)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 4)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 4)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 4)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 4)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 5)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 5)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 5)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 5)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 5)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 5)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 5)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 5)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 5)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 5)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 6)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 6)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 6)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 6)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 6)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 6)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 6)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 6)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 6)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 6)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 7)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 7)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 7)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 7)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 7)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 7)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 7)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 7)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 7)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 7)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 8)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 8)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 8)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 8)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 8)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 8)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 8)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 8)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 8)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 8)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 9)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 9)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 9)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 9)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 9)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 9)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 9)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 9)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 9)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 9)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.
+What is the primary purpose of a firewall (Set 10)? 
+A. Monitor employee activity
+B. Block spam emails
+C. Control and filter incoming and outgoing network traffic
+C
+A firewall acts as a barrier that inspects and filters network traffic based on security rules.
+What does the term 'phishing' refer to (Set 10)?
+A. Physical theft of hardware
+B. Attempting to obtain sensitive information by pretending to be a trustworthy source
+C. Encrypting data for secure storage
+B
+Phishing attacks trick users into revealing personal information like passwords or credit card numbers.
+Which protocol is used to securely transfer files over a network (Set 10)?
+A. FTP
+B. HTTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is a zero-day vulnerability (Set 10)?
+A. A vulnerability that affects zero users
+B. A vulnerability discovered by hackers after it is patched
+C. A newly discovered vulnerability that has no patch yet
+C
+A zero-day vulnerability is unknown to the vendor and lacks a fix, making it especially dangerous.
+What does 2FA stand for in cybersecurity (Set 10)?
+A. Two-Factor Authentication
+B. File Access Authorization
+C. Firewall Access
+A
+Two-Factor Authentication adds an extra layer of security by requiring a second form of verification.
+What is a DDoS attack (Set 10)?
+A. Disabling firewalls
+B. Sending a large volume of traffic to overwhelm a server or network
+C. Monitoring email communications
+B
+Distributed Denial-of-Service (DDoS) attacks disrupt services by overwhelming systems with traffic.
+What is the purpose of encryption (Set 10)?
+A. To compress files
+B. To hide files from the user
+C. To protect data confidentiality by converting it into unreadable form
+C
+Encryption transforms data into a coded form to prevent unauthorized access.
+Which of the following is a strong password example (Set 10)?
+A. password123
+B. Qw!9$gT8#bM
+C. johnsmith
+B
+Strong passwords use a mix of upper/lowercase letters, numbers, and special characters.
+What does 'VPN' stand for (Set 10)?
+A. Virtual Private Network
+B. Verified Packet Network
+C. Variable Protocol Node
+A
+A VPN creates a secure, encrypted tunnel over the internet for private communication.
+What is social engineering in the context of cybersecurity (Set 10)?
+A. Encrypting user data
+B. Physically securing servers
+C. Manipulating people into revealing confidential information
+C
+Social engineering exploits human psychology rather than technical vulnerabilities.

@@ -1,0 +1,600 @@
+What is the primary ingredient that gives concrete its strength (Set 1)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 1)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 1)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 1)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 1)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 1)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 1)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 1)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 1)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 1)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 2)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 2)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 2)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 2)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 2)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 2)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 2)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 2)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 2)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 2)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 3)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 3)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 3)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 3)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 3)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 3)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 3)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 3)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 3)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 3)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 4)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 4)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 4)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 4)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 4)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 4)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 4)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 4)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 4)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 4)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 5)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 5)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 5)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 5)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 5)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 5)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 5)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 5)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 5)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 5)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 6)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 6)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 6)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 6)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 6)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 6)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 6)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 6)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 6)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 6)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 7)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 7)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 7)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 7)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 7)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 7)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 7)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 7)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 7)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 7)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 8)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 8)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 8)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 8)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 8)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 8)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 8)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 8)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 8)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 8)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 9)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 9)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 9)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 9)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 9)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 9)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 9)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 9)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 9)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 9)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.
+What is the primary ingredient that gives concrete its strength (Set 10)?
+A. Water
+B. Cement
+C. Sand
+B
+Cement acts as the binding agent in concrete and provides compressive strength.
+Which type of foundation is generally used for high-rise buildings (Set 10)?
+A. Shallow Foundation
+B. Mat Foundation
+C. Deep Foundation
+C
+Deep foundations such as pile foundations are used where soil bearing capacity is low.
+What is the standard compressive strength of M20 grade concrete after 28 days (Set 10)?
+A. 10 MPa
+B. 15 MPa
+C. 20 MPa
+C
+M20 grade concrete achieves 20 MPa compressive strength after 28 days of curing.
+Which IS code is used for concrete mix design (Set 10)?
+A. IS 456
+B. IS 10262
+C. IS 800
+B
+IS 10262 provides guidelines for designing concrete mixes.
+Which surveying instrument is used to measure horizontal and vertical angles (Set 10)?
+A. Theodolite
+B. Dumpy Level
+C. Compass
+A
+Theodolite is a precision instrument used for measuring angles in horizontal and vertical planes.
+What is the main function of a retaining wall (Set 10)?
+A. To store water
+B. To support vertical slopes of soil
+C. To allow drainage
+B
+Retaining walls are used to prevent soil erosion and hold back soil at different elevations.
+What is the unit of measurement for steel reinforcement bars (Set 10)?
+A. Square meter
+B. Cubic meter
+C. Kilogram
+C
+Steel bars are measured in kilograms or tonnes based on their weight.
+Which of the following is a non-destructive test for concrete (Set 10)?
+A. Rebound Hammer Test
+B. Slump Test
+C. Tensile Strength Test
+A
+The Rebound Hammer Test evaluates surface hardness and strength without damaging the concrete.
+What does the term 'curing' refer to in concrete construction (Set 10)?
+A. Cutting concrete surfaces
+B. Keeping concrete moist to gain strength
+C. Painting concrete surfaces
+B
+Curing is essential for hydration of cement, which gives concrete its strength.
+Which software is commonly used for structural design in civil engineering (Set 10)?
+A. AutoCAD
+B. Revit
+C. STAAD.Pro
+C
+STAAD.Pro is widely used for structural analysis and design of buildings and infrastructure.

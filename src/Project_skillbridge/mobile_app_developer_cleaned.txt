@@ -1,0 +1,600 @@
+Which programming language is primarily used for Android app development (Set 1)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 1)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 1)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 1)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 1)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 1)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 1)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 1)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 1)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 1)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 2)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 2)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 2)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 2)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 2)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 2)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 2)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 2)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 2)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 2)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 3)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 3)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 3)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 3)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 3)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 3)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 3)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 3)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 3)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 3)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 4)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 4)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 4)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 4)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 4)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 4)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 4)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 4)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 4)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 4)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 5)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 5)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 5)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 5)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 5)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 5)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 5)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 5)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 5)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 5)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 6)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 6)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 6)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 6)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 6)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 6)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 6)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 6)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 6)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 6)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 7)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 7)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 7)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 7)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 7)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 7)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 7)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 7)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 7)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 7)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 8)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 8)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 8)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 8)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 8)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 8)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 8)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 8)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 8)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 8)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 9)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 9)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 9)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 9)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 9)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 9)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 9)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 9)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 9)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 9)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.
+Which programming language is primarily used for Android app development (Set 10)?
+A. Swift
+B. Kotlin
+C. JavaScript
+B
+Kotlin is the preferred modern language for Android app development, officially supported by Google.
+Which tool is used to design and develop iOS applications (Set 10)?
+A. Android Studio
+B. Visual Studio Code
+C. Xcode
+C
+Xcode is Apple’s official IDE for developing iOS and macOS applications.
+What is the role of XML in Android development (Set 10)?
+A. It defines logic for apps
+B. It is used to design UI layout
+C. It stores user credentials
+B
+XML is used in Android to define UI layouts, resources, and configurations.
+Which framework allows building native mobile apps using JavaScript (Set 10)?
+A. React Native
+B. Bootstrap
+C. Laravel
+A
+React Native enables building mobile apps using JavaScript and React, compiling to native code.
+What does APK stand for (Set 10)?
+A. Android Permission Key
+B. Application Package
+C. App Programming Kit
+B
+APK (Android Package) is the file format used to distribute and install Android applications.
+Which method is used to launch a new Activity in Android (Set 10)?
+A. startActivity()
+B. launchActivity()
+C. newActivity()
+A
+'startActivity()' is used in Android to launch a new screen (Activity).
+What is Flutter (Set 10)?
+A. A version control system
+B. A UI toolkit for building cross-platform apps
+C. A game engine
+B
+Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Which language is primarily used with Flutter (Set 10)?
+A. Dart
+B. Java
+C. Kotlin
+A
+Flutter uses Dart as its primary programming language.
+What is the use of Gradle in Android development (Set 10)?
+A. Designing UI
+B. Building and managing dependencies
+C. Debugging code
+B
+Gradle automates the build process and manages dependencies in Android projects.
+Which lifecycle method is called when an Activity becomes visible to the user (Set 10)?
+A. onStop()
+B. onResume()
+C. onCreate()
+B
+'onResume()' is triggered when an activity comes to the foreground and becomes interactive.

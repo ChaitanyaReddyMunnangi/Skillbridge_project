@@ -1,0 +1,1134 @@
+What does HTML stand for?
+A. HyperText Markup Language
+B. Hyperlinks and Text Markup Language
+C. Home Tool Markup Language
+A
+HTML is the standard markup language for creating web pages.
+Which HTML tag is used to define an internal stylesheet?
+A. <script>
+B. <style>
+C. <link>
+B
+The <style> tag is used to define CSS rules within an HTML document.
+What does CSS stand for?
+A. Creative Style Sheets
+B. Cascading Style Sheets
+C. Computer Style Sheets
+B
+CSS is used for describing the presentation of a document written in HTML.
+Which CSS property is used to change the font of an element?
+A. text-font
+B. font-family
+C. font-style
+B
+The font-family property specifies the font for an element.
+Which JavaScript method is used to write directly into an HTML output stream?
+A. console.log()
+B. document.write()
+C. alert()
+B
+document.write() writes HTML expressions or JavaScript code to a document.
+Which HTTP method is typically used to retrieve data from a server?
+A. POST
+B. PUT
+C. GET
+C
+GET requests are used to request data from a specified resource.
+What is the purpose of the <head> section in an HTML document?
+A. To display content to the user
+B. To contain metadata about the HTML document
+C. To define the main content area
+B
+The <head> section contains information like page title, character set, stylesheets, etc.
+Which CSS selector targets all <p> elements that are direct children of a <div>?
+A. div p
+B. div > p
+C. div + p
+B
+The child selector (>) selects elements that are direct children of a specified element.
+How do you declare a constant variable in JavaScript?
+A. var
+B. let
+C. const
+C
+The 'const' keyword declares a block-scoped named constant.
+What is a 'responsive web design'?
+A. A design that only works on desktop computers
+B. A design approach that ensures web pages render well on a variety of devices and window or screen sizes
+C. A design that loads very quickly
+B
+Responsive design adapts the layout to the user's screen size.
+Which HTML5 semantic element is typically used for navigation links?
+A. <section>
+B. <nav>
+C. <aside>
+B
+The <nav> element represents a section of a page that contains navigation links.
+Which CSS property sets the order of flex items in a flex container?
+A. align-items
+B. justify-content
+C. order
+C
+The 'order' property specifies the order of a flexible item relative to the rest of the flex items inside the same container.
+What is the DOM in web development?
+A. Document Object Model - a programming interface for HTML and XML documents
+B. Data Object Management - a database system
+C. Document Order Mechanism - for HTML parsing
+A
+The DOM represents the page structure as a tree of objects that can be manipulated by scripts.
+Which HTML tag is used to embed video content?
+A. <media>
+B. <video>
+C. <movie>
+B
+The <video> tag is used to embed video on a web page.
+Which CSS property is used to add shadows to boxes?
+A. text-shadow
+B. element-shadow
+C. box-shadow
+C
+The box-shadow property adds shadow effects around an element's frame.
+What does AJAX stand for?
+A. Asynchronous JavaScript and XML
+B. Advanced JavaScript and XHTML
+C. Asynchronous JSON and XML
+A
+AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes.
+Which HTML tag is used to display a smaller amount of content on the side, like a sidebar?
+A. <section>
+B. <article>
+C. <aside>
+C
+The <aside> element represents a portion of a document whose content is only indirectly related to the document's main content.
+Which CSS property is used to make text bold?
+A. font-style
+B. font-weight
+C. text-decoration
+B
+The font-weight property sets the thickness (or boldness) of the characters in the text.
+What is the purpose of 'localStorage' in JavaScript?
+A. To store data on the server side
+B. To store data in the browser with no expiration date
+C. To store temporary session data
+B
+localStorage allows web applications to store data locally within the user's browser.
+What is the purpose of 'viewport' meta tag in HTML?
+A. To define the content of the page
+B. To control the layout of the page on mobile browsers
+C. To set the background image
+B
+The viewport meta tag is essential for responsive web design.
+Which HTML element defines a table header?
+A. <td>
+B. <th>
+C. <tr>
+B
+The <th> tag defines a header cell in an HTML table.
+Which CSS unit is relative to the width of the viewport?
+A. vw
+B. vh
+C. em
+A
+vw (viewport width) is 1/100th of the viewport's width.
+What is 'event bubbling' in JavaScript?
+A. Events starting at the target element and propagating upwards through the DOM tree
+B. Events starting at the document root and propagating downwards
+C. Events only occurring on the target element
+A
+Event bubbling is the default behavior for event propagation in the DOM.
+Which HTML tag represents the main content of the <body> of a document?
+A. <section>
+B. <article>
+C. <main>
+C
+The <main> element represents the dominant content of the <body>.
+Which CSS property is used to specify the type of cursor to be displayed?
+A. pointer
+B. cursor
+C. mouse
+B
+The 'cursor' property defines the mouse cursor to be displayed when pointing over an element.
+What is the role of a web server?
+A. To store database files only
+B. To serve web pages and other web content to clients
+C. To execute client-side scripts
+B
+A web server processes HTTP requests from clients and delivers web content.
+Which HTML attribute is used to group related elements in a form?
+A. <fieldset>
+B. <group>
+C. <formgroup>
+A
+The <fieldset> element is used to group related elements in a web form.
+Which CSS selector targets elements based on their attribute values?
+A. #id
+B. .class
+C. [attribute='value']
+C
+Attribute selectors allow styling based on the presence or value of an attribute.
+What is 'hoisting' in JavaScript?
+A. A type of error
+B. The default behavior of moving declarations to the top of their scope (either the global or function scope)
+C. A way to load external scripts
+B
+Hoisting means variable and function declarations are processed before any code is executed.
+Which HTML tag is used to define an ordered list?
+A. <ul>
+B. <ol>
+C. <li>
+B
+The <ol> tag defines an ordered (numbered) list.
+Which CSS property is used to control the spacing between letters?
+A. line-height
+B. word-spacing
+C. letter-spacing
+C
+letter-spacing controls the space between characters.
+What is the 'box model' in CSS?
+A. A 3D rendering technique
+B. A conceptual model that defines how HTML elements are structured and how space is distributed around them (content, padding, border, margin)
+C. A model for organizing JavaScript files
+B
+The CSS box model is fundamental to layout and spacing.
+Which JavaScript method is used to select an HTML element by its ID?
+A. getElementByClass()
+B. querySelector()
+C. getElementById()
+C
+getElementById() is a common method to access a specific element by its unique ID.
+What is a 'favicon'?
+A. A large image on a web page
+B. A small icon displayed in the browser tab or bookmark list
+C. A type of web font
+B
+Favicons help users identify your website.
+Which CSS property is used to make text uppercase?
+A. text-transform: uppercase;
+B. font-case: upper;
+C. text-style: capitalize;
+A
+text-transform property converts text to uppercase, lowercase, or capitalizes.
+What is the role of 'Node.js' in web development?
+A. A frontend JavaScript framework
+B. A JavaScript runtime environment that allows JavaScript to be run on the server-side
+C. A CSS preprocessor
+B
+Node.js enables full-stack JavaScript development.
+Which HTML attribute is used to specify the source of an image?
+A. href
+B. link
+C. src
+C
+The 'src' attribute defines the URL of the image file.
+Which CSS pseudo-class matches elements when the user mouses over them?
+A. :active
+B. :hover
+C. :focus
+B
+The :hover pseudo-class is commonly used for interactive effects.
+What is 'closure' in JavaScript?
+A. A function that has no parameters
+B. A function that remembers its lexical scope even when executed outside that scope
+C. A way to close a web page
+B
+Closures allow functions to access variables from an outer function's scope.
+Which HTML element is used for a section of a document that groups related content, and typically has a heading?
+A. <div>
+B. <section>
+C. <article>
+B
+The <section> element is a generic standalone section of a document, which doesn't have a more specific semantic element to represent it.
+Which CSS property is used to specify the background image for an element?
+A. image-background
+B. background-image
+C. bg-image
+B
+The 'background-image' property sets one or more background images for an element.
+What is 'localStorage.clear()' used for?
+A. To clear all data from sessionStorage
+B. To clear all key/value pairs from localStorage for the current domain
+C. To clear browser history
+B
+This method removes all stored items.
+Which HTML tag is used to create a definition list?
+A. <dl>
+B. <list>
+C. <dd>
+A
+The <dl> tag defines a definition list, with <dt> for terms and <dd> for definitions.
+Which CSS property specifies the type of positioning method used for an element?
+A. display
+B. float
+C. position
+C
+The 'position' property specifies the type of positioning method (static, relative, absolute, fixed, or sticky).
+What is the primary difference between '==' and '===' in JavaScript?
+A. '==' checks only value, '===' checks value and type
+B. '==' checks value and type, '===' checks only value
+C. No difference, they are identical
+A
+Strict equality (===) is generally preferred to avoid unexpected type coercion.
+Which HTML element defines a distinct piece of content that is complete and independent, like a blog post or news article?
+A. <section>
+B. <article>
+C. <div>
+B
+The <article> element represents a self-contained composition in a document.
+Which CSS property adds a space between the border and the content of an element?
+A. margin
+B. padding
+C. border-spacing
+B
+Padding creates space inside the element's border.
+What does 'npm' stand for in web development?
+A. Node Package Manager
+B. New Project Maker
+C. Network Process Module
+A
+npm is the default package manager for Node.js and a common tool for JavaScript projects.
+Which HTML tag is used for the smallest heading?
+A. <h1>
+B. <h7>
+C. <h6>
+C
+<h6> is the smallest heading tag.
+Which CSS property is used to set the text alignment?
+A. text-position
+B. align-text
+C. text-align
+C
+text-align sets the horizontal alignment of the inline-level content.
+What is a 'Callback Function' in JavaScript?
+A. A function that runs immediately
+B. A function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action
+C. A function that calls itself recursively
+B
+Callbacks are fundamental to asynchronous programming in JavaScript.
+Which HTML element provides a container for content that forms a distinct part of a document's flow, but has no semantic meaning?
+A. <section>
+B. <article>
+C. <div>
+C
+The <div> element is a generic block-level container.
+Which CSS property is used to specify the flexibility of a flex item?
+A. flex-grow
+B. flex-shrink
+C. flex
+C
+The 'flex' shorthand property sets the flexibility of a flex item.
+What is 'ECMAScript'?
+A. A JavaScript library
+B. A standardized specification of the JavaScript language
+C. A CSS preprocessor
+B
+ECMAScript defines the language syntax and semantics.
+Which HTML attribute is used to make an input field mandatory?
+A. validate
+B. required
+C. mustfill
+B
+The 'required' attribute ensures the field must be filled before submission.
+Which CSS display property makes an element behave like a block element but allows other elements to sit on the same line?
+A. block
+B. inline
+C. inline-block
+C
+inline-block combines block-level and inline-level characteristics.
+What is the purpose of 'transpilers' (e.g., Babel) in web development?
+A. To convert JavaScript to another language
+B. To convert modern JavaScript code (e.g., ES6+) into older, compatible versions (e.g., ES5) for broader browser support
+C. To optimize CSS files
+B
+Transpilers ensure compatibility across different browser environments.
+Which HTML tag is used to create a line break?
+A. <lb>
+B. <br>
+C. <break>
+B
+The <br> tag inserts a single line break.
+Which CSS property sets the order of the source of styles for an element (inline, internal, external)?
+A. cascade
+B. specificity
+C. inheritance
+B
+Specificity determines which CSS rule applies when multiple rules could apply to an element.
+What is 'sessionStorage' in JavaScript?
+A. To store data persistently in the browser
+B. To store data for only one session (data is lost when the browser tab is closed)
+C. To store data on the server
+B
+sessionStorage provides temporary storage for session-specific data.
+Which HTML tag is used for embedding executable content or interactive content such as plug-ins?
+A. <script>
+B. <embed>
+C. <object>
+B
+The <embed> tag is used as a container for external content, typically external applications or interactive content.
+Which CSS property applies a shadow effect around a text?
+A. box-shadow
+B. text-shadow
+C. font-shadow
+B
+text-shadow adds shadows to text.
+What is 'Virtual DOM' in React?
+A. A direct manipulation of the browser's DOM
+B. A lightweight JavaScript object tree that is a representation of the browser's DOM, used for efficient updates
+C. A server-side rendering technique
+B
+Virtual DOM minimizes direct manipulation of the slow browser DOM for performance.
+Which HTML tag is used to define a client-side script (JavaScript)?
+A. <javascript>
+B. <script>
+C. <js>
+B
+The <script> tag is used to embed or reference executable code, typically JavaScript.
+Which CSS property is used to make text italic?
+A. font-weight
+B. font-style
+C. text-decoration
+B
+The font-style property sets the style of the font, such as normal, italic, or oblique.
+What is a 'polyfill' in web development?
+A. A tool to compress JavaScript code
+B. A piece of code (or plugin) that provides a modern functionality on older browsers that do not natively support it
+C. A method for debugging web applications
+B
+Polyfills ensure modern features work in older environments.
+Which HTML attribute is used to provide an advisory text for an element, often displayed as a tooltip?
+A. hint
+B. description
+C. title
+C
+The 'title' attribute provides extra information about an element.
+Which CSS property defines the space between cells in a table?
+A. cell-padding
+B. border-spacing
+C. table-gap
+B
+border-spacing specifies the distance between the borders of adjacent cells in a table.
+What is the purpose of 'use strict' in JavaScript?
+A. To enable strict HTML parsing
+B. To enforce stricter parsing and error handling in JavaScript code, helping to write 'safer' code
+C. To prevent external scripts from running
+B
+It catches common coding mistakes and 'unsafe' actions.
+Which HTML tag defines a footer for a document or section?
+A. <bottom>
+B. <footer>
+C. <end>
+B
+The <footer> element typically contains authorship information, copyright data, or contact information.
+Which CSS property is used for controlling the stacking order of positioned elements?
+A. order
+B. index
+C. z-index
+C
+z-index specifies the stack order of an element.
+What is 'Webpack'?
+A. A JavaScript library for DOM manipulation
+B. A module bundler for JavaScript applications that compiles modules into a single (or few) files
+C. A CSS framework
+B
+Webpack is widely used for bundling assets in modern web applications.
+Which HTML tag is used to create a button?
+A. <click>
+B. <button>
+C. <input type='button'>
+B
+The <button> tag is the preferred way to create buttons in HTML5.
+Which CSS selector matches elements that are typically used to mark up short phrases or lines of text that are within a larger flow of text?
+A. block-level elements
+B. inline-level elements
+C. flex items
+B
+Inline elements (like <span>, <a>) do not start on a new line.
+What is 'Server-Side Rendering (SSR)' in web development?
+A. Rendering content directly in the browser using JavaScript
+B. Rendering the HTML on the server and sending a fully rendered page to the client
+C. Rendering content using only CSS
+B
+SSR can improve initial page load times and SEO.
+Which HTML tag defines metadata about an HTML document, like character set or viewport settings?
+A. <meta>
+B. <head>
+C. <info>
+A
+The <meta> tag provides metadata that isn't included in other HTML tags.
+Which CSS property is used to specify a flexible container?
+A. display: grid;
+B. display: flex;
+C. display: inline;
+B
+display: flex; creates a flex container and enables flexbox layout.
+What is 'Asynchronous JavaScript'?
+A. Code that executes sequentially, one line after another
+B. Code that can run in the background without blocking the main execution thread, often involving callbacks, Promises, or async/await
+C. JavaScript that only runs on the server
+B
+Asynchronous operations are crucial for non-blocking I/O in web browsers.
+Which HTML attribute is used to specify a CSS class for an element?
+A. id
+B. class
+C. style
+B
+The 'class' attribute assigns one or more class names to an element.
+Which CSS property sets the background color of an element?
+A. color
+B. bg-color
+C. background-color
+C
+The 'background-color' property sets the solid background color.
+What is the primary role of a 'router' in a Single Page Application (SPA)?
+A. To manage database connections
+B. To handle navigation between different views/components without full page reloads
+C. To process server-side logic
+B
+Routers allow SPAs to simulate traditional multi-page navigation.
+Which HTML tag is used to include an external JavaScript file?
+A. <script src='script.js'></script>
+B. <link rel='script' href='script.js'>
+C. <javascript href='script.js'></javascript>
+A
+The 'src' attribute of the <script> tag specifies the URL of an external script.
+Which CSS property is used to create rounded corners for an element?
+A. corner-radius
+B. border-radius
+C. round-corner
+B
+border-radius sets the radius of the element's corners.
+What is 'CORS' in web development?
+A. Common Object Request Syntax
+B. Cross-Origin Resource Sharing - a mechanism that allows a web page to make requests to a different domain than the one from which it originated
+C. Client-Origin Request System
+B
+CORS is a security feature implemented by web browsers to prevent malicious cross-origin requests.
+Which HTML attribute provides a unique identifier for an HTML element?
+A. class
+B. name
+C. id
+C
+The 'id' attribute must be unique within an HTML document.
+Which CSS property controls the visibility of an element?
+A. display
+B. opacity
+C. visibility
+C
+The 'visibility' property hides or shows an element without affecting its layout.
+What is 'JSON' in web development?
+A. JavaScript Object Notation - a lightweight data-interchange format
+B. Java Standard Object Network - a protocol for Java applications
+C. Joint Object Naming System - a naming convention for objects
+A
+JSON is commonly used for transmitting data between a server and web application.
+Which HTML element defines a preformatted text?
+A. <text>
+B. <pre>
+C. <format>
+B
+The <pre> tag preserves both spaces and line breaks.
+Which CSS property is used to create space outside the border of an element?
+A. padding
+B. margin
+C. spacing
+B
+Margin creates space around elements.
+What is a 'Promise' in JavaScript?
+A. A guarantee that a function will run synchronously
+B. An object representing the eventual completion or failure of an asynchronous operation and its resulting value
+C. A type of loop
+B
+Promises simplify asynchronous code and avoid 'callback hell'.
+Which HTML element is used to provide the user with feedback (e.g., progress bar)?
+A. <output>
+B. <meter>
+C. <progress>
+C
+The <progress> element represents the completion progress of a task.
+Which CSS property is used to set the text color?
+A. font-color
+B. color
+C. text-style
+B
+The 'color' property sets the foreground color of an element's text.
+What is 'RESTful API'?
+A. An API that processes data in batches
+B. An architectural style for building web services that uses HTTP requests to access and use data
+C. An API for building desktop applications only
+B
+RESTful APIs use standard HTTP methods (GET, POST, PUT, DELETE) and stateless operations.
+Which HTML tag is used to create a dropdown list?
+A. <list>
+B. <select>
+C. <dropdown>
+B
+The <select> element creates a dropdown list (or multi-select list).
+Which CSS property is used to specify the background color of a table cell?
+A. cell-bgcolor
+B. background-color
+C. table-color
+B
+The 'background-color' property applies to any HTML element, including table cells.
+What is 'Arrow Function' in JavaScript (ES6)?
+A. A function that always returns 'null'
+B. A more concise way to write function expressions, not suitable for constructors
+C. A function that points to another function
+B
+Arrow functions have a shorter syntax and lexically bind 'this'.
+Which HTML attribute indicates the target of a link (e.g., _blank for new tab)?
+A. rel
+B. target
+C. type
+B
+The 'target' attribute specifies where the linked document will open.
+Which CSS property is used to control the flow of text around floated elements?
+A. float
+B. clear
+C. overflow
+B
+The 'clear' property specifies what elements can float beside the cleared element and on which side.
+What is 'Progressive Web App (PWA)'?
+A. An old web application technology
+B. A web application that uses modern web capabilities to deliver an app-like user experience, often working offline and with push notifications
+C. A web application that only works on specific browsers
+B
+PWAs aim to bridge the gap between web and native apps.
+Which HTML tag is used to define a bold text without conveying extra semantic importance?
+A. <strong>
+B. <b>
+C. <em>
+B
+The <b> tag bolds text for styling purposes, while <strong> implies importance.
+Which CSS property is used to make an element fixed on the screen, regardless of scrolling?
+A. position: relative;
+B. position: absolute;
+C. position: fixed;
+C
+position: fixed; elements are positioned relative to the viewport.
+What is 'Cross-Site Scripting (XSS)'?
+A. A type of database attack
+B. A web security vulnerability where malicious scripts are injected into otherwise trusted websites
+C. A method for faster JavaScript execution
+B
+XSS can lead to session hijacking, defacement, or redirection to malicious sites.
+Which HTML tag is used to group table rows semantically for styling or scripting purposes?
+A. <tbody>
+B. <thead>
+C. <tfoot>
+A
+The <tbody> element groups the body content of a table.
+Which CSS property defines how an element's content is treated when it overflows its block-level container?
+A. overflow
+B. visible
+C. scroll
+A
+The 'overflow' property specifies whether to clip content, render scrollbars, or simply display overflowed content.
+What is 'Single Page Application (SPA)'?
+A. A web application that loads multiple HTML pages for each view
+B. A web application that loads a single HTML page and dynamically updates content as the user interacts with the app, without requiring a full page reload
+C. An application that only displays text
+B
+SPAs provide a more fluid, app-like experience.
+Which HTML element represents an image map, a graphical menu with clickable areas?
+A. <map>
+B. <area>
+C. <image-map>
+A
+The <map> element is used with the <area> elements to define clickable regions on an image.
+Which CSS property defines the space between lines of text?
+A. letter-spacing
+B. word-spacing
+C. line-height
+C
+line-height sets the amount of space used for lines, effectively controlling vertical spacing.
+What is 'Debouncing' in JavaScript?
+A. A technique to ensure a function is called every time an event fires
+B. A technique to limit the rate at which a function is called, typically only allowing it to execute after a certain amount of time has passed without any further calls
+C. A method for animating elements
+B
+Debouncing is useful for events like resizing, scrolling, or typing in a search box.
+Which HTML tag is used to define the character set of the document?
+A. <charset>
+B. <meta charset='UTF-8'>
+C. <encoding>
+B
+The <meta charset> tag is crucial for correct character display.
+Which CSS property is used to add shadows to elements, including text, without creating a new layer?
+A. filter: drop-shadow();
+B. box-shadow
+C. text-shadow
+A
+filter: drop-shadow() applies a drop shadow to an element's image, not its box model.
+What is 'Throttling' in JavaScript?
+A. A technique to execute a function immediately and repeatedly as fast as possible
+B. A technique to limit the rate at which a function is called to a maximum once per certain time period
+C. A method to prevent function execution
+B
+Throttling is useful for events like resizing or scrolling where you don't need continuous updates.
+Which HTML element is used to embed audio content?
+A. <sound>
+B. <audio>
+C. <music>
+B
+The <audio> tag is used to embed sound content in documents.
+Which CSS property is used to specify the background repeat behavior for an element?
+A. background-position
+B. background-size
+C. background-repeat
+C
+background-repeat controls how background images are repeated.
+What is 'SEO' in web development?
+A. Software Engineering Optimization
+B. Search Engine Optimization - the process of improving the visibility of a website or a web page in a web search engine's unpaid results
+C. System Engineering Operations
+B
+SEO aims to rank higher in search results.
+Which HTML tag is used to embed an SVG image directly into an HTML document?
+A. <svg>
+B. <img>
+C. <picture>
+A
+The <svg> tag can directly embed SVG (Scalable Vector Graphics) markup.
+Which CSS property is used to apply blur, brightness, contrast, grayscale, hue-rotate, invert, opacity, saturate, or sepia visual effects to an element?
+A. transform
+B. filter
+C. transition
+B
+The 'filter' property applies graphical effects to elements.
+What is 'WebSockets'?
+A. A protocol for one-way communication over HTTP
+B. A persistent, full-duplex communication channel over a single TCP connection, allowing real-time data transfer between client and server
+C. A method for caching web pages
+B
+WebSockets are crucial for real-time applications like chat or gaming.
+Which HTML element defines a section of content that introduces a document or a section, often containing a heading and introductory content?
+A. <header>
+B. <nav>
+C. <main>
+A
+The <header> element typically contains introductory content or a set of navigational links.
+Which CSS property is used to control the order of flexible items inside a flex container?
+A. justify-content
+B. align-items
+C. flex-direction
+C
+flex-direction sets how flex items are placed in the flex container.
+What is 'Mutation Observer' in JavaScript?
+A. A feature to detect changes in the browser's URL
+B. A Web API that provides the ability to watch for changes being made to the DOM tree
+C. A tool for tracking user interactions
+B
+Mutation Observer is useful for reacting to dynamic content changes.
+Which HTML attribute is used to provide a tooltip that appears when the user hovers over an element?
+A. data-tooltip
+B. tooltip
+C. title
+C
+The 'title' attribute serves as a simple tooltip.
+Which CSS property is used to specify whether an element should float to the left or right?
+A. position
+B. display
+C. float
+C
+The 'float' property positions an element to the left or right of its container.
+What is 'Localhost'?
+A. A remote server IP address
+B. A hostname that refers to the current computer or machine being used
+C. A public IP address
+B
+Localhost (127.0.0.1) is used for accessing services running on the same machine.
+Which HTML tag is used for the main content area of a document, excluding headers, footers, sidebars, etc.?
+A. <body>
+B. <main>
+C. <section>
+B
+The <main> element is a semantic tag introduced in HTML5.
+Which CSS property is used to define the space between content and padding?
+A. margin
+B. border
+C. padding
+C
+Padding is the space between the element's content and its border.
+What is 'Tree Shaking' in JavaScript bundlers?
+A. A method to remove unused CSS rules
+B. A dead code elimination technique that removes unused modules from the final JavaScript bundle
+C. A way to obfuscate JavaScript code
+B
+Tree shaking helps reduce bundle size for faster loading.
+Which HTML tag is used to create an interactive disclosure widget that reveals or hides content?
+A. <details>
+B. <collapse>
+C. <toggle>
+A
+The <details> element works with the <summary> element to create a disclosure widget.
+Which CSS property is used to specify the appearance of a list item marker (e.g., disc, circle, square, none)?
+A. list-style-type
+B. list-marker
+C. marker-type
+A
+list-style-type defines the marker style for list items.
+What is a 'Service Worker' in web development?
+A. A JavaScript file that runs on the server
+B. A JavaScript file that runs in the background of the browser, enabling features like offline experiences, push notifications, and network request interception
+C. A tool for database management
+B
+Service Workers are key to Progressive Web Apps (PWAs).
+Which HTML attribute is used to group form controls and labels?
+A. <fieldset>
+B. <legend>
+C. <label>
+A
+The <fieldset> element is used to group related elements in a form.
+Which CSS property is used to align flex items along the cross-axis (perpendicular to the main axis)?
+A. justify-content
+B. align-items
+C. align-content
+B
+align-items controls alignment of items within a flex line.
+What is 'SSR (Server-Side Rendering)' primarily beneficial for?
+A. Faster client-side interactions
+B. Initial page load performance and SEO
+C. Reduced server load
+B
+SSR sends fully rendered HTML to the browser, improving the initial paint.
+Which HTML tag is used to embed an interactive map, like from Google Maps?
+A. <map>
+B. <iframe>
+C. <geo>
+B
+The <iframe> element is used to embed another HTML document within the current HTML document.
+Which CSS property defines the width of an element's border?
+A. border-style
+B. border-color
+C. border-width
+C
+border-width sets the thickness of the four borders.
+What is 'Asynchronous Module Definition (AMD)'?
+A. A module format used by Node.js
+B. A module format for JavaScript where modules are loaded asynchronously, improving performance by not blocking the main thread
+C. A standard for defining HTML elements
+B
+AMD is used by loaders like RequireJS.
+Which HTML element is used to define emphasized text?
+A. <i>
+B. <em>
+C. <b>
+B
+The <em> tag renders as italic, and conveys semantic emphasis.
+Which CSS property defines how an element is positioned within the Z-axis (stacking context)?
+A. position
+B. z-index
+C. top
+B
+z-index controls the vertical stacking order.
+What is 'CORS' primarily used to prevent?
+A. Slow website loading
+B. Malicious cross-origin requests due to browser same-origin policy
+C. Server overload
+B
+CORS is a critical web security mechanism.
+Which HTML tag defines a generic section of a document or application?
+A. <article>
+B. <section>
+C. <div>
+C
+The <div> tag is a block-level generic container without special semantic meaning.
+Which CSS property is used to specify the background image for an element?
+A. background-color
+B. background-image
+C. bg-img
+B
+background-image allows setting an image as the background.
+What is 'Flexbox' in CSS?
+A. A layout model for arranging items in a grid
+B. A one-dimensional layout model used for arranging items in rows or columns
+C. A tool for creating responsive images
+B
+Flexbox is ideal for distributing space and aligning items in a container.
+Which HTML element is used to define an abbreviation or an acronym?
+A. <abbr>
+B. <acronym>
+C. <short>
+A
+The <abbr> tag is semantically more correct in HTML5.
+Which CSS property is used to specify the behavior of a list item marker?
+A. list-style
+B. marker-style
+C. list-type
+A
+list-style is a shorthand property for list-style-type, list-style-position, and list-style-image.
+What is the 'Event Loop' in JavaScript?
+A. A loop that iterates through an array
+B. A mechanism that allows JavaScript to perform non-blocking I/O operations by offloading tasks to the system kernel
+C. A loop for handling animations
+B
+The Event Loop ensures that asynchronous operations don't block the main thread.
+Which HTML tag is used to create a hyperlink?
+A. <link>
+B. <href>
+C. <a>
+C
+The <a> (anchor) tag creates a link to another document or resource.
+Which CSS property is used to change the display type of an element (e.g., block, inline, none)?
+A. visibility
+B. display
+C. box-type
+B
+The 'display' property is fundamental for controlling an element's layout behavior.
+What is a 'JavaScript Framework'?
+A. A specific JavaScript library for animations
+B. A collection of pre-written JavaScript code, tools, and guidelines that provides a structured foundation for building complex web applications (e.g., React, Angular, Vue)
+C. A tool for minifying JavaScript files
+B
+Frameworks offer a comprehensive solution for application development.
+Which HTML tag is used to define a small print, often for copyright notices or disclaimers?
+A. <small>
+B. <tiny>
+C. <note>
+A
+The <small> element represents side comments and small print.
+Which CSS property sets the background color of an element?
+A. color
+B. background-color
+C. fill-color
+B
+background-color is used to define the background color.
+What is 'Client-Side Rendering (CSR)'?
+A. Rendering content on the server
+B. Rendering the HTML and content directly in the browser using JavaScript after the initial page load
+C. Rendering content using only CSS
+B
+CSR can provide a faster subsequent page load and rich interactive experiences.
+Which HTML tag is used to add metadata to an HTML document that is not displayed to the user?
+A. <body>
+B. <head>
+C. <meta>
+C
+The <meta> tag contains information about the page itself.
+Which CSS property is used to control the sizing of an image or video, ensuring it scales responsively?
+A. width
+B. max-width
+C. height
+B
+max-width: 100%; is commonly used to make images responsive.
+What is 'Progressive Enhancement' in web design?
+A. Starting with a complex design and simplifying it for older browsers
+B. Starting with a basic, accessible content layer and then adding more advanced features and styling for browsers that support them
+C. Only designing for the latest browsers
+B
+Progressive enhancement ensures a baseline experience for all users and enhanced features for capable browsers.
+Which HTML tag is used to define a range of numbers or a gauge?
+A. <range>
+B. <meter>
+C. <gauge>
+B
+The <meter> tag defines a scalar measurement within a known range.
+Which CSS property is used to specify the alignment of text within its block element?
+A. align-content
+B. vertical-align
+C. text-align
+C
+text-align sets the horizontal alignment of inline content.
+What is 'Cross-Site Request Forgery (CSRF)'?
+A. An attack that exploits server misconfigurations
+B. A web security vulnerability where an attacker tricks a web browser into executing an unwanted action on a trusted site where the user is authenticated
+C. A method for stealing user passwords directly
+B
+CSRF attacks leverage a user's authenticated session.
+Which HTML tag is used to define important text?
+A. <b>
+B. <em>
+C. <strong>
+C
+The <strong> tag indicates strong importance and is usually rendered as bold.
+Which CSS property specifies the initial size of a flex item before any free space is distributed?
+A. flex-basis
+B. flex-grow
+C. flex-shrink
+A
+flex-basis sets the initial size of a flex item.
+What is 'SEO' primarily concerned with?
+A. User Interface Design
+B. Improving website visibility in search engine results
+C. Database Management
+B
+SEO involves optimizing content, keywords, and site structure.
+Which HTML element defines a caption for a <figure> element?
+A. <label>
+B. <figcaption>
+C. <captiontext>
+B
+The <figcaption> element provides a caption or legend for the rest of the contents of its parent <figure>.
+Which CSS property is used to specify the background image for an element?
+A. background-color
+B. background-image
+C. bg-image
+B
+background-image allows setting an image as the background.
+What is 'Web Accessibility'?
+A. Making websites accessible only on certain devices
+B. Designing and developing websites so that people with disabilities can perceive, understand, navigate, and interact with them
+C. Ensuring websites load quickly
+B
+Web accessibility ensures equal access to information and functionality.
+Which HTML tag is used to create a semantic break in content, indicating a thematic change?
+A. <br>
+B. <hr>
+C. <line>
+B
+The <hr> tag represents a thematic break between paragraph-level elements.
+Which CSS property allows you to animate properties over time?
+A. animation
+B. transition
+C. transform
+B
+The 'transition' property provides a way to animate changes in CSS properties.
+What is 'Serverless Architecture' in web development?
+A. Developing web applications without using any servers
+B. An architecture where the cloud provider dynamically manages the allocation and provisioning of servers, allowing developers to focus on writing code without managing infrastructure
+C. An architecture that relies entirely on client-side processing
+B
+Serverless functions (e.g., AWS Lambda, Azure Functions) are a key component.
+Which HTML tag is used for the smallest heading?
+A. <h4>
+B. <h6>
+C. <h0>
+B
+<h6> is the smallest of the heading tags.
+Which CSS property is used to control the space between words?
+A. letter-spacing
+B. word-spacing
+C. line-height
+B
+word-spacing increases or decreases the space between words.
+What is 'Content Delivery Network (CDN)' in web development?
+A. A type of web server hosting
+B. A geographically distributed network of proxy servers and their data centers, used to provide high-availability and high-performance delivery of content to users
+C. A database management system
+B
+CDNs improve website performance by caching content closer to users.
+Which HTML tag defines the root of an HTML document?
+A. <head>
+B. <body>
+C. <html>
+C
+The <html> tag is the container for all other HTML elements (except for the <!DOCTYPE> tag).
+Which CSS property is used to make text underlined?
+A. font-decoration
+B. text-decoration
+C. underline
+B
+text-decoration can apply underlines, overlines, or line-throughs.
+What is 'WebAssembly (Wasm)'?
+A. A new programming language for web development
+B. A low-level binary instruction format for a stack-based virtual machine, designed as a portable compilation target for high-level languages like C, C++, Rust, and more
+C. A JavaScript framework
+B
+Wasm allows running high-performance code on the web.
+Which HTML element defines a section that contains contact information for its nearest <article> or <body> ancestor?
+A. <address>
+B. <contact>
+C. <info>
+A
+The <address> element is used for contact information.
+Which CSS property is used to make an element transparent?
+A. opacity
+B. visibility
+C. display
+A
+The 'opacity' property sets the opacity level for an element.
+What is 'Web Performance Optimization'?
+A. Making web pages look more attractive
+B. The practice of improving the speed and responsiveness of web pages and applications
+C. Ensuring web pages are only accessible on fast internet connections
+B
+WPO focuses on improving user experience by reducing load times.
+Which HTML tag is used to create a table?
+A. <table>
+B. <td>
+C. <tr>
+A
+The <table> tag defines an HTML table.
+Which CSS pseudo-class matches an element that is being activated by the user (e.g., a button being clicked)?
+A. :hover
+B. :focus
+C. :active
+C
+The :active pseudo-class represents elements (such as buttons) that are being activated by the user.
+What is 'Client-Side Validation'?
+A. Validation performed on the server after form submission
+B. Validation of user input performed in the user's web browser before data is sent to the server
+C. Validation performed by a database
+B
+Client-side validation provides immediate feedback to the user and reduces server load.
+Which HTML tag is used to embed a small piece of code, like a snippet, within the main flow of content?
+A. <pre>
+B. <code>
+C. <script>
+B
+The <code> tag is used to display a short fragment of computer code.
+Which CSS property is used to specify the thickness of a border?
+A. border-style
+B. border-width
+C. border-color
+B
+border-width sets the width for each of the four sides of an element's border.
+What is 'Server-Side Includes (SSI)'?
+A. A client-side scripting language
+B. A simple server-side scripting language that allows you to include content from other files into an HTML document on the server before it is sent to the client
+C. A method for embedding JavaScript
+B
+SSI is used for simple dynamic content generation without a full-blown server-side language.
+Which HTML tag is used to define a citation?
+A. <cite>
+B. <blockquote>
+C. <q>
+A
+The <cite> tag indicates the title of a creative work.
+Which CSS property controls the type of list item marker (e.g., square, circle)?
+A. list-style-image
+B. list-style-position
+C. list-style-type
+C
+list-style-type sets the appearance of the list item marker.
+What is 'Responsive Images'?
+A. Images that change color based on user interaction
+B. Images that are optimized and delivered in different sizes and resolutions based on the user's device, viewport, and network conditions
+C. Images that load very quickly
+B
+Responsive images use srcset and sizes attributes or the <picture> element.
+Which HTML tag is used to define a table row?
+A. <td>
+B. <th>
+C. <tr>
+C
+The <tr> tag defines a row of cells in a table.
+Which CSS property defines the space between the margin and the border?
+A. padding
+B. border-spacing
+C. margin
+C
+Margin is the outermost layer of the box model, creating space around the element.
+What is 'Progressive Rendering'?
+A. Loading all content at once
+B. A technique where the browser renders content as quickly as possible, displaying parts of the page before the entire page is downloaded
+C. Rendering only text content
+B
+Progressive rendering improves the perceived loading speed.
+Which HTML tag is used to define a blockquote?
+A. <q>
+B. <cite>
+C. <blockquote>
+C
+The <blockquote> tag defines a section that is quoted from another source.
+Which CSS property is used to set the font size of text?
+A. text-size
+B. font-size
+C. size
+B
+font-size sets the size of the font.
+What is 'Service Worker Cache API'?
+A. An API for storing data on the server
+B. An API that allows Service Workers to store and retrieve network responses, enabling offline functionality
+C. An API for managing browser history
+B
+The Cache API is crucial for building offline-first web applications.

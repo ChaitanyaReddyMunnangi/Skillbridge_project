@@ -1,0 +1,600 @@
+What is the primary objective of supervised learning (Set 1)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 1)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 1)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 1)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 1)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 1)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 1)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 1)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 1)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 1)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 2)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 2)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 2)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 2)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 2)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 2)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 2)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 2)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 2)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 2)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 3)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 3)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 3)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 3)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 3)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 3)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 3)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 3)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 3)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 3)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 4)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 4)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 4)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 4)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 4)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 4)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 4)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 4)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 4)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 4)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 5)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 5)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 5)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 5)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 5)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 5)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 5)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 5)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 5)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 5)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 6)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 6)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 6)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 6)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 6)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 6)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 6)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 6)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 6)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 6)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 7)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 7)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 7)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 7)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 7)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 7)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 7)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 7)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 7)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 7)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 8)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 8)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 8)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 8)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 8)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 8)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 8)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 8)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 8)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 8)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 9)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 9)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 9)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 9)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 9)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 9)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 9)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 9)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 9)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 9)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.
+What is the primary objective of supervised learning (Set 10)?
+A. To group data without labels
+B. To predict output based on labeled input-output pairs
+C. To discover hidden patterns in data
+B
+Supervised learning uses labeled data to train models that can predict outcomes for unseen inputs.
+Which algorithm is commonly used for classification tasks (Set 10)?
+A. K-Means
+B. Logistic Regression
+C. PCA
+B
+Logistic Regression is widely used for binary and multi-class classification problems.
+What does 'overfitting' mean in machine learning (Set 10)?
+A. Model performs poorly on training data
+B. Model generalizes well
+C. Model memorizes training data and performs poorly on new data
+C
+Overfitting happens when a model learns noise from the training data, reducing performance on unseen data.
+Which library is used for deep learning in Python (Set 10)?
+A. NumPy
+B. TensorFlow
+C. Matplotlib
+B
+TensorFlow is a popular deep learning framework developed by Google for building neural networks.
+What is the activation function in neural networks used for (Set 10)?
+A. Summing input weights
+B. Introducing non-linearity
+C. Normalizing input data
+B
+Activation functions like ReLU and Sigmoid add non-linearity to the network, enabling learning of complex patterns.
+Which of the following is an unsupervised learning technique (Set 10)?
+A. Linear Regression
+B. K-Means Clustering
+C. Decision Trees
+B
+K-Means is an unsupervised learning algorithm used to group data into clusters.
+What is a confusion matrix used for (Set 10)?
+A. To create new features
+B. To measure classification performance
+C. To visualize decision trees
+B
+A confusion matrix shows actual vs predicted classifications and is used to evaluate model accuracy.
+Which metric is used to evaluate regression models (Set 10)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+C
+Mean Squared Error (MSE) measures the average squared difference between actual and predicted values.
+What is the purpose of dropout in deep learning (Set 10)?
+A. To reduce input size
+B. To prevent overfitting
+C. To speed up training
+B
+Dropout randomly disables neurons during training to prevent overfitting and improve generalization.
+Which ML technique is used in recommendation systems (Set 10)?
+A. Reinforcement Learning
+B. Collaborative Filtering
+C. Naive Bayes
+B
+Collaborative Filtering is widely used in building recommendation engines such as those in Netflix or Amazon.

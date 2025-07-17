@@ -1,0 +1,816 @@
+What is 'Cloud Computing'?
+A. Storing data on your local computer
+B. Delivery of on-demand computing services—from applications to storage and processing power—typically over the internet and on a pay-as-you-go basis
+C. Using physical servers in your office
+B
+Cloud computing offers flexible and scalable resources over the internet.
+Which of the following is a core characteristic of cloud computing?
+A. On-premise infrastructure
+B. Pay-as-you-go pricing
+C. Manual resource provisioning
+B
+Pay-as-you-go allows users to pay only for resources consumed.
+What does IaaS stand for?
+A. Identity as a Service
+B. Infrastructure as a Service
+C. Integration as a Service
+B
+IaaS provides virtualized computing resources over the internet.
+Which cloud service model provides you with the most control over the operating system, applications, and network configurations?
+A. PaaS
+B. SaaS
+C. IaaS
+C
+IaaS gives users the highest level of control over infrastructure.
+What does PaaS stand for?
+A. Platform as a Service
+B. Process as a Service
+C. Private as a Service
+A
+PaaS provides a platform for developers to build, run, and manage applications without the complexity of building and maintaining the infrastructure.
+Which cloud service model focuses on providing a platform where developers can deploy and manage applications without worrying about the underlying infrastructure?
+A. IaaS
+B. PaaS
+C. SaaS
+B
+PaaS abstracts away infrastructure concerns for developers.
+What does SaaS stand for?
+A. Software as a Service
+B. Storage as a Service
+C. Security as a Service
+A
+SaaS delivers software applications over the internet on a subscription basis.
+Which cloud service model typically provides ready-to-use software applications over the internet?
+A. IaaS
+B. PaaS
+C. SaaS
+C
+SaaS applications are fully managed by the provider.
+Which of these is a popular example of a SaaS offering?
+A. Amazon EC2
+B. Google App Engine
+C. Gmail
+C
+Gmail is a widely used web-based email service.
+What is a 'Public Cloud'?
+A. A cloud infrastructure operated exclusively for a single organization
+B. A cloud infrastructure provisioned for open use by the general public
+C. A cloud infrastructure shared between multiple organizations
+B
+Public clouds are available to the general public over the internet.
+What is a 'Private Cloud'?
+A. A cloud infrastructure provisioned for open use by the general public
+B. A cloud infrastructure operated exclusively for a single organization
+C. A cloud infrastructure shared between multiple organizations
+B
+Private clouds offer greater control and security for a specific organization.
+What is a 'Hybrid Cloud'?
+A. A cloud infrastructure composed of a single public cloud
+B. A cloud infrastructure composed of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology
+C. A cloud infrastructure used for disaster recovery only
+B
+Hybrid clouds combine the benefits of public and private cloud environments.
+What is a 'Community Cloud'?
+A. A cloud infrastructure operated exclusively for a single organization
+B. A cloud infrastructure shared by several organizations with common concerns (e.g., security requirements, compliance considerations)
+C. A cloud infrastructure provisioned for open use by the general public
+B
+Community clouds are designed for specific groups with shared interests.
+Which characteristic refers to the ability of cloud resources to be rapidly scaled up or down as needed?
+A. Resource Pooling
+B. Rapid Elasticity
+C. Measured Service
+B
+Rapid elasticity allows for quick scaling to meet demand fluctuations.
+Which characteristic means that cloud resources are pooled to serve multiple consumers, with different physical and virtual resources dynamically assigned and reassigned according to demand?
+A. On-demand Self-service
+B. Broad Network Access
+C. Resource Pooling
+C
+Resource pooling ensures efficient multi-tenant use of resources.
+Which characteristic enables consumers to unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider?
+A. On-demand Self-service
+B. Measured Service
+C. Rapid Elasticity
+A
+On-demand self-service provides users with immediate access to resources.
+Which characteristic refers to the availability of cloud capabilities over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, laptops, PDAs)?
+A. Resource Pooling
+B. Broad Network Access
+C. Measured Service
+B
+Broad network access allows cloud services to be accessed from various devices.
+Which characteristic means that cloud systems automatically control and optimize resource usage by leveraging a metering capability at some level of abstraction appropriate to the type of service?
+A. Rapid Elasticity
+B. Broad Network Access
+C. Measured Service
+C
+Measured service allows for transparency and chargeback based on consumption.
+What is a 'Virtual Machine (VM)' in the context of cloud computing?
+A. A physical server
+B. A software-based emulation of a computer system that can run an operating system and applications like a physical computer
+C. A networking device
+B
+VMs are fundamental to IaaS, allowing multiple isolated OS instances on one physical server.
+What is 'Serverless Computing'?
+A. Running applications on physical servers you own
+B. A cloud execution model where the cloud provider dynamically manages the allocation and provisioning of servers, and you only pay for the compute resources consumed
+C. Running applications without any code
+B
+Serverless computing abstracts away server management, allowing developers to focus solely on code.
+Which of these is an example of a serverless computing service?
+A. AWS EC2
+B. Azure Virtual Machines
+C. AWS Lambda
+C
+AWS Lambda is a popular Function-as-a-Service (FaaS) offering.
+What is 'Containers' in cloud computing?
+A. Large physical storage units
+B. Lightweight, portable, and executable software packages that include everything needed to run an application: code, runtime, system tools, system libraries, and settings
+C. Virtual machines with limited functionality
+B
+Containers (like Docker) provide consistency across different environments.
+What is 'Kubernetes' used for?
+A. A database management system
+B. An open-source system for automating deployment, scaling, and management of containerized applications
+C. A programming language
+B
+Kubernetes orchestrates containerized workloads and services.
+What is 'Load Balancing' in cloud computing?
+A. Distributing network traffic across multiple servers to ensure no single server is overloaded
+B. Storing data across multiple regions
+C. Managing database transactions
+A
+Load balancing improves application availability and responsiveness.
+What is a 'Region' in cloud computing (e.g., AWS, Azure, GCP)?
+A. A single data center
+B. A geographical area that contains multiple Availability Zones (data centers)
+C. A virtual network segment
+B
+Regions provide isolation and fault tolerance.
+What is an 'Availability Zone' in cloud computing?
+A. A separate physical location within a Region, with independent power, cooling, and networking
+B. A collection of multiple regions
+C. A logical grouping of virtual machines
+A
+Availability Zones are designed to be isolated from failures in other Availability Zones.
+What is 'Scalability' in cloud computing?
+A. The ability to increase or decrease resources to meet demand
+B. The ability to migrate applications between different clouds
+C. The ability to monitor cloud usage
+A
+Scalability allows systems to handle increased workload by adding resources.
+What is 'Elasticity' in cloud computing?
+A. The ability of a system to maintain performance under increasing load by automatically adding or removing resources
+B. The ability to store large amounts of data
+C. The ability to encrypt data
+A
+Elasticity is a subset of scalability, focusing on automatic and dynamic scaling.
+What is 'Fault Tolerance' in cloud computing?
+A. The ability of a system to continue operating without interruption when one or more of its components fail
+B. The ability to detect errors in code
+C. The ability to prevent all failures
+A
+Fault tolerance ensures high availability and business continuity.
+What is 'Disaster Recovery' in cloud computing?
+A. Recovering from a cyberattack
+B. A set of policies and procedures to enable the recovery or continuation of vital technology infrastructure and systems following a natural or human-induced disaster
+C. Backing up data once a year
+B
+Cloud services often provide robust disaster recovery solutions.
+What is a 'Virtual Private Cloud (VPC)'?
+A. A public cloud instance
+B. A logically isolated section of a public cloud where you can launch resources in a virtual network that you define
+C. A type of private cloud hardware
+B
+VPCs provide a secure and customizable virtual networking environment within a public cloud.
+What is 'Object Storage' in cloud computing?
+A. Storage for frequently accessed files
+B. A storage architecture that manages data as objects, offering high scalability, durability, and availability, often used for unstructured data
+C. Block-level storage for databases
+B
+Object storage (like AWS S3) is ideal for large amounts of unstructured data.
+What is 'Block Storage' in cloud computing?
+A. Storage for archives
+B. A type of storage where data is stored in fixed-size blocks, commonly used for databases and virtual machines that require high performance and low latency
+C. Storage for media files
+B
+Block storage is analogous to traditional hard drives and is suitable for operating systems and databases.
+What is 'File Storage' in cloud computing?
+A. Storage that requires direct attachment to a server
+B. A hierarchical storage system that organizes data into files and folders, accessible via network file system protocols like NFS or SMB
+C. Storage optimized for object data
+B
+File storage is suitable for shared network drives and collaborative workflows.
+What is a 'Content Delivery Network (CDN)' in cloud computing?
+A. A network for delivering internal company data only
+B. A geographically distributed network of proxy servers and their data centers, used to provide high-availability and high-performance delivery of content to users
+C. A service for content creation
+B
+CDNs cache content closer to end-users, reducing latency.
+What is 'DevOps' in the context of cloud computing?
+A. A programming language
+B. A set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality
+C. A security auditing tool
+B
+DevOps accelerates software delivery and improves collaboration.
+What is 'Cloud Migration'?
+A. Moving data from one cloud provider to another
+B. The process of moving digital assets, applications, and workloads from an on-premise data center to the cloud, or from one cloud to another
+C. Moving applications to physical servers
+B
+Cloud migration can involve various strategies: re-hosting, re-platforming, refactoring, etc.
+What is 'Multi-cloud' strategy?
+A. Using only one cloud provider for all services
+B. The use of multiple cloud computing services from different providers in a single, heterogeneous architecture
+C. Using private cloud only
+B
+Multi-cloud strategies aim to avoid vendor lock-in and enhance resilience.
+What is 'Cloud Bursting'?
+A. A security vulnerability in the cloud
+B. An application deployment model in which an application runs in a private cloud or data center and 'bursts' into a public cloud when demand for computing capacity spikes
+C. A method for deleting cloud resources
+B
+Cloud bursting provides a cost-effective way to handle peak loads.
+What is 'Cloud Security'?
+A. Securing your home network
+B. The set of control-based technologies and policies designed to protect information, data, and applications in cloud computing environments
+C. Physical security of data centers only
+B
+Cloud security is a shared responsibility between the cloud provider and the customer.
+What is 'Identity and Access Management (IAM)' in cloud computing?
+A. Managing physical server access
+B. A framework of policies and technologies that enables organizations to manage digital identities and control user access to resources across cloud services
+C. Managing network IP addresses
+B
+IAM ensures that only authorized users can access specific cloud resources.
+What is 'Virtualization' in cloud computing?
+A. The process of creating a physical version of a resource
+B. The technology that allows multiple operating systems and applications to run on a single physical machine
+C. A type of network protocol
+B
+Virtualization is the foundation of cloud computing, enabling resource sharing and efficiency.
+What is 'Hypervisor'?
+A. A type of server hardware
+B. A software layer that creates and runs virtual machines (VMs), allowing multiple operating systems to share a single hardware host
+C. A network monitoring tool
+B
+Hypervisors are essential for virtualization and the operation of IaaS.
+What is 'Cloud Orchestration'?
+A. Manually deploying cloud resources
+B. The automated arrangement, coordination, and management of computer systems, middleware, and services across multiple cloud providers or hybrid cloud environments
+C. Monitoring individual cloud instances
+B
+Cloud orchestration simplifies complex deployments and resource management.
+What is 'Auto Scaling' in cloud computing?
+A. Manually adjusting server capacity
+B. A method used in cloud computing that automatically adjusts the number of compute resources in a group based on current demand
+C. Scaling down resources only
+B
+Auto Scaling ensures applications can handle varying loads efficiently.
+What is 'Edge Computing' in relation to cloud computing?
+A. Processing all data in a central cloud data center
+B. A distributed computing paradigm that brings computation and data storage closer to the sources of data, often where the 'edge' of the network is located, reducing latency and bandwidth usage
+C. A type of cloud storage
+B
+Edge computing complements cloud computing by handling time-sensitive data closer to the source.
+What is 'Machine Learning as a Service (MLaaS)'?
+A. A service for building physical machines
+B. Cloud-based platforms that provide machine learning tools and capabilities, allowing users to develop, train, and deploy machine learning models without managing the underlying infrastructure
+C. A service for data storage
+B
+MLaaS democratizes access to powerful machine learning technologies.
+What is 'Database as a Service (DBaaS)'?
+A. A service for managing physical databases
+B. A cloud service model that provides managed database systems, abstracting away the underlying infrastructure and administrative tasks
+C. A service for data backup only
+B
+DBaaS simplifies database management, including scaling, backups, and patching.
+What is 'Infrastructure as Code (IaC)'?
+A. Manually configuring servers
+B. Managing and provisioning infrastructure through code instead of through manual processes, typically using configuration files
+C. Writing code for applications only
+B
+IaC enables automation, version control, and consistent deployments of infrastructure.
+What is 'Cloud Governance'?
+A. Governing local IT systems
+B. The set of policies, procedures, and best practices that organizations use to control and manage their cloud resources, costs, and security
+C. Developing new cloud technologies
+B
+Cloud governance ensures effective and secure use of cloud resources.
+What is 'Cloud Auditing'?
+A. A process of reviewing financial records
+B. The systematic examination of cloud computing systems, operations, and data to ensure compliance with policies, regulations, and security standards
+C. Only checking network logs
+B
+Cloud auditing helps maintain security and compliance.
+What is a 'Virtual Network (VNet)' in cloud computing?
+A. A physical network cable
+B. A logical isolation of the Azure cloud dedicated to your subscription, enabling you to launch Azure resources in a virtual network you define
+C. A public internet connection
+B
+VNets provide private and secure network environments within a cloud provider.
+What is 'Cloud Brokerage'?
+A. A service that sells used cloud equipment
+B. A service that acts as an intermediary between cloud consumers and cloud service providers, helping customers select and integrate cloud services
+C. A service for financial trading
+B
+Cloud brokers can provide value-added services like customization and cost optimization.
+What is 'Container Orchestration'?
+A. Managing individual containers manually
+B. The automated process of managing and deploying containerized applications, including scaling, networking, and load balancing
+C. Creating new container images
+B
+Tools like Kubernetes are used for container orchestration.
+What is 'Cloud Cost Management'?
+A. Only focusing on reducing cloud spending at all costs
+B. The ongoing process of optimizing cloud spending by ensuring resources are used efficiently, eliminating waste, and aligning costs with business value
+C. Ignoring cloud expenses
+B
+Cloud cost management involves monitoring, optimization, and governance.
+What is 'Microservices Architecture' in cloud computing?
+A. Building applications as a single, monolithic unit
+B. An architectural style that structures an application as a collection of loosely coupled, independently deployable services, often used in conjunction with containers and serverless computing
+C. Developing very small applications
+B
+Microservices promote agility, scalability, and resilience.
+What is 'API Gateway' in cloud computing?
+A. A tool for managing databases
+B. A server that acts as a single entry point for a group of microservices or external APIs, handling routing, authentication, and traffic management
+C. A tool for monitoring network traffic only
+B
+API Gateways simplify client-server communication in complex distributed systems.
+What is 'Message Queue' in cloud computing?
+A. A type of database
+B. A component that enables asynchronous communication between different parts of an application or between different applications, allowing them to send and receive messages without being directly connected
+C. A network monitoring tool
+B
+Message queues (e.g., AWS SQS, RabbitMQ) decouple components and improve system resilience.
+What is 'Data Lake' in cloud computing?
+A. A traditional relational database
+B. A centralized repository that allows you to store all your structured and unstructured data at any scale, without needing to define its structure beforehand
+C. A data warehouse for structured data only
+B
+Data lakes are designed for big data analytics and machine learning.
+What is 'Data Warehouse' in cloud computing?
+A. A repository for unstructured data only
+B. A system used for reporting and data analysis, and is a core component of business intelligence, typically storing structured, historical data from multiple sources
+C. A real-time data streaming platform
+B
+Data warehouses are optimized for querying and reporting.
+What is 'Extract, Transform, Load (ETL)' in cloud data processing?
+A. A process for deleting data
+B. A process that involves extracting data from various sources, transforming it into a clean and usable format, and then loading it into a data warehouse or data lake for analysis
+C. A method for real-time data streaming
+B
+ETL is a fundamental process in data integration and warehousing.
+What is 'Big Data Analytics' in cloud computing?
+A. Analyzing small datasets manually
+B. The process of examining large and complex datasets to uncover hidden patterns, correlations, and other insights, often leveraging cloud-based scalable processing capabilities
+C. Only analyzing financial data
+B
+Cloud platforms provide the scalable infrastructure needed for big data analytics.
+What is 'Internet of Things (IoT)' in cloud computing?
+A. Connecting only computers to the internet
+B. The network of physical objects embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet, often relying on cloud platforms for data ingestion and processing
+C. A new type of internet service provider
+B
+Cloud platforms provide the backend infrastructure for collecting, storing, and analyzing IoT data.
+What is 'CI/CD' in cloud computing?
+A. Continuous Integration / Continuous Deployment (or Delivery) - practices that automate the stages of software delivery from code commit to deployment
+B. Continuous Information / Centralized Data
+C. Cloud Infrastructure / Cloud Development
+A
+CI/CD pipelines automate the software release process.
+What is 'Continuous Integration (CI)'?
+A. Integrating code once a month
+B. The practice of merging all developers' working copies to a shared mainline several times a day, followed by automated builds and tests
+C. Manual code deployment
+B
+CI helps detect and address integration issues early.
+What is 'Continuous Deployment (CD)'?
+A. Deploying code manually to production
+B. A software engineering approach in which software functionalities are delivered frequently through automated deployments to production
+C. Deploying code only to test environments
+B
+Continuous deployment automates the entire release process, pushing every change to production.
+What is 'Continuous Delivery (CD)'?
+A. Delivering software to customers only after manual approval
+B. A software engineering approach where teams produce software in short cycles, ensuring that the software can be reliably released at any time
+C. Delivering software only once a year
+B
+Continuous delivery ensures that the code is always in a deployable state.
+What is 'Managed Services' in cloud computing?
+A. Services that require full customer management
+B. Cloud services where the provider handles the operational aspects of the infrastructure, platform, or software, allowing the customer to focus on their core business
+C. Services that are not monitored
+B
+Managed services offload operational burdens from customers.
+What is a 'Serverless Function'?
+A. A function that runs on a dedicated server
+B. A piece of code that runs in response to events without requiring you to explicitly provision or manage servers
+C. A function that only runs offline
+B
+Serverless functions (FaaS) are the core of serverless computing.
+What is 'Container Registry'?
+A. A place to store physical containers
+B. A centralized repository for storing and managing container images (e.g., Docker images)
+C. A database for virtual machines
+B
+Container registries (e.g., Docker Hub, AWS ECR) enable versioning and sharing of container images.
+What is 'Cloud Native' application development?
+A. Developing applications that only run on a single cloud provider
+B. An approach to building and running applications that exploits the advantages of the cloud computing delivery model, often leveraging microservices, containers, and serverless technologies
+C. Developing applications for on-premise infrastructure
+B
+Cloud-native applications are designed for scalability, resilience, and agility in the cloud.
+What is 'Cloud Interoperability'?
+A. The ability of applications to run on a single cloud provider only
+B. The ability of cloud systems and applications to exchange information and work together seamlessly, potentially across different cloud providers or between cloud and on-premise environments
+C. The ability to encrypt data
+B
+Cloud interoperability is important for hybrid and multi-cloud strategies.
+What is 'Cloud Portability'?
+A. The ability to access cloud services from anywhere
+B. The ability to move applications and data from one cloud environment to another (or to on-premise) with minimal effort or re-architecture
+C. The ability to increase cloud storage
+B
+Cloud portability reduces vendor lock-in.
+What is 'Containerization'?
+A. The process of packaging an application with all its dependencies into a single, isolated unit called a container
+B. The process of creating virtual machines
+C. The process of encrypting data
+A
+Containerization ensures applications run consistently across different environments.
+What is 'Managed Kubernetes Service'?
+A. Manually managing a Kubernetes cluster
+B. A cloud service that automates the deployment, management, and scaling of Kubernetes clusters, abstracting away the underlying infrastructure management
+C. A service for individual container deployment
+B
+Examples include GKE, AKS, EKS.
+What is 'Cloud Cost Optimization'?
+A. Spending as much as possible on cloud resources
+B. The process of reducing cloud spending by identifying and eliminating waste, reserving capacity, right-sizing resources, and utilizing cost-effective services
+C. Delegating all cost decisions to the cloud provider
+B
+Cloud cost optimization is an ongoing process for efficient cloud usage.
+What is 'Server Provisioning' in cloud computing?
+A. Manually installing operating systems on physical servers
+B. The process of setting up and configuring a server (virtual or physical) with the necessary hardware, software, and network resources to meet specific application or service requirements
+C. Deleting old servers
+B
+Cloud platforms automate server provisioning.
+What is 'Cloud Broker'?
+A. A company that sells individual cloud servers
+B. An entity that manages the use, performance, and delivery of cloud services and negotiates relationships between cloud providers and consumers
+C. A network equipment vendor
+B
+Cloud brokers can provide integration, aggregation, and customization services.
+What is 'Cloud Federation'?
+A. Connecting multiple distinct cloud providers to form a unified cloud environment, allowing resources to be shared and workloads to be migrated seamlessly between them
+B. Running all applications on a single cloud
+C. A type of cloud security measure
+A
+Cloud federation aims to extend cloud capabilities across different providers.
+What is 'Cloud Sprawl'?
+A. The controlled growth of cloud resources
+B. The uncontrolled proliferation of cloud instances, services, and applications within an organization, leading to increased costs, security risks, and management complexity
+C. A type of cloud backup
+B
+Cloud sprawl can occur due to lack of governance and visibility.
+What is 'FaaS'?
+A. Files as a Service
+B. Functions as a Service - a category of cloud computing services that provides a platform allowing customers to develop, run, and manage application functionalities without the complexity of building and maintaining the infrastructure
+C. Frameworks as a Service
+B
+FaaS is a key component of serverless architectures.
+What is 'Platform as a Service (PaaS)' primarily designed for?
+A. Providing raw compute power
+B. Providing a complete development and deployment environment for applications
+C. Providing ready-to-use software applications
+B
+PaaS simplifies application development and deployment for developers.
+What is 'MicroVMs'?
+A. Very small physical machines
+B. Ultra-lightweight virtual machines designed for specific workloads, offering faster startup times and lower overhead than traditional VMs
+C. Large virtual machines for complex tasks
+B
+MicroVMs are often used with serverless and containerized environments.
+What is 'Cloud Native Application Development'?
+A. Developing applications that only work on one cloud
+B. Designing and building applications to exploit the elastic, distributed, and scalable nature of the cloud computing environment
+C. Developing applications for on-premise only
+B
+It often involves technologies like containers, microservices, and serverless.
+What is 'Cloud Bursting' primarily used for?
+A. Permanent migration of workloads
+B. Handling sudden spikes in demand by temporarily extending workload capacity to a public cloud
+C. Reducing baseline cloud costs
+B
+Cloud bursting provides flexibility for fluctuating workloads.
+What is 'Cloud Brokering'?
+A. A direct contractual relationship between client and provider
+B. A service where an intermediary provides value-added services, integrating and customizing cloud offerings from various providers to meet specific client needs
+C. A service for cloud infrastructure maintenance
+B
+Cloud brokers simplify cloud service selection and management.
+What is 'Cloud Workload'?
+A. Only the data stored in the cloud
+B. Any application, service, or task that runs within a cloud computing environment, consuming cloud resources
+C. The physical servers in a data center
+B
+Cloud workloads can range from web applications to data analytics tasks.
+What is 'Cloud Readiness Assessment'?
+A. A physical check of cloud data centers
+B. An evaluation of an organization's current IT environment, applications, and infrastructure to determine their suitability for migration to the cloud
+C. A marketing survey for cloud services
+B
+This assessment identifies challenges and opportunities for cloud adoption.
+What is 'Resource Tagging' in cloud computing?
+A. Manually labeling physical servers
+B. Assigning metadata (key-value pairs) to cloud resources for organization, cost tracking, automation, and access control purposes
+C. Creating backup copies of resources
+B
+Resource tagging helps in managing and governing cloud environments.
+What is 'Vendor Lock-in' in cloud computing?
+A. The flexibility to switch cloud providers easily
+B. The situation where a customer becomes dependent on a single cloud provider and cannot easily switch to another vendor without substantial costs, technical difficulties, or legal restrictions
+C. A guarantee of service from a vendor
+B
+Vendor lock-in is a concern for many organizations adopting cloud services.
+What is 'Decoupling' in cloud architecture?
+A. Tightly integrating all application components
+B. Designing system components to operate independently, minimizing their dependencies on each other, which enhances scalability, resilience, and flexibility
+C. Running all services on a single server
+B
+Decoupling is a common practice in microservices and serverless architectures.
+What is 'Infrastructure as a Service (IaaS)' primarily responsible for?
+A. Providing ready-to-use software
+B. Providing virtualized computing resources like virtual machines, storage, and networks
+C. Providing a platform for application development
+B
+IaaS provides the foundational building blocks of cloud infrastructure.
+What is 'Shared Responsibility Model' in cloud security?
+A. The cloud provider is solely responsible for all security aspects
+B. A model where the cloud provider is responsible for the security 'of' the cloud, and the customer is responsible for security 'in' the cloud
+C. The customer is solely responsible for all security aspects
+B
+This model defines clear lines of responsibility for cloud security.
+What is 'Server Sprawl' in traditional IT?
+A. The efficient use of servers
+B. The uncontrolled proliferation of physical servers within a data center, leading to underutilized resources and increased management overhead
+C. The rapid deployment of new servers
+B
+Cloud computing helps address server sprawl through virtualization and efficient resource utilization.
+What is 'Cloud Cost Monitoring'?
+A. Only checking monthly invoices for cloud usage
+B. The continuous process of tracking, analyzing, and visualizing cloud spending to gain insights into resource consumption and identify areas for optimization
+C. Estimating future cloud costs without actual data
+B
+Effective cost monitoring is essential for controlling cloud expenses.
+What is 'Managed Databases' in cloud computing?
+A. Databases that you fully manage yourself on cloud VMs
+B. Cloud-based database services where the cloud provider handles administrative tasks like provisioning, patching, backups, and scaling
+C. Databases that can only be accessed from specific regions
+B
+Managed databases simplify database operations for users.
+What is 'Load Balancer' in cloud computing?
+A. A device for storing data
+B. A service that distributes incoming application traffic across multiple targets, such as EC2 instances, containers, IP addresses, and Lambda functions, in multiple Availability Zones
+C. A tool for network monitoring
+B
+Load balancers are essential for high availability and scalability of applications.
+What is 'Cloud Reliability'?
+A. How quickly an application loads
+B. The ability of a cloud system to perform its required functions under stated conditions for a specified period of time, ensuring consistent and dependable operation
+C. The cost-effectiveness of cloud services
+B
+Reliability is a key aspect of cloud service quality.
+What is 'Cloud Compliance'?
+A. Compliance with internal company policies only
+B. Adhering to regulatory requirements, industry standards, and internal policies when operating in the cloud (e.g., GDPR, HIPAA, ISO 27001)
+C. Only focusing on data encryption
+B
+Cloud compliance is crucial for regulated industries.
+What is 'Zero Trust Security' in cloud computing?
+A. Trusting all users and devices by default
+B. A security model that assumes no user or device should be trusted by default, regardless of whether they are inside or outside the network perimeter, and requires strict verification for every access attempt
+C. Relying solely on perimeter security
+B
+Zero Trust emphasizes 'never trust, always verify'.
+What is 'Cloud Computing Stack'?
+A. A list of cloud vendors
+B. The layers of cloud services that build upon each other, typically including Infrastructure (IaaS), Platform (PaaS), and Software (SaaS)
+C. A physical rack of servers
+B
+The cloud computing stack illustrates the different service models.
+What is 'Cloud Agility'?
+A. The ability to quickly change cloud providers
+B. The ability of organizations to rapidly adapt to changes in market conditions and business requirements by leveraging the flexibility and scalability of cloud resources
+C. The speed of cloud network connections
+B
+Cloud agility allows for faster innovation and response to market demands.
+What is 'Direct Connect' (e.g., AWS Direct Connect)?
+A. A public internet connection to the cloud
+B. A network service that provides a dedicated, private network connection from your premises to a cloud provider's network, bypassing the public internet
+C. A wireless cloud connection
+B
+Direct Connect offers consistent network performance and increased security compared to internet-based VPNs.
+What is 'Cloud Storage Gateway'?
+A. A device for managing physical storage
+B. A hybrid cloud storage solution that connects an on-premise application to cloud storage, allowing data to be seamlessly stored in the cloud while appearing as local storage
+C. A type of network router
+B
+Storage gateways bridge the gap between on-premise and cloud storage.
+What is 'Cloud Security Posture Management (CSPM)'?
+A. Manually checking cloud configurations for security
+B. A set of tools and practices used to continuously monitor cloud environments for security misconfigurations, compliance violations, and potential risks, and to automate remediation
+C. A tool for securing physical data centers
+B
+CSPM helps maintain a strong security posture in the cloud.
+What is 'Cloud Cost Governance'?
+A. Only focusing on immediate cost savings
+B. The establishment of policies, processes, and tools to control, monitor, and optimize cloud spending across an organization, ensuring alignment with business objectives and budgets
+C. Delegating all financial decisions to developers
+B
+Cloud cost governance provides a structured approach to managing cloud finances.
+What is 'Virtual Desktop Infrastructure (VDI)' in cloud computing?
+A. Physical desktop computers in a data center
+B. A technology that hosts desktop environments on a centralized server in the cloud and delivers them to end-users over a network, allowing access from various devices
+C. A service for managing virtual servers only
+B
+VDI provides flexible and secure remote desktop access.
+What is 'Cloud Optimization'?
+A. Reducing the number of cloud services used
+B. The ongoing process of fine-tuning cloud resources and configurations to improve performance, reduce costs, and enhance security and reliability
+C. Only focusing on making applications faster
+B
+Cloud optimization is a continuous effort across various aspects of cloud usage.
+What is 'Data Sovereignty' in cloud computing?
+A. The ability to move data between countries freely
+B. The legal and regulatory requirement that data be subject to the laws of the country in which it is collected and processed, and that it may not be transferred outside that country without specific consent
+C. The ownership of data by the cloud provider
+B
+Data sovereignty impacts cloud deployment strategies, especially for global businesses.
+What is 'Resource Group' (e.g., Azure Resource Group)?
+A. A physical cluster of servers
+B. A logical container that holds related resources for an Azure solution, enabling easier management and organization of cloud assets
+C. A network subnet
+B
+Resource groups simplify the deployment, management, and deletion of related cloud resources.
+What is 'Cloud Adoption Framework'?
+A. A framework for building cloud applications
+B. A set of guidelines, best practices, and tools provided by cloud providers or industry experts to help organizations plan, implement, and manage their cloud journey successfully
+C. A framework for cloud security audits only
+B
+Cloud adoption frameworks provide a structured approach to cloud transformation.
+What is 'Cloud Metering'?
+A. Manually tracking cloud resource usage
+B. The process of tracking and measuring the consumption of cloud resources (e.g., CPU usage, data transfer, storage) to enable accurate billing and cost allocation
+C. Forecasting future cloud costs
+B
+Cloud metering is a core aspect of the 'measured service' characteristic.
+What is 'Reserved Instances' in cloud computing?
+A. Instances that are always available for immediate use
+B. A pricing model that allows customers to commit to a certain level of resource usage (e.g., an EC2 instance for a 1 or 3-year term) in exchange for a significant discount compared to on-demand pricing
+C. Instances that are only used for testing
+B
+Reserved Instances are a common strategy for cost optimization for predictable workloads.
+What are 'Spot Instances' in cloud computing?
+A. Instances that are always available at a fixed price
+B. Unused EC2 capacity that is available for less than the On-Demand price, suitable for fault-tolerant workloads that can tolerate interruptions
+C. Instances with guaranteed performance
+B
+Spot Instances can significantly reduce costs for flexible workloads.
+What is 'Data Transfer Cost' in cloud computing?
+A. Cost for storing data only
+B. Charges incurred for moving data into, out of, or between different regions or services within a cloud provider's network, or to the internet
+C. Cost for processing data
+B
+Data transfer costs (egress fees) can be a significant part of cloud bills.
+What is 'Cloud Native Security'?
+A. Securing traditional on-premise applications
+B. A security approach designed specifically for cloud-native applications and infrastructure, often leveraging automated, API-driven, and integrated security controls throughout the development lifecycle
+C. Relying solely on network firewalls
+B
+Cloud-native security integrates security into the CI/CD pipeline and cloud services.
+What is 'Cloud Firewall'?
+A. A physical firewall device
+B. A network security service that controls incoming and outgoing network traffic based on predefined security rules, protecting cloud resources from unauthorized access
+C. A software for encrypting data
+B
+Cloud firewalls (e.g., Security Groups, Network Security Groups) provide network-level security.
+What is 'DDoS Protection' in cloud computing?
+A. Protecting against data loss
+B. Services and strategies implemented to defend against Distributed Denial of Service (DDoS) attacks, which aim to overwhelm a system with traffic to make it unavailable
+C. Protecting against insider threats only
+B
+Cloud providers offer various DDoS protection services.
+What is 'Cloud Logging'?
+A. Manually writing down system events
+B. A service that collects, monitors, and stores logs and events from cloud resources and applications, enabling auditing, troubleshooting, and security analysis
+C. Creating presentations about cloud usage
+B
+Cloud logging services are essential for visibility and operational insights.
+What is 'Cloud Monitoring'?
+A. Only checking if a server is running
+B. The process of collecting and analyzing metrics, logs, and traces from cloud resources to understand their performance, availability, and health, and to identify and respond to issues
+C. Predicting future resource usage without data
+B
+Cloud monitoring provides real-time visibility into cloud environments.
+What is 'Well-Architected Framework' (e.g., AWS Well-Architected Framework)?
+A. A framework for physical building construction
+B. A set of best practices and guiding principles for designing and operating reliable, secure, efficient, and cost-effective systems in the cloud
+C. A framework for software development methodologies only
+B
+This framework helps cloud users build high-quality cloud solutions.
+What is 'Resource Tags' in cloud computing?
+A. Physical labels on servers
+B. Key-value pairs that you can attach to cloud resources to help organize your resources, track costs, and control access
+C. Network IP addresses
+B
+Resource tags enable effective management and governance of cloud assets.
+What is 'Shared Responsibility Model' in cloud security?
+A. The customer is solely responsible for all security
+B. The cloud provider is responsible for the security 'of the cloud' (underlying infrastructure), and the customer is responsible for security 'in the cloud' (their data, applications, and configurations)
+C. The cloud provider is responsible for everything
+B
+This model clarifies roles in cloud security.
+What is 'Compliance as a Service (CaaS)'?
+A. Manual compliance auditing
+B. Cloud-based services that help organizations meet regulatory compliance requirements by providing tools, automation, and reporting for various standards (e.g., GDPR, HIPAA)
+C. A service for managing physical documents
+B
+CaaS simplifies compliance management in cloud environments.
+What is 'Cloud Native Security'?
+A. Security for traditional data centers
+B. A security approach that is built specifically for cloud environments, integrating security throughout the CI/CD pipeline and leveraging cloud-native security services
+C. Security managed entirely by the cloud provider
+B
+It emphasizes automation, immutability, and API-driven security.
+What is 'Virtual Network Gateway' (e.g., Azure Virtual Network Gateway)?
+A. A physical network device
+B. A service that enables secure cross-premises connectivity between Azure Virtual Networks and on-premises networks, or between different Azure VNets
+C. A load balancer
+B
+VNet Gateways are essential for hybrid cloud connectivity.
+What is 'Cloud Cost Management'?
+A. Only reducing cloud spending regardless of impact
+B. The ongoing practice of gaining visibility into cloud spending, optimizing resource usage, and forecasting future costs to ensure financial efficiency in the cloud
+C. Delegating all financial decisions to engineers
+B
+It involves monitoring, optimization, and reporting.
+What is 'Cloud Migration Strategy: Rehosting'?
+A. Rebuilding applications from scratch for the cloud
+B. Moving applications as-is from on-premises to the cloud without making significant changes, often referred to as 'lift and shift'
+C. Modernizing applications before moving to the cloud
+B
+Rehosting is often the fastest migration strategy.
+What is 'Cloud Migration Strategy: Replatforming'?
+A. Moving applications without any changes
+B. Moving applications to the cloud and making some cloud-native optimizations to gain benefits without re-architecting the core application, often referred to as 'lift and refactor'
+C. Replacing applications with SaaS solutions
+B
+Replatforming balances speed with some cloud benefits.
+What is 'Cloud Migration Strategy: Refactoring/Re-architecting'?
+A. Moving applications as-is to the cloud
+B. Rebuilding applications from the ground up or modifying their architecture significantly to fully leverage cloud-native features and optimize for scalability, performance, and cost
+C. Deleting old applications
+B
+Refactoring offers the most cloud-native benefits but requires the most effort.
+What is 'Cloud Migration Strategy: Repurchasing'?
+A. Buying new physical servers
+B. Replacing an existing application with a cloud-native SaaS solution (e.g., replacing an on-premise CRM with Salesforce)
+C. Purchasing more cloud credits
+B
+Repurchasing can simplify IT operations and reduce technical debt.
+What is 'Cloud Migration Strategy: Retaining'?
+A. Moving all applications to the cloud immediately
+B. Keeping some applications on-premises or in their current environment, often due to regulatory requirements, technical complexity, or lack of business justification for migration
+C. Deleting old applications
+B
+Retaining is a valid strategy for workloads that are not suitable for the cloud.
+What is 'Cloud Migration Strategy: Retiring'?
+A. Moving applications to archive storage in the cloud
+B. Decommissioning or turning off applications that are no longer needed or used, eliminating the need to migrate them
+C. Modernizing old applications
+B
+Retiring reduces the migration scope and cost.
+What is 'Cloud Network'?
+A. Your home Wi-Fi network
+B. The virtual networking infrastructure provided by cloud providers, including virtual private clouds (VPCs), subnets, routing tables, and gateways, that enables connectivity between cloud resources and to the internet
+C. A physical data center
+B
+Cloud networks are software-defined and highly flexible.
+What is 'Cloud Storage Tiering'?
+A. Storing all data in the most expensive storage class
+B. Moving data between different storage classes (e.g., hot, cool, archive) based on access patterns, retention policies, and cost considerations to optimize storage costs
+C. Only storing data in one location
+B
+Storage tiering helps in managing costs for varying data access needs.
+What is 'Managed Kubernetes Service' (e.g., EKS, AKS, GKE)?
+A. A physical server dedicated to Kubernetes
+B. A cloud service that fully manages the Kubernetes control plane, abstracting away the operational overhead of running Kubernetes masters and nodes
+C. A service for managing individual Docker containers
+B
+These services simplify Kubernetes deployment and management.

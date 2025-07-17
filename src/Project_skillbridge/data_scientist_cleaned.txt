@@ -1,0 +1,600 @@
+What is the primary goal of exploratory data analysis (EDA) (Set 1)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 1)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 1)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 1)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 1)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 1)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 1)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 1)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 1)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 1)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 2)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 2)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 2)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 2)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 2)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 2)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 2)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 2)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 2)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 2)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 3)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 3)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 3)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 3)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 3)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 3)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 3)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 3)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 3)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 3)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 4)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 4)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 4)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 4)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 4)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 4)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 4)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 4)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 4)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 4)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 5)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 5)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 5)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 5)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 5)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 5)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 5)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 5)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 5)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 5)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 6)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 6)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 6)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 6)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 6)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 6)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 6)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 6)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 6)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 6)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 7)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 7)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 7)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 7)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 7)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 7)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 7)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 7)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 7)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 7)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 8)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 8)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 8)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 8)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 8)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 8)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 8)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 8)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 8)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 8)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 9)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 9)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 9)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 9)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 9)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 9)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 9)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 9)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 9)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 9)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.
+What is the primary goal of exploratory data analysis (EDA) (Set 10)?
+A. To deploy machine learning models to production
+B. To clean data using regular expressions
+C. To summarize main characteristics of data and discover patterns
+C
+EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+Which library is most commonly used for data manipulation in Python (Set 10)?
+A. Pandas
+B. TensorFlow
+C. Matplotlib
+A
+Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 10)?
+A. axis=0 (columns)
+B. axis=1 (rows)
+C. axis=2 (entire frame)
+A
+By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+Which of the following is a supervised machine learning algorithm (Set 10)?
+A. K-Means Clustering
+B. Principal Component Analysis
+C. Random Forest
+C
+Random Forest is a supervised learning method used for classification and regression.
+What does 'overfitting' mean in machine learning (Set 10)?
+A. Model performs poorly on training data
+B. Model generalizes well on unseen data
+C. Model learns noise and performs poorly on new data
+C
+Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+Which evaluation metric is best suited for imbalanced classification problems (Set 10)?
+A. Accuracy
+B. F1 Score
+C. Mean Squared Error
+B
+F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+In Python, which package is commonly used for numerical computations (Set 10)?
+A. Scikit-learn
+B. NumPy
+C. BeautifulSoup
+B
+NumPy supports powerful N-dimensional arrays and numerical operations.
+Which SQL clause is used to filter rows based on a condition (Set 10)?
+A. GROUP BY
+B. ORDER BY
+C. WHERE
+C
+The WHERE clause is used to filter records based on specified conditions.
+What is the purpose of one-hot encoding (Set 10)?
+A. To reduce dataset dimensionality
+B. To encode categorical variables as binary vectors
+C. To detect outliers
+B
+One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+What type of plot is best for visualizing the distribution of a single numerical variable (Set 10)?
+A. Bar Chart
+B. Histogram
+C. Line Plot
+B
+Histograms show the frequency distribution of a numerical variable across intervals.

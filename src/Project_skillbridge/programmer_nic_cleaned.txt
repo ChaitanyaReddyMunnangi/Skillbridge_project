@@ -1,0 +1,600 @@
+Which programming language is primarily used in NIC for backend development of government portals (Set 1)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 1)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 1)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 1)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 1)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 1)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 1)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 1)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 1)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 1)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 2)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 2)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 2)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 2)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 2)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 2)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 2)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 2)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 2)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 2)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 3)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 3)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 3)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 3)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 3)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 3)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 3)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 3)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 3)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 3)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 4)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 4)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 4)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 4)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 4)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 4)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 4)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 4)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 4)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 4)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 5)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 5)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 5)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 5)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 5)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 5)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 5)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 5)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 5)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 5)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 6)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 6)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 6)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 6)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 6)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 6)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 6)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 6)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 6)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 6)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 7)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 7)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 7)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 7)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 7)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 7)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 7)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 7)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 7)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 7)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 8)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 8)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 8)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 8)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 8)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 8)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 8)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 8)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 8)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 8)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 9)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 9)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 9)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 9)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 9)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 9)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 9)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 9)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 9)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 9)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.
+Which programming language is primarily used in NIC for backend development of government portals (Set 10)?
+A. Python
+B. Java
+C. PHP
+B
+Java is widely used in NIC backend systems due to its scalability, security, and support for enterprise applications.
+What does NIC stand for (Set 10)?
+A. National Informatics Centre
+B. Network Information Corporation
+C. National Infrastructure Cell
+A
+NIC stands for National Informatics Centre, which provides IT support and services to the Government of India.
+Which database system is commonly used in NIC-managed government projects (Set 10)?
+A. MongoDB
+B. MySQL
+C. PostgreSQL
+C
+PostgreSQL is an open-source RDBMS widely used in NIC projects for secure and reliable data storage.
+Which version control system is commonly used for managing source code in government IT projects (Set 10)?
+A. Git
+B. SVN
+C. CVS
+A
+Git is the most widely used version control system for modern software development, including in NIC.
+What is the use of the 'Servlet' in Java web development (Set 10)?
+A. To store user credentials
+B. To manage client-side operations
+C. To handle HTTP requests on the server side
+C
+Servlets are Java programs that handle client requests and generate dynamic content on web servers.
+Which technology is often used in NIC for web application front-end design (Set 10)?
+A. React
+B. Angular
+C. HTML, CSS, JavaScript
+C
+Traditional NIC projects use HTML, CSS, and vanilla JavaScript for UI development, often with frameworks.
+Which Linux command is used to check current disk usage (Set 10)?
+A. du
+B. df
+C. lsblk
+B
+The 'df' command shows available and used disk space on Linux systems.
+What does the 'public static void main' method signify in Java (Set 10)?
+A. A constructor
+B. An interface
+C. The entry point for Java applications
+C
+The main() method is the entry point where execution of a Java application begins.
+Which protocol is used to transfer files securely between government servers (Set 10)?
+A. HTTP
+B. FTP
+C. SFTP
+C
+SFTP (Secure File Transfer Protocol) uses SSH to encrypt and transfer files securely.
+What is the primary role of NIC programmers in e-Governance projects (Set 10)?
+A. Creating advertisements
+B. Managing field surveys
+C. Designing, developing, and maintaining government applications
+C
+NIC programmers develop and maintain digital services and applications for government departments.

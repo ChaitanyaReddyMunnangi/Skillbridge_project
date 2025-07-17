@@ -1,0 +1,600 @@
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 1)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 1)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 1)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 1)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 1)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 1)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 1)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 1)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 1)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 2)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 2)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 2)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 2)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 2)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 2)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 2)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 2)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 2)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 3)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 3)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 3)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 3)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 3)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 3)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 3)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 3)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 3)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 4)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 4)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 4)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 4)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 4)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 4)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 4)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 4)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 4)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 5)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 5)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 5)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 5)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 5)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 5)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 5)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 5)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 5)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 6)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 6)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 6)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 6)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 6)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 6)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 6)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 6)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 6)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 7)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 7)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 7)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 7)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 7)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 7)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 7)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 7)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 7)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 8)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 8)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 8)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 8)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 8)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 8)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 8)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 8)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 8)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 9)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 9)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 9)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 9)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 9)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 9)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 9)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 9)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 9)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.
+Which of the following banking systems allows electronic funds transfer between banks in India in real time (Set 10)?
+A. NEFT
+B. RTGS
+C. IMPS
+B
+RTGS (Real Time Gross Settlement) is used for high-value, real-time fund transfers between Indian banks.
+Which Indian authority governs digital banking security regulations (Set 10)?
+A. TRAI
+B. SEBI
+C. RBI
+C
+The Reserve Bank of India (RBI) regulates digital banking operations and cybersecurity compliance.
+CBS in banking stands for:
+A. Central Banking Software
+B. Core Banking System
+C. Centralized Billing System
+B
+CBS (Core Banking System) allows customers to operate their accounts from any branch or digital channel.
+What technology is used in banks to secure online transactions using OTPs (Set 10)?
+A. Biometrics
+B. Two-Factor Authentication
+C. Blockchain
+B
+Two-Factor Authentication (2FA), including OTPs, adds a layer of security for banking transactions.
+Which of the following file systems is most commonly used in Windows-based banking workstations (Set 10)?
+A. FAT32
+B. NTFS
+C. ext4
+B
+NTFS is the default and most secure file system used in Windows environments including banking workstations.
+What is the function of a Database Administrator in a government bank’s IT department (Set 10)?
+A. Installing ATM machines
+B. Writing bank policy
+C. Managing and securing customer data stored in databases
+C
+DBAs are responsible for the integrity, availability, and security of banking databases.
+Which banking term refers to making transactions without using paper-based instruments (Set 10)?
+A. Digital Banking
+B. Mobile Walleting
+C. Cheque Truncation
+A
+Digital Banking enables customers to transact through online, mobile, or ATM interfaces without paper.
+Which network security device is crucial for protecting a bank’s intranet from external threats (Set 10)?
+A. Load balancer
+B. Switch
+C. Firewall
+C
+Firewalls are essential for protecting sensitive banking systems from cyber threats.
+What is the purpose of a proxy server in a banking environment (Set 10)?
+A. Increase database speed
+B. Filter and monitor employee internet usage
+C. Encrypt financial data
+B
+Proxy servers in banks restrict and monitor outbound web traffic to ensure compliance and reduce risk.
+Which of the following is a government platform for banking service automation (Set 10)?
+A. Aadhaar Pay
+B. BHIM
+C. e-Kuber
+C
+e-Kuber is an RBI-developed core banking solution for government payments and banking automation.

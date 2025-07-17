@@ -1,0 +1,1128 @@
+Which phase of the SDLC involves identifying and documenting system requirements?
+A. Design
+B. Requirements Gathering
+C. Testing
+B
+Requirements gathering focuses on understanding what the system needs to do.
+What does SDLC stand for?
+A. Software Design Life Cycle
+B. System Development Life Cycle
+C. Software Deployment Life Cycle
+B
+SDLC is System Development Life Cycle.
+Which development methodology emphasizes short iterations, frequent feedback, and adaptability?
+A. Waterfall
+B. Agile
+C. V-Model
+B
+Agile is characterized by iterative development and responsiveness to change.
+In Agile, what is a 'Scrum Master' responsible for?
+A. Managing the project budget
+B. Facilitating the Scrum process and removing impediments
+C. Writing all the code
+B
+The Scrum Master coaches the team and ensures the Scrum framework is followed.
+What is the primary purpose of version control systems like Git?
+A. To manage network configurations
+B. To track and manage changes to source code over time
+C. To deploy applications to production servers
+B
+Version control systems are essential for collaborative code development and history tracking.
+Which type of testing verifies that the entire integrated system meets its requirements?
+A. Unit Testing
+B. Integration Testing
+C. System Testing
+C
+System testing evaluates the complete system's compliance with requirements.
+What is 'debugging' in the context of software development?
+A. The process of writing new code
+B. Identifying and fixing errors or defects in software
+C. Deploying software to users
+B
+Debugging is the systematic process of finding and resolving bugs.
+Which design principle suggests that a module should have one, and only one, reason to change?
+A. Liskov Substitution Principle
+B. Single Responsibility Principle (SRP)
+C. Dependency Inversion Principle
+B
+SRP promotes modularity and maintainability by ensuring a module has a single focus.
+What is 'refactoring' in software development?
+A. Rewriting code from scratch
+B. Improving the internal structure of code without changing its external behavior
+C. Adding new features to existing code
+B
+Refactoring makes code cleaner and more maintainable without altering its functionality.
+What is a 'user story' in Agile development?
+A. A detailed technical specification document
+B. A short, simple description of a feature told from the perspective of the person who desires the new capability
+C. A chronological log of system events
+B
+User stories are used to define small, deliverable pieces of functionality.
+Which software architecture pattern separates an application into three logical layers: presentation, business logic, and data access?
+A. Microservices
+B. Monolithic
+C. Three-tier architecture
+C
+Three-tier architecture improves modularity and scalability.
+What is Continuous Integration (CI)?
+A. A process where developers manually test code daily
+B. The practice of merging all developers' working copies to a shared mainline several times a day
+C. A method for deploying software to production
+B
+CI helps detect integration issues early and keeps the codebase healthy.
+What does API stand for in the context of software?
+A. Application Process Interface
+B. Application Programming Interface
+C. Automated Program Interaction
+B
+APIs define how different software components can communicate with each other.
+Which type of testing ensures that new changes do not break existing functionalities?
+A. Acceptance Testing
+B. Regression Testing
+C. Performance Testing
+B
+Regression testing is crucial to prevent unintended side effects from new code.
+What is the purpose of a 'Design Document' in software engineering?
+A. To list all bugs in the system
+B. To describe the architecture and detailed design of the software system
+C. To provide user manuals
+B
+Design documents serve as a blueprint for implementing the software.
+In SDLC, what happens during the 'Deployment' phase?
+A. System requirements are gathered
+B. The software is released to the users or environment for operation
+C. Code is written and compiled
+B
+Deployment makes the software available for its intended users.
+What is a 'Framework' in programming?
+A. A specific programming language
+B. A collection of predefined classes and functions that provide a reusable structure for building applications
+C. A testing tool
+B
+Frameworks offer a foundation, reducing boilerplate code and promoting best practices.
+Which concept refers to the ability of a system to handle a growing amount of work?
+A. Reliability
+B. Scalability
+C. Security
+B
+Scalability ensures the system can perform well under increased load.
+What is 'Pair Programming'?
+A. Two programmers working on two separate tasks
+B. Two programmers working together at one workstation on the same code
+C. One programmer writing code, another testing it
+B
+Pair programming improves code quality and knowledge sharing.
+What is the main advantage of 'Test-Driven Development (TDD)'?
+A. It eliminates the need for manual testing
+B. It ensures that code is written only after understanding the requirements through tests
+C. It speeds up the initial coding phase
+B
+TDD focuses on writing failing tests before writing production code, leading to better design and fewer bugs.
+What is a 'Software Requirement Specification (SRS)' document?
+A. A document for developers only, outlining the technical design
+B. A comprehensive document describing the functionality and non-functional requirements of a software system
+C. A marketing document for the software product
+B
+The SRS is a critical document for understanding system expectations.
+Which metric measures the percentage of source code lines executed by a test suite?
+A. Defect Density
+B. Code Coverage
+C. Cyclomatic Complexity
+B
+Code coverage indicates how much of the code is being tested.
+What is 'Cross-Browser Compatibility'?
+A. Ensuring a web application runs only on one specific browser
+B. Ensuring a web application functions correctly across different web browsers
+C. Ensuring a web application works on mobile devices only
+B
+Cross-browser compatibility is essential for reaching a wide audience.
+What is 'Loose Coupling' in software design?
+A. Components are highly dependent on each other
+B. Components are largely independent, minimizing their dependencies on each other
+C. Code is written without any structure
+B
+Loose coupling promotes flexibility and easier maintenance.
+Which type of error is typically found during the compilation phase?
+A. Logical Error
+B. Runtime Error
+C. Syntax Error
+C
+Syntax errors violate the language's grammar and are caught by the compiler.
+What is the primary goal of 'User Acceptance Testing (UAT)'?
+A. To test individual software modules
+B. To verify that the software meets the user's needs and business requirements
+C. To check system performance under load
+B
+UAT is performed by end-users to ensure the system is fit for purpose.
+What is a 'Build Automation Tool' (e.g., Maven, Gradle)?
+A. A tool for writing code faster
+B. A tool that automates the process of compiling source code, running tests, and packaging artifacts
+C. A tool for drawing UML diagrams
+B
+Build automation streamlines the software construction process.
+Which principle states that software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification?
+A. Open/Closed Principle (OCP)
+B. Interface Segregation Principle
+C. Dependency Inversion Principle
+A
+OCP promotes adding new functionality without altering existing, working code.
+What is a 'Bug Tracking System'?
+A. A system for writing code
+B. A software application that keeps track of reported software bugs in software development projects
+C. A tool for deploying software
+B
+Bug tracking systems are crucial for managing and prioritizing defects.
+What is 'Technical Debt' in software development?
+A. The cost of purchasing new software licenses
+B. The implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer
+C. The budget allocated for software development
+B
+Technical debt can accrue when quick fixes are chosen over proper engineering solutions.
+Which phase of SDLC involves coding and actual implementation?
+A. Design
+B. Implementation/Coding
+C. Maintenance
+B
+This is where the software is built according to the design.
+What is 'Code Review'?
+A. The process of testing code automatically
+B. A systematic examination of computer source code by software developers
+C. A method for documenting code
+B
+Code reviews help improve code quality, identify bugs, and share knowledge.
+What is 'Continuous Delivery (CD)'?
+A. Delivering software only once a year
+B. The practice of releasing new changes to production manually
+C. An extension of Continuous Integration, where code is always in a deployable state and can be released to production at any time
+C
+CD ensures software can be reliably released at any point.
+What is 'Abstraction' in OOP?
+A. Showing only essential features and hiding internal details
+B. Combining data and methods into a single unit
+C. Creating new classes from existing ones
+A
+Abstraction simplifies complex systems by focusing on relevant details.
+What is the purpose of 'UML' in software engineering?
+A. To write code faster
+B. To graphically represent the design and structure of software systems
+C. To manage project timelines
+B
+UML (Unified Modeling Language) is a standard for visualizing system design.
+Which type of testing focuses on how well the software performs under specific workloads?
+A. Security Testing
+B. Usability Testing
+C. Performance Testing
+C
+Performance testing assesses speed, responsiveness, and stability.
+What is 'Clean Code'?
+A. Code that runs without any errors
+B. Code that is easy to read, understand, and modify
+C. Code that is not commented
+B
+Clean code adheres to best practices and improves maintainability.
+What is 'Domain-Driven Design (DDD)'?
+A. A design approach that focuses on the core domain logic and complex business rules
+B. A design approach for user interfaces only
+C. A design approach for databases only
+A
+DDD aligns software design with the business domain model.
+Which stage of the SDLC is most critical for fixing defects found after deployment?
+A. Requirements Gathering
+B. Maintenance
+C. Design
+B
+The maintenance phase deals with post-deployment issues and enhancements.
+What is 'Agile Manifesto'?
+A. A document outlining strict rules for software development
+B. A set of principles for iterative and incremental software development
+C. A list of all programming languages
+B
+The Agile Manifesto provides foundational values for agile methodologies.
+What is a 'Unit Test'?
+A. A test of the entire application
+B. A test of an individual component or function of a software
+C. A test performed by end-users
+B
+Unit tests verify the correctness of isolated code units.
+Which model of SDLC is best suited for projects with well-defined and stable requirements?
+A. Agile
+B. Waterfall
+C. Spiral
+B
+Waterfall is sequential and works well when requirements are unlikely to change.
+What is 'DevOps'?
+A. A programming language
+B. A set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development life cycle
+C. A type of database
+B
+DevOps aims to streamline the entire software delivery process.
+What is 'Technical Specification'?
+A. A document detailing user requirements
+B. A document outlining the technical design and implementation details of a software component or system
+C. A sales brochure
+B
+Technical specifications guide developers in building the software.
+What is 'Black Box Testing'?
+A. Testing based on internal structure and logic of the code
+B. Testing without knowledge of internal system structure, focusing on functionality based on requirements
+C. Testing performed in a dark room
+B
+Black Box testing simulates end-user interaction.
+What is 'White Box Testing'?
+A. Testing without knowledge of internal system structure
+B. Testing based on internal structure and logic of the code
+C. Testing performed on a graphical user interface
+B
+White Box testing requires knowledge of the code's internal workings.
+Which principle of object-oriented design focuses on creating objects that are instances of a base class or interface, rather than tightly coupled to specific implementations?
+A. Dependency Inversion Principle (DIP)
+B. Interface Segregation Principle
+C. Liskov Substitution Principle
+A
+DIP promotes flexible and extensible designs by depending on abstractions.
+What is 'Risk Management' in software projects?
+A. Ignoring potential problems
+B. Identifying, assessing, and controlling threats to a project's success
+C. Only dealing with financial risks
+B
+Effective risk management minimizes negative impacts on projects.
+What is a 'Build' in software terms?
+A. The process of writing source code
+B. The process of converting source code into an executable program or deployable artifact
+C. The final user interface
+B
+A build creates a functional version of the software.
+What is the primary role of a 'Quality Assurance (QA)' engineer?
+A. To write code
+B. To ensure the quality of the software and prevent defects
+C. To manage project timelines
+B
+QA focuses on quality control throughout the development process.
+What is 'Scope Creep' in project management?
+A. The project finishing ahead of schedule
+B. The uncontrolled expansion to product or project requirements without adjustments to time, cost, and resources
+C. Reducing the project's features
+B
+Scope creep can severely impact project success.
+Which artifact contains detailed information about a bug, including steps to reproduce, expected vs. actual results, and severity?
+A. User Story
+B. Test Case
+C. Bug Report/Defect Report
+C
+Bug reports are essential for effective defect resolution.
+What is 'Modularity' in software design?
+A. Writing all code in a single file
+B. Breaking down a software system into smaller, independent, and interchangeable components
+C. Using only one programming language
+B
+Modularity improves maintainability, reusability, and understanding.
+What is 'Usability Testing'?
+A. Testing the security of the software
+B. Testing how easy and user-friendly the software is to operate
+C. Testing the software's performance under heavy load
+B
+Usability testing focuses on the user experience.
+What is a 'Regression' in software?
+A. A new feature added to the software
+B. A bug that was previously fixed and has reappeared, or new code has broken existing functionality
+C. A security vulnerability
+B
+Regressions indicate a step backward in quality.
+What is the 'Pareto Principle' (80/20 rule) often applied to in software?
+A. 80% of features are used by 20% of users
+B. 80% of defects come from 20% of the code, or 80% of issues are caused by 20% of the causes
+C. 80% of developers do 20% of the work
+B
+The 80/20 rule helps prioritize efforts in defect resolution.
+Which model of SDLC involves repeating phases of planning, analysis, design, and implementation in cycles?
+A. Waterfall
+B. Iterative Model
+C. Big Bang Model
+B
+Iterative models allow for continuous improvement and adaptation.
+What is a 'Use Case'?
+A. A diagram showing the internal structure of a class
+B. A list of steps, typically defining interactions between a user and a system, to achieve a specific goal
+C. A database query
+B
+Use cases help define functional requirements from a user's perspective.
+What does 'DRY' stand for in software development?
+A. Don't Repeat Yourself
+B. Do Remember Your code
+C. Develop Rapidly Yet Carefully
+A
+DRY principle aims to reduce repetition of information.
+What is 'Static Code Analysis'?
+A. Analyzing code while it is running
+B. Analyzing source code without executing it to find potential bugs or vulnerabilities
+C. Analyzing database performance
+B
+Static analysis tools help enforce coding standards and find issues early.
+What is a 'Design Pattern'?
+A. A specific programming algorithm
+B. A general, reusable solution to a commonly occurring problem within a given context in software design
+C. A tool for drawing flowcharts
+B
+Design patterns provide proven solutions to common design problems.
+What is the primary benefit of 'Automation Testing'?
+A. It makes testing slower
+B. It increases testing speed, accuracy, and reduces manual effort for repetitive tasks
+C. It replaces all manual testers
+B
+Automation testing is key for efficiency in large projects.
+Which concept refers to dividing a large problem into smaller, manageable sub-problems?
+A. Coupling
+B. Cohesion
+C. Decomposition
+C
+Decomposition simplifies complex problems.
+What is 'Integration Testing'?
+A. Testing individual software modules in isolation
+B. Testing the interfaces and interactions between integrated software modules
+C. Testing the entire system as a whole
+B
+Integration testing ensures modules work correctly when combined.
+What is the main purpose of 'Documentation' in software development?
+A. To make the software less maintainable
+B. To record information about the software for future reference, maintenance, and user guidance
+C. To impress clients with lengthy reports
+B
+Good documentation is crucial for long-term software health and usability.
+What is 'Agile Release Train (ART)' in SAFe (Scaled Agile Framework)?
+A. A train for delivering software physically
+B. A long-lived team of Agile teams, which, along with other stakeholders, incrementally develops, delivers, and if applicable, operates one or more solutions in a value stream
+C. A method for testing embedded systems
+B
+ARTs are a core component of SAFe for coordinating large-scale Agile development.
+What is 'Code Smells'?
+A. A term for bugs in the code
+B. Any symptom in the source code of a program that possibly indicates a deeper problem
+C. A feature that makes code run faster
+B
+Code smells are not bugs but indicators of potential design issues.
+What is 'Containerization' (e.g., Docker)?
+A. A method of organizing code into large files
+B. Packaging an application and its dependencies into a single, isolated unit that can run consistently across environments
+C. Storing data in a database
+B
+Containerization simplifies deployment and ensures consistency.
+What is 'Microservices Architecture'?
+A. Building an application as a single, indivisible unit
+B. An architectural style that structures an application as a collection of loosely coupled, independently deployable services
+C. A way to create small, simple applications
+B
+Microservices promote independent development and deployment of services.
+What is 'Trunk-Based Development'?
+A. Developers work on long-lived feature branches
+B. Developers merge small, frequent updates to a single main branch
+C. Development only happens in the 'trunk' directory of a file system
+B
+Trunk-based development supports continuous integration and rapid delivery.
+Which of these is a common measure of code complexity?
+A. Lines of Code (LOC)
+B. Cyclomatic Complexity
+C. Number of Comments
+B
+Cyclomatic complexity measures the number of linearly independent paths through a program's source code.
+What is the primary benefit of 'DevSecOps'?
+A. To make development slower
+B. To integrate security into every phase of the software development lifecycle
+C. To focus only on operational security
+B
+DevSecOps shifts security 'left' in the SDLC, making it a shared responsibility.
+What is 'Minimum Viable Product (MVP)'?
+A. The final version of a software product
+B. A product with just enough features to satisfy early adopters and provide feedback for future product development
+C. A product that contains all planned features
+B
+MVP helps validate product ideas with minimal effort and resources.
+What is 'Extreme Programming (XP)'?
+A. A rigid, plan-driven methodology
+B. An Agile software development framework with specific practices like pair programming, TDD, and continuous integration
+C. A programming language for complex systems
+B
+XP focuses on delivering high-quality software quickly and adapting to changing requirements.
+What is 'CI/CD Pipeline'?
+A. A physical pipe used in data centers
+B. An automated series of steps that software goes through from development to deployment, including building, testing, and releasing
+C. A tool for designing user interfaces
+B
+CI/CD pipelines automate and streamline the software delivery process.
+What is the goal of 'Performance Optimization'?
+A. To increase memory usage
+B. To make software run faster, more efficiently, or use fewer resources
+C. To add more features to the software
+B
+Performance optimization improves the responsiveness and resource efficiency of applications.
+Which of the following is a key characteristic of the Waterfall model?
+A. Iterative and incremental releases
+B. Sequential and linear progress, with each phase completed before the next begins
+C. High customer collaboration throughout the project
+B
+Waterfall's sequential nature makes it less flexible to changes.
+What is 'Concurrency' in programming?
+A. Running multiple tasks simultaneously on multiple processors
+B. Executing multiple computations at the same time, possibly interacting with each other
+C. Having only one task running at a time
+B
+Concurrency allows multiple tasks to make progress independently.
+What is 'Parallelism' in programming?
+A. Executing multiple computations at the same time on different processors or cores
+B. Executing multiple computations at the same time, possibly interacting with each other on a single core
+C. Writing code that runs in sequence
+A
+Parallelism enables true simultaneous execution on multi-core systems.
+What is 'Code Debt'?
+A. The amount of money owed for software licenses
+B. A metaphor for taking short-cuts during development that will have to be paid back later with more effort
+C. The cost of hiring new developers
+B
+Code debt can lead to higher maintenance costs and slower future development.
+What is the 'Principle of Least Astonishment'?
+A. Code should be surprising and complex
+B. A system should behave in a way that is consistent with how users are likely to expect it to behave
+C. Developers should try to surprise users with new features
+B
+This principle promotes intuitive and predictable software behavior.
+What is 'Regression Suite' in testing?
+A. A set of new test cases for new features
+B. A collection of test cases designed to ensure that previously developed and tested software still performs after a change
+C. A tool for performance testing
+B
+Regression suites are run repeatedly to catch regressions.
+Which software engineering term describes the level of dependency between modules?
+A. Cohesion
+B. Coupling
+C. Abstraction
+B
+Low coupling is desirable for maintainable systems.
+Which software engineering term describes how well the elements within a module belong together?
+A. Coupling
+B. Cohesion
+C. Encapsulation
+B
+High cohesion is desirable, meaning a module does one thing well.
+What is 'User Interface (UI)' design focused on?
+A. The logic behind the application
+B. The visual layout and interactive elements of a software application
+C. Database structure
+B
+UI design focuses on the look and feel, and how users interact with the system.
+What is 'User Experience (UX)' design focused on?
+A. The visual appearance of the application
+B. The overall experience a user has with a product, service, or system, encompassing usability, accessibility, and pleasure
+C. The speed of the application
+B
+UX design considers the entire journey and feelings of the user.
+What is a 'Spike' in Agile development?
+A. A sudden increase in workload
+B. A short, time-boxed period of research or experimentation to reduce risk or gain knowledge
+C. A type of bug
+B
+Spikes help address technical uncertainties.
+What is 'Defect Density'?
+A. The number of new features added
+B. The number of confirmed defects per unit of software size (e.g., KLOC - Kilo Lines of Code)
+C. The time taken to fix a defect
+B
+Defect density is a metric for software quality.
+Which principle states that an interface should be minimal and specific to the client's needs?
+A. Single Responsibility Principle
+B. Interface Segregation Principle (ISP)
+C. Liskov Substitution Principle
+B
+ISP prevents fat interfaces by splitting large interfaces into smaller, more specific ones.
+What is a 'Proof of Concept (PoC)'?
+A. A fully functional software product
+B. A small project or exercise to demonstrate the feasibility of a concept or idea
+C. A detailed technical specification
+B
+PoC validates technical viability.
+What is 'Quality Gates' in software development?
+A. Physical gates at data centers
+B. Specific points in the development lifecycle where criteria must be met before proceeding to the next stage
+C. Tools for automated testing
+B
+Quality gates ensure standards are maintained at each phase.
+What is 'Cross-Functional Team' in Agile?
+A. A team composed of members with only one specific skill set
+B. A team composed of individuals with diverse skill sets necessary to complete a feature or project end-to-end
+C. A team that works across different time zones
+B
+Cross-functional teams are self-organizing and capable of delivering value independently.
+What is 'Code Coverage' used for in testing?
+A. To measure how many bugs are in the code
+B. To measure the percentage of code executed by tests
+C. To determine the size of the codebase
+B
+High code coverage generally indicates a more thoroughly tested codebase.
+Which software testing technique involves providing valid, invalid, and boundary values as input?
+A. Exploratory Testing
+B. Boundary Value Analysis (BVA)
+C. Ad-hoc Testing
+B
+BVA focuses on testing values at the boundaries of valid input ranges.
+What is 'Graceful Degradation' in software design?
+A. The software stops working completely when an error occurs
+B. The software remains functional, albeit with reduced capabilities, when parts of the system fail
+C. The software loses all data upon failure
+B
+Graceful degradation improves system resilience and user experience during partial failures.
+What is the primary goal of 'Requirements Elicitation'?
+A. To implement the software
+B. To discover and understand the needs and constraints of the stakeholders
+C. To test the software
+B
+Requirements elicitation involves techniques like interviews, workshops, and surveys.
+What is a 'Mock Object' in unit testing?
+A. A real database connection
+B. A simulated object that mimics the behavior of a real object for testing purposes
+C. A part of the production code
+B
+Mock objects isolate the code under test from its dependencies.
+What is 'Behavior-Driven Development (BDD)'?
+A. A development approach focused only on the behavior of developers
+B. A development approach that involves collaboration among developers, QA, and non-technical or business participants in a software project
+C. A testing technique for user interfaces
+B
+BDD emphasizes shared understanding and uses examples to define desired behavior.
+What is 'Immutable Object'?
+A. An object whose state can be changed after it is created
+B. An object whose state cannot be changed after it is created
+C. An object that can only be created once
+B
+Immutable objects are inherently thread-safe and simplify reasoning about state.
+What is a 'Thread-Safe' code?
+A. Code that can only be executed by a single thread
+B. Code that can be executed concurrently by multiple threads without causing incorrect results or data corruption
+C. Code that is completely bug-free
+B
+Thread-safe code ensures data integrity in multi-threaded environments.
+What is 'Technical Debt Quadrant'?
+A. A financial accounting tool for software projects
+B. A model that categorizes technical debt by its origin and intention (e.g., prudent/reckless, deliberate/inadvertent)
+C. A type of software bug
+B
+The quadrant helps prioritize and manage technical debt effectively.
+What is 'Acceptance Criteria' in Agile?
+A. A list of technical tasks for a user story
+B. The conditions that a software product must satisfy to be accepted by the user, customer, or other stakeholders
+C. The minimum performance requirements for a system
+B
+Acceptance criteria define the 'definition of done' for a user story.
+What is 'Backward Compatibility'?
+A. The ability of new software to run on older hardware
+B. The ability of new software to work with existing versions of products, formats, or systems
+C. The ability to revert to previous software versions
+B
+Backward compatibility ensures smooth upgrades for users.
+What is 'Load Testing'?
+A. Testing individual components of an application
+B. Testing a system with a simulated load to determine its behavior under normal and peak conditions
+C. Testing the security vulnerabilities of an application
+B
+Load testing helps identify performance bottlenecks.
+What is 'Stress Testing'?
+A. Testing a system under extreme conditions beyond normal operational capacity to determine its breaking point
+B. Testing how easy a system is to use
+C. Testing individual software modules
+A
+Stress testing reveals system robustness and error handling capabilities.
+What is 'V-Model' in SDLC?
+A. A linear, sequential model for software development
+B. A model that emphasizes parallel development and testing activities throughout the lifecycle
+C. An iterative development model
+B
+The V-Model pairs development phases with corresponding testing phases.
+What is 'Defensive Programming'?
+A. Writing code that is difficult for others to understand
+B. Writing code with a high level of fault tolerance, anticipating and handling potential errors or misuse
+C. Writing code that prevents unauthorized access
+B
+Defensive programming makes software more robust.
+What is a 'Sprint' in Scrum?
+A. A long-term project phase (e.g., 6 months)
+B. A short, time-boxed period (typically 1-4 weeks) during which a Scrum Team works to complete a set amount of work
+C. A type of testing performed daily
+B
+Sprints are the heart of the Scrum framework.
+What is 'Pair Programming's main benefit?
+A. Reduced development costs
+B. Improved code quality, knowledge transfer, and fewer defects
+C. Faster individual coding speed
+B
+Collaborative coding strengthens the team and product.
+What is 'Acceptance Test-Driven Development (ATDD)'?
+A. A testing approach where acceptance tests are written after the code is developed
+B. A development process where acceptance tests are defined before development begins, guiding the implementation
+C. A process of manually testing user interfaces
+B
+ATDD bridges the gap between business requirements and technical implementation.
+What is 'Domain Specific Language (DSL)'?
+A. A general-purpose programming language
+B. A computer language specialized to a particular application domain
+C. A language used for database queries only
+B
+DSLs are tailored for specific problem sets, improving expressiveness.
+What is 'Architectural Styles' in software?
+A. Different ways to write code syntax
+B. General, reusable solutions to commonly occurring problems in software architecture
+C. Visual themes for user interfaces
+B
+Examples include monolithic, microservices, client-server, etc.
+What is 'Container Orchestration' (e.g., Kubernetes)?
+A. Manually deploying individual containers
+B. Automating the deployment, scaling, and management of containerized applications
+C. A type of database management
+B
+Orchestration tools manage the lifecycle of many containers.
+What is 'Feature Creep'?
+A. A planned addition of new features
+B. The continuous or uncontrolled growth in a project's scope by adding new features beyond what was originally agreed upon
+C. Removing features from a project
+B
+Feature creep can lead to delays and cost overruns.
+Which type of documentation describes how to use the software from an end-user perspective?
+A. Technical Documentation
+B. User Documentation
+C. System Architecture Document
+B
+User documentation (e.g., user manuals) helps users operate the software.
+What is 'Risk Mitigation'?
+A. Accepting all risks as they come
+B. Taking actions to reduce the probability or impact of a risk event
+C. Ignoring risks until they become problems
+B
+Risk mitigation involves planning and implementing strategies to lessen risk.
+What is 'Kanban'?
+A. A rigid, phased approach to project management
+B. An Agile framework focusing on visualizing work, limiting work in progress, and maximizing flow
+C. A tool for designing user interfaces
+B
+Kanban emphasizes continuous delivery and process improvement.
+What is 'Technical Debt Refactoring'?
+A. Adding more technical debt to a project
+B. The process of intentionally dedicating time to address and resolve accumulated technical debt
+C. Ignoring technical debt
+B
+Addressing technical debt is crucial for long-term project health.
+What is 'Scalability Testing'?
+A. Testing the software on a single user
+B. Testing a software application's ability to handle increasing numbers of users or data without degrading performance
+C. Testing only the user interface
+B
+Scalability testing ensures the system can grow with demand.
+What is 'Software Reliability'?
+A. The ability of software to function correctly only once
+B. The probability that software will perform its intended function without failure for a specified period in a specified environment
+C. How fast the software loads
+B
+Reliability is a key quality attribute of software.
+What is 'Software Maintainability'?
+A. The effort required to make an existing software system more difficult to change
+B. The ease with which a software system can be understood, modified, and enhanced
+C. The cost of running the software
+B
+Maintainable software reduces long-term costs and effort.
+What is 'Design for Testability'?
+A. Designing software without considering testing
+B. Designing software in a way that makes it easier to test, for example, by providing clear interfaces and reducing dependencies
+C. Designing only the tests, not the software
+B
+Testable designs lead to more efficient and effective testing.
+What is 'Test Automation Framework'?
+A. A single automated test script
+B. A set of guidelines, tools, and best practices that organize and support automated software testing
+C. A manual testing process
+B
+Frameworks enhance the efficiency and maintainability of automated tests.
+What is 'Pairing' in the context of programming?
+A. Two separate programmers working on two separate modules
+B. Two programmers working together at one workstation on the same code
+C. One programmer writing code and the other designing the UI
+B
+Pairing, or Pair Programming, is an Agile practice.
+What is 'System Integration'?
+A. Connecting only hardware components
+B. The process of bringing together different subsystems to form a single, cohesive system
+C. Installing an operating system
+B
+System integration ensures all parts of a complex system work together.
+What is 'User Stories Mapping'?
+A. A technique for mapping user locations
+B. A visual tool used to create a holistic view of the user's journey and product backlog, organizing user stories into a coherent narrative
+C. A database schema diagram
+B
+User story mapping helps prioritize features based on user needs and value.
+What is 'Burn-down Chart' in Scrum?
+A. A chart showing the project budget over time
+B. A chart that displays the amount of work remaining in a sprint or release over time
+C. A chart showing developer vacation days
+B
+Burn-down charts provide a visual representation of progress.
+What is 'Spaghetti Code'?
+A. Well-structured, easy-to-understand code
+B. Code that is tangled, unstructured, and difficult to follow and maintain, often due to excessive use of GOTO statements or poor design
+C. Code written in a very old programming language
+B
+Spaghetti code is an anti-pattern.
+What is 'Event-Driven Architecture'?
+A. An architecture where components communicate by sending and receiving events
+B. An architecture where components are tightly coupled
+C. An architecture focused on batch processing
+A
+Event-driven architecture promotes loose coupling and scalability.
+What is 'Post-Mortem Analysis' in software projects?
+A. A celebration after project completion
+B. A review conducted at the end of a project to identify what went well, what went wrong, and what could be improved for future projects
+C. A technical design review
+B
+Post-mortems are crucial for continuous learning and improvement.
+What is 'Static Analysis Security Testing (SAST)'?
+A. Testing applications while they are running to find vulnerabilities
+B. Analyzing application source code, bytecode, or binary code to find security vulnerabilities without executing the code
+C. Manual penetration testing
+B
+SAST helps find security flaws early in the SDLC.
+What is 'Dynamic Analysis Security Testing (DAST)'?
+A. Analyzing source code without executing it
+B. Testing an application in its running state to find vulnerabilities that manifest at runtime
+C. Reviewing security policies
+B
+DAST simulates attacks on a running application.
+What is 'Infrastructure as Code (IaC)'?
+A. Manually configuring servers
+B. Managing and provisioning infrastructure through code instead of manual processes
+C. Writing applications in assembly language
+B
+IaC enables automation, versioning, and repeatability of infrastructure setup.
+What is 'Behavioral-Driven Development (BDD)'?
+A. A method where tests are written after the code is complete.
+B. A collaboration-focused development process that focuses on defining tests in a human-readable format before writing actual code.
+C. A method to only test the performance of the software.
+B
+BDD aims to create a shared understanding between technical and non-technical stakeholders.
+What is 'Chaos Engineering'?
+A. Intentionally causing system failures in a controlled environment to build resilience
+B. A method for designing highly stable systems
+C. A project management technique to reduce chaos
+A
+Chaos engineering proactively identifies weaknesses in distributed systems.
+What is a 'Deployment Pipeline'?
+A. A physical tube for data transfer
+B. The set of automated processes that get code changes from version control into the hands of users
+C. A manual process for releasing software
+B
+Deployment pipelines automate the entire release process.
+What is 'Trunk' in version control systems?
+A. A deprecated branch
+B. The main line of development, where all major changes are integrated
+C. A temporary branch for experimental features
+B
+Trunk is often referred to as 'main' or 'master' branch today.
+What is 'Blue/Green Deployment'?
+A. A deployment strategy where two identical production environments are maintained for zero-downtime releases
+B. A method for optimizing database performance
+C. A way to reduce cloud costs
+A
+Blue/Green deployment minimizes downtime and risk during releases.
+What is 'Canary Release'?
+A. Releasing new software to all users at once
+B. Releasing a new version of software to a small subset of users before a full rollout
+C. A type of bird watching for software
+B
+Canary releases help detect issues with minimal impact.
+What is 'Rollback' in software deployment?
+A. Deploying a new version of software
+B. Reverting a deployed software version to a previous stable state due to issues
+C. Installing new updates
+B
+Rollback is a critical safety measure in deployments.
+What is 'Container Orchestration'?
+A. Manual management of single containers
+B. Automated deployment, scaling, and management of containerized applications
+C. A tool for writing container images
+B
+Tools like Kubernetes are used for container orchestration.
+What is 'Observability' in software systems?
+A. The ability to monitor system failures only
+B. The ability to infer the internal state of a system by examining its outputs (logs, metrics, traces)
+C. The ability to only observe code during development
+B
+Observability is crucial for understanding and troubleshooting complex systems.
+What is 'Site Reliability Engineering (SRE)'?
+A. A discipline focused on software development for physical infrastructure
+B. A discipline that applies aspects of software engineering to infrastructure and operations problems, aiming to create highly reliable and scalable software systems
+C. A job role only for network engineers
+B
+SRE aims to bridge the gap between development and operations.
+What is 'Shift-Left Testing'?
+A. Performing all testing at the end of the SDLC
+B. Moving testing activities earlier in the software development lifecycle to find defects sooner
+C. Testing only the left side of the user interface
+B
+Shift-left testing leads to lower costs and higher quality.
+What is a 'Definition of Done' in Scrum?
+A. A list of all tasks that are completed
+B. A shared understanding within the Scrum Team of the quality standards and criteria that the increment must meet to be considered 'done'
+C. The final deadline of a project
+B
+The Definition of Done ensures consistent quality and transparency.
+What is 'Distributed System'?
+A. A system running on a single computer
+B. A system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages
+C. A system that only processes data in batches
+B
+Distributed systems offer scalability, reliability, and fault tolerance.
+What is 'Micro-frontend Architecture'?
+A. Building user interfaces as a single, large application
+B. An architectural style where a web application is decomposed into independent, smaller, and loosely coupled frontend applications
+C. A technique for optimizing backend performance
+B
+Micro-frontends allow independent development and deployment of UI components.
+What is 'DevOps Culture'?
+A. A culture focused on strict silos between development and operations teams
+B. A culture that emphasizes communication, collaboration, and integration between software developers and IT operations professionals
+C. A culture where only developers are responsible for deployments
+B
+DevOps culture promotes shared responsibility and efficiency.
+What is 'Event Sourcing'?
+A. Storing only the current state of an application
+B. Storing all changes to application state as a sequence of immutable events
+C. A method for real-time data analysis
+B
+Event sourcing ensures a complete audit trail and enables powerful analytical capabilities.
+What is 'Continuous Feedback' in Agile?
+A. Feedback given only at the end of the project
+B. The practice of regularly seeking and incorporating feedback from stakeholders and users throughout the development process
+C. Feedback given only to developers
+B
+Continuous feedback helps ensure the product meets user needs.
+What is 'Pair Programming's main goal?
+A. To reduce the number of developers on a project
+B. To improve code quality and facilitate knowledge transfer
+C. To make coding faster for individuals
+B
+Pair programming enhances the development process and product.
+What is 'Software Prototyping'?
+A. Building the final version of the software immediately
+B. Creating an incomplete version of the software system for demonstration and feedback purposes early in the SDLC
+C. A method for testing database performance
+B
+Prototyping helps clarify requirements and reduce risks.
+What is 'Root Cause Analysis (RCA)' in software?
+A. Finding superficial problems
+B. A process for identifying the underlying causes of problems or defects, rather than just addressing the symptoms
+C. Only analyzing the user interface
+B
+RCA helps prevent recurrence of issues.
+What is 'System Hardening'?
+A. Making a system more difficult to use
+B. The process of securing a system by reducing its attack surface and vulnerabilities
+C. Increasing the hardware specifications of a system
+B
+System hardening improves security posture.
+What is 'Domain Model' in software design?
+A. A database schema diagram
+B. An object model of the domain that incorporates both behavior and data
+C. A user interface wireframe
+B
+The domain model represents the real-world concepts relevant to the software.
+What is 'Value Stream Mapping'?
+A. A financial accounting technique
+B. A lean-management technique for analyzing the flow of materials and information required to bring a product or service to a consumer, identifying waste and opportunities for improvement
+C. A marketing strategy tool
+B
+Value stream mapping visualizes and optimizes end-to-end processes.
+What is 'Behavioral Design Pattern'?
+A. A pattern related to object creation
+B. A pattern related to how objects communicate and distribute responsibilities
+C. A pattern related to class structure
+B
+Behavioral patterns focus on interaction and responsibility assignment.
+What is 'Creational Design Pattern'?
+A. A pattern related to how objects communicate
+B. A pattern related to the creation of objects, attempting to create objects in a manner suitable to the situation
+C. A pattern related to class structure
+B
+Creational patterns abstract the instantiation process.
+What is 'Structural Design Pattern'?
+A. A pattern related to object creation
+B. A pattern related to how objects and classes are composed to form larger structures
+C. A pattern related to object behavior
+B
+Structural patterns simplify designs by identifying relationships between entities.
+What is 'SOLID Principles'?
+A. A set of rules for database design
+B. A mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable
+C. A type of testing methodology
+B
+SOLID principles are Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
+What is 'Test Pyramid'?
+A. A specific type of testing tool
+B. A metaphor that suggests writing many small, fast unit tests, fewer integration tests, and even fewer end-to-end UI tests
+C. A model for organizing test reports
+B
+The test pyramid promotes efficient and effective testing strategies.
+What is 'Feature Flag (Feature Toggle)'?
+A. A way to permanently enable a feature
+B. A technique that allows teams to turn features on or off without deploying code
+C. A method for hiding bugs in production
+B
+Feature flags enable A/B testing, gradual rollouts, and independent deployment of features.
+What is 'Clean Architecture'?
+A. An architecture focused on dirty code
+B. An architectural approach that aims to keep the business logic independent of frameworks, databases, and UIs, promoting testability and flexibility
+C. An architecture only for small applications
+B
+Clean Architecture fosters maintainable and scalable systems.
+What is 'Domain Expert' in software development?
+A. A person who only writes code
+B. A person with deep knowledge of the specific business domain for which the software is being developed
+C. A person who only tests software
+B
+Domain experts provide critical insights into business requirements.
+What is 'Continuous Improvement' in software development?
+A. Implementing a fixed process and never changing it
+B. An ongoing effort to improve products, services, or processes based on feedback and learning
+C. Only improving the speed of coding
+B
+Continuous improvement is a core tenet of Agile and Lean methodologies.
+What is 'Software Metrics'?
+A. The cost of software licenses
+B. Quantifiable measures used to characterize software development processes or products
+C. The number of developers on a team
+B
+Metrics help assess progress, quality, and productivity.
+What is 'Conway's Law'?
+A. A law about software performance
+B. The principle that organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations
+C. A law about software copyright
+B
+Conway's Law highlights the impact of organizational structure on software architecture.
+What is 'Design Review'?
+A. A review of completed code by users
+B. A formal meeting to examine and evaluate the design of a software system or component, identifying potential issues before implementation
+C. A review of the project budget
+B
+Design reviews catch architectural and design flaws early.
+What is 'Code Complete'?
+A. The phase where all testing is finished
+B. The point in the development cycle when all intended features are implemented and the code is considered ready for extensive testing
+C. The point when the software is released to users
+B
+Code complete means feature development is largely done.
+What is 'Golden Master Test' (or Approval Testing)?
+A. A test that only checks happy paths
+B. A testing technique where the output of a system is captured and compared against a previously approved 'golden master' output
+C. A test that validates only new features
+B
+Golden Master tests are useful for systems with complex or legacy behavior.
+What is 'Feature Branching'?
+A. Developing all features on the main branch
+B. A version control workflow where development for a new feature takes place in a dedicated branch, separate from the main codebase
+C. A method for deleting old features
+B
+Feature branches allow isolated development of new features.
+What is 'Rollback Plan'?
+A. A plan to never revert changes
+B. A documented strategy to revert a system to a previous stable state in case of a failed deployment or major issue
+C. A plan to add new features quickly
+B
+A rollback plan is crucial for minimizing downtime and risk.
+What is 'Technical Requirements Document (TRD)'?
+A. A document for end-users
+B. A document that specifies the technical details for implementing a system, often derived from functional requirements
+C. A document for marketing the product
+B
+The TRD provides specific technical guidance to developers.
+What is 'Dependency Injection'?
+A. A technique for injecting dependencies manually
+B. A software design pattern that allows the removal of hard-coded dependencies by injecting them at runtime, typically through a constructor or setter method
+C. A method for creating tightly coupled components
+B
+Dependency injection promotes loose coupling and testability.
+What is 'Behavioral-Driven Development (BDD)' main focus?
+A. To write code faster
+B. To define the desired behavior of the software from the perspective of the business and users
+C. To only test the internal logic of the code
+B
+BDD emphasizes collaboration and shared understanding of features.
+What is 'Gherkin Syntax' used for?
+A. Writing programming code
+B. A plain-text language used in Behavior-Driven Development (BDD) to describe software behavior in a human-readable format
+C. Designing databases
+B
+Gherkin uses a Given-When-Then structure for user stories.
+What is 'Sprint Review' in Scrum?
+A. A meeting where the Scrum Master inspects the team's work
+B. A formal meeting at the end of a Sprint where the Scrum Team inspects the Increment and adapts the Product Backlog if needed, and stakeholders provide feedback
+C. A meeting for planning the next Sprint
+B
+The Sprint Review is for inspection and adaptation of the product.
+What is 'Sprint Retrospective' in Scrum?
+A. A meeting for assigning tasks for the next Sprint
+B. A formal meeting at the end of a Sprint where the Scrum Team inspects itself and creates a plan for improvements to be enacted during the next Sprint
+C. A meeting to review user feedback
+B
+The Sprint Retrospective focuses on process improvement for the team itself.
+What is 'Product Backlog' in Scrum?
+A. A list of completed features
+B. An ordered list of everything that is known to be needed in the product, maintained by the Product Owner
+C. A list of bugs to be fixed
+B
+The Product Backlog is dynamic and evolves as more is learned.
+What is 'Sprint Backlog' in Scrum?
+A. A list of all features ever developed
+B. The set of Product Backlog items selected for the Sprint, plus the plan for delivering the product Increment and realizing the Sprint Goal
+C. A historical record of past Sprints
+B
+The Sprint Backlog is created by the Development Team for a given Sprint.
+What is 'Scrum Board'?
+A. A physical board only used for drawing
+B. A visual tool used in Scrum to track the progress of work within a Sprint, often divided into 'To Do', 'In Progress', and 'Done' columns
+C. A tool for writing code
+B
+Scrum boards (or Kanban boards) provide transparency of work.
+What is 'Velocity' in Scrum?
+A. The speed at which individual developers write code
+B. A measure of the amount of work a Scrum Team can complete in a Sprint
+C. The speed of the software application
+B
+Velocity helps in forecasting future work.
+What is 'Definition of Ready' in Agile?
+A. The criteria that must be met for a user story to be considered 'done'
+B. A shared understanding that an item is ready to be pulled into a Sprint, meaning it's clear, feasible, and estimable
+C. The readiness of the production environment
+B
+Definition of Ready ensures that stories are well-prepared before starting work.
+What is 'Feature Toggle' (or Feature Flag)?
+A. A permanent switch to enable a feature
+B. A technique to turn features on and off without deploying new code, enabling A/B testing or dark launches
+C. A method for deleting features
+B
+Feature toggles offer flexibility in feature management.
+What is 'Software Architecture'?
+A. The user interface design of an application
+B. The fundamental structures of a software system and the discipline of creating such structures
+C. The specific algorithms used in a program
+B
+Software architecture provides the high-level blueprint of the system.
+What is 'Event-Driven Architecture (EDA)'?
+A. An architectural pattern where components communicate by calling each other directly
+B. An architectural pattern where the state changes or actions are captured as 'events' that are published and consumed by other components
+C. An architecture primarily used for static websites
+B
+EDA promotes loose coupling and scalability by decoupling producers and consumers of events.
+What is 'Data Migration'?
+A. The process of analyzing data
+B. The process of transferring data between different storage types, formats, or computer systems
+C. The process of deleting old data
+B
+Data migration is often required during system upgrades or consolidations.
+What is 'Big Data' in software context?
+A. A very large database
+B. Data sets that are so voluminous and complex that traditional data-processing application software are inadequate to deal with them
+C. Data stored on a single hard drive
+B
+Big Data refers to data characterized by Volume, Velocity, and Variety.
