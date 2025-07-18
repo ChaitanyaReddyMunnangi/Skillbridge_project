@@ -1,0 +1,190 @@
+
+
+🗓️ Quiz Session: 2025-07-18 21:36:07
+──────────────────────────────────────────
+📄 SkillBridge Quiz Report
+👤 User: Dummy258
+🎯 Score: 7
+──────────────────────────────────────────
+🧠 Full Quiz Log:
+
+Q1: Which grain is traditionally used to make risotto (Set 9)?
+A) A. Jasmine rice
+B) B. Arborio rice
+C) C. Basmati rice
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Arborio rice is a starchy, short-grain rice ideal for making creamy risotto.
+------------------------------------------
+Q2: What is a roux made from (Set 8)?
+A) A. Butter and cream
+B) B. Flour and water
+C) C. Fat and flour
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: A roux is a mixture of fat (like butter) and flour, used to thicken sauces and soups.
+------------------------------------------
+Q3: Which of the following is a dry-heat cooking method (Set 1)?
+A) A. Boiling
+B) B. Steaming
+C) C. Roasting
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Roasting is a dry-heat cooking technique, typically done in an oven.
+------------------------------------------
+Q4: Which knife is primarily used for chopping vegetables (Set 5)?
+A) A. Paring knife
+B) B. Cleaver
+C) C. Chef's knife
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: The chef's knife is a multipurpose tool ideal for chopping, dicing, and slicing vegetables.
+------------------------------------------
+Q5: What is a roux made from (Set 1)?
+A) A. Butter and cream
+B) B. Flour and water
+C) C. Fat and flour
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: A roux is a mixture of fat (like butter) and flour, used to thicken sauces and soups.
+------------------------------------------
+Q6: Which grain is traditionally used to make risotto (Set 6)?
+A) A. Jasmine rice
+B) B. Arborio rice
+C) C. Basmati rice
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Arborio rice is a starchy, short-grain rice ideal for making creamy risotto.
+------------------------------------------
+Q7: Which of these is NOT a mother sauce in classical French cuisine (Set 2)?
+A) A. Hollandaise
+B) B. Béchamel
+C) C. Pesto
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Pesto is not one of the five French mother sauces. Hollandaise and Béchamel are.
+------------------------------------------
+Q8: Which knife is primarily used for chopping vegetables (Set 2)?
+A) A. Paring knife
+B) B. Cleaver
+C) C. Chef's knife
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: The chef's knife is a multipurpose tool ideal for chopping, dicing, and slicing vegetables.
+------------------------------------------
+Q9: What is mise en place (Set 9)?
+A) A. A French dessert
+B) B. A type of cooking oil
+C) C. The setup of ingredients before cooking
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: 'Mise en place' is a French culinary phrase meaning 'everything in its place' — prepping all ingredients before cooking.
+------------------------------------------
+Q10: What does the term 'al dente' mean when cooking pasta (Set 6)?
+A) A. Very soft
+B) B. Slightly firm to the bite
+C) C. Overcooked
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: 'Al dente' is Italian for 'to the tooth', meaning the pasta is cooked to be firm when bitten.
+------------------------------------------
+Q11: Which of these is NOT a mother sauce in classical French cuisine (Set 5)?
+A) A. Hollandaise
+B) B. Béchamel
+C) C. Pesto
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Pesto is not one of the five French mother sauces. Hollandaise and Béchamel are.
+------------------------------------------
+Q12: Which of these is NOT a mother sauce in classical French cuisine (Set 9)?
+A) A. Hollandaise
+B) B. Béchamel
+C) C. Pesto
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Pesto is not one of the five French mother sauces. Hollandaise and Béchamel are.
+------------------------------------------
+Q13: Which vitamin is destroyed when vegetables are overboiled (Set 2)?
+A) A. Vitamin A
+B) B. Vitamin C
+C) C. Vitamin D
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Vitamin C is water-soluble and sensitive to heat, often lost when vegetables are overboiled.
+------------------------------------------
+Q14: What is the safe internal cooking temperature for poultry (in °C) (Set 3)?
+A) A. 63°C
+B) B. 75°C
+C) C. 90°C
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Poultry should be cooked to a minimum internal temperature of 75°C to ensure food safety.
+------------------------------------------
+Q15: What is mise en place (Set 10)?
+A) A. A French dessert
+B) B. A type of cooking oil
+C) C. The setup of ingredients before cooking
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: 'Mise en place' is a French culinary phrase meaning 'everything in its place' — prepping all ingredients before cooking.
+------------------------------------------
+Q16: Which of the following is a dry-heat cooking method (Set 7)?
+A) A. Boiling
+B) B. Steaming
+C) C. Roasting
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Roasting is a dry-heat cooking technique, typically done in an oven.
+------------------------------------------
+Q17: Which vitamin is destroyed when vegetables are overboiled (Set 6)?
+A) A. Vitamin A
+B) B. Vitamin C
+C) C. Vitamin D
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Vitamin C is water-soluble and sensitive to heat, often lost when vegetables are overboiled.
+------------------------------------------
+Q18: What does the term 'al dente' mean when cooking pasta (Set 2)?
+A) A. Very soft
+B) B. Slightly firm to the bite
+C) C. Overcooked
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: 'Al dente' is Italian for 'to the tooth', meaning the pasta is cooked to be firm when bitten.
+------------------------------------------
+Q19: Which of the following is a dry-heat cooking method (Set 8)?
+A) A. Boiling
+B) B. Steaming
+C) C. Roasting
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Roasting is a dry-heat cooking technique, typically done in an oven.
+------------------------------------------
+Q20: What is a roux made from (Set 7)?
+A) A. Butter and cream
+B) B. Flour and water
+C) C. Fat and flour
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: A roux is a mixture of fat (like butter) and flour, used to thicken sauces and soups.
+------------------------------------------
