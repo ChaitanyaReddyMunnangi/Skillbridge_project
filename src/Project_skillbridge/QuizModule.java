@@ -10,50 +10,39 @@ public class QuizModule {
     private final Scanner sc = new Scanner(System.in);
     private int lastScore = 0;
     private final List<Question> wrongAnswers = new ArrayList<>();
+    private final List<Question> allQuestionsAttempted = new ArrayList<>();
 
-    /* ───────────────────────────────────────────────────────────
-       Constructor: maps every sub‑category to its question file
-       (Make sure these 20 text files are present in
-        resources/Project_skillbridge/ before running the quiz.)
-       ─────────────────────────────────────────────────────────── */
     public QuizModule() {
-
-        /* ---------- IT Sector (10) ---------- */
         Map<String, String> it = new LinkedHashMap<>();
-        it.put("Software Developer",               "software_development_cleaned.txt");
-        it.put("Data Scientist",                   "data_scientist_cleaned.txt");
-        it.put("System Administrator",             "system_administrator_cleaned.txt");
-        it.put("Cyber Security Analyst",           "cyber_security_analyst_cleaned.txt");
-        it.put("Mobile App Developer",             "mobile_app_developer_cleaned.txt");
-        it.put("Web Developer",                    "web_development_cleaned.txt");
-        it.put("IT Officer (Govt Banks)",          "it_officer_govt_banks_cleaned.txt");
-        it.put("Programmer (NIC)",                 "programmer_nic_cleaned.txt");
-        it.put("AI/ML Engineer",                   "ai_ml_engineer_cleaned.txt");
-        it.put("Cloud Engineer",                   "cloud_computing_cleaned.txt");
+        it.put("Software Developer", "software_development_cleaned.txt");
+        it.put("Data Scientist", "data_scientist_cleaned.txt");
+        it.put("System Administrator", "system_administrator_cleaned.txt");
+        it.put("Cyber Security Analyst", "cyber_security_analyst_cleaned.txt");
+        it.put("Mobile App Developer", "mobile_app_developer_cleaned.txt");
+        it.put("Web Developer", "web_development_cleaned.txt");
+        it.put("IT Officer (Govt Banks)", "it_officer_govt_banks_cleaned.txt");
+        it.put("Programmer (NIC)", "programmer_nic_cleaned.txt");
+        it.put("AI/ML Engineer", "ai_ml_engineer_cleaned.txt");
+        it.put("Cloud Engineer", "cloud_computing_cleaned.txt");
         fileMap.put("IT Sector", it);
 
-        /* ---------- Non‑IT Sector (10) ---------- */
         Map<String, String> nonIt = new LinkedHashMap<>();
-        nonIt.put("Marketing",         "marketing_cleaned.txt");
-        nonIt.put("Management",         "management_cleaned.txt");
-        nonIt.put("Accountant",                    "accountant_cleaned.txt");
-        nonIt.put("Police Officer",                "police_officer_cleaned.txt");
+        nonIt.put("Marketing", "marketing_cleaned.txt");
+        nonIt.put("Management", "management_cleaned.txt");
+        nonIt.put("Accountant", "accountant_cleaned.txt");
+        nonIt.put("Police Officer", "police_officer_cleaned.txt");
         nonIt.put("Administrative Officer (IAS/IPS)", "administrative_officer_ias_ips_cleaned.txt");
-        nonIt.put("Bank Clerk (Govt Banks)",       "banking_cleaned.txt");
-        nonIt.put("Hotel Management",                          "chef_cleaned.txt");
-        nonIt.put("Lawyer",                        "lawyer_cleaned.txt");
+        nonIt.put("Bank Clerk (Govt Banks)", "banking_cleaned.txt");
+        nonIt.put("Hotel Management", "chef_cleaned.txt");
+        nonIt.put("Lawyer", "lawyer_cleaned.txt");
         nonIt.put("Civil Engineer (Govt Projects)", "civil_engineer_govt_projects_cleaned.txt");
-        nonIt.put("Journalist",                    "journalist_cleaned.txt");
+        nonIt.put("Journalist", "journalist_cleaned.txt");
         fileMap.put("Non-IT Sector", nonIt);
     }
 
-    /* ───────────────────────────────────────────────────────────
-       Everything below is unchanged
-       ─────────────────────────────────────────────────────────── */
-
-    public void startQuiz() {
+    public void startQuiz(String username) {
         wrongAnswers.clear();
-        System.out.println("\n\u001B[35m📚 SkillBridge – Sector‑Aware Quiz\u001B[0m");
+        System.out.println("\n📚 SkillBridge – Sector‑Aware Quiz");
 
         String sector = choose("sector", new ArrayList<>(fileMap.keySet()));
         if (sector == null) return;
@@ -64,8 +53,9 @@ public class QuizModule {
         String resourcePath = fileMap.get(sector).get(sub);
         List<Question> questions = loadFromPackageResource(resourcePath);
         if (questions.isEmpty()) {
-            System.out.println("\u001B[31m⚠️  No questions loaded for " + sub + "\u001B[0m");
+            System.out.println("⚠️  No questions loaded for " + sub);
             return;
+
         }
 
         Collections.shuffle(questions);
@@ -74,51 +64,104 @@ public class QuizModule {
 
         for (int i = 0; i < total; i++) {
             Question q = questions.get(i);
-            System.out.println("\n\u001B[36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001B[0m");
-            System.out.println("\u001B[33mQ" + (i + 1) + ": " + q.q + "\u001B[0m");
-            System.out.println("\u001B[34mA) " + q.a + "\u001B[0m");
-            System.out.println("\u001B[34mB) " + q.b + "\u001B[0m");
-            System.out.println("\u001B[34mC) " + q.c + "\u001B[0m");
-            System.out.println("\u001B[36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001B[0m");
+            System.out.println("\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
+            System.out.println("Q" + (i + 1) + ": " + q.q);
+            System.out.println("A) " + q.a);
+            System.out.println("B) " + q.b);
+            System.out.println("C) " + q.c);
+            System.out.println("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
 
             char ans = readABC();
+            q.userAnswer = ans;
+            allQuestionsAttempted.add(q);
 
             if (ans == q.correct) {
-                System.out.println("\u001B[32m✅ Correct!\u001B[0m");
+                System.out.println("✅ Correct!");
                 score++;
             } else {
-                System.out.println("\u001B[31m❌ Incorrect. Correct: " + q.correct + "\u001B[0m");
+                System.out.println("❌ Incorrect. Correct: " + q.correct);
                 wrongAnswers.add(q);
             }
 
             System.out.println("💡 Explanation: " + q.expl);
         }
 
-        System.out.println("\n\u001B[35m🎯 You scored " + score + " / " + total + "\u001B[0m");
+        System.out.println("\n🎯 You scored " + score + " / " + total);
         lastScore = score;
 
+        System.out.print("📁 Do you want to save this quiz report? (y/n): ");
+        String saveChoice = sc.nextLine().trim().toLowerCase();
+        if (saveChoice.equals("y")) saveQuizReport(username);
+
         if (!wrongAnswers.isEmpty()) {
-            System.out.print("\u001B[36mWould you like to review incorrect answers? (y/n): \u001B[0m");
-            String reviewChoice = sc.nextLine().trim().toLowerCase();
-            if (reviewChoice.equals("y")) {
-                System.out.println("\n\u001B[36m🔍 Review of Incorrect Answers:\u001B[0m");
+            System.out.print("🔍 Review incorrect answers? (y/n): ");
+            if (sc.nextLine().trim().equalsIgnoreCase("y")) {
                 int i = 1;
                 for (Question q : wrongAnswers) {
-                    System.out.println("\n\u001B[33mQ" + (i++) + ": " + q.q + "\u001B[0m");
-                    System.out.println("\u001B[34mA) " + q.a);
+                    System.out.println("\nQ" + (i++) + ": " + q.q);
+                    System.out.println("A) " + q.a);
                     System.out.println("B) " + q.b);
                     System.out.println("C) " + q.c);
-                    System.out.println("\u001B[31mCorrect Answer: " + q.correct + "\u001B[0m");
+                    System.out.println("Correct Answer: " + q.correct);
                     System.out.println("💡 " + q.expl);
                 }
             }
         }
     }
 
-    public int getLastScore() { return lastScore; }
+    private void saveQuizReport(String username) {
+        String filename = username + "_QuizReport.txt";
+
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(filename, true))){  // ✅ appends{
+            writer.write("\n\n🗓️ Quiz Session: " +
+                    new java.text.SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
+            writer.newLine();
+            writer.write("──────────────────────────────────────────");
+            writer.newLine();
+            writer.write("📄 SkillBridge Quiz Report");
+            writer.newLine();
+            writer.write("👤 User: " + username);
+            writer.newLine();
+            writer.write("🎯 Score: " + lastScore);
+            writer.newLine();
+            writer.write("──────────────────────────────────────────");
+            writer.newLine();
+            writer.write("🧠 Full Quiz Log:");
+            writer.newLine();
+
+            int i = 1;
+            for (Question q : allQuestionsAttempted) {
+                writer.newLine();
+                writer.write("Q" + (i++) + ": " + q.q);
+                writer.newLine();
+                writer.write("A) " + q.a);
+                writer.newLine();
+                writer.write("B) " + q.b);
+                writer.newLine();
+                writer.write("C) " + q.c);
+                writer.newLine();
+                writer.write("✔ Correct Answer: " + q.correct);
+                writer.newLine();
+                writer.write("📝 Your Answer: " + q.userAnswer);
+                writer.newLine();
+                writer.write(q.userAnswer == q.correct ? "✅ Correct" : "❌ Incorrect");
+                writer.newLine();
+                writer.write("💡 Explanation: " + q.expl);
+                writer.newLine();
+                writer.write("------------------------------------------");
+            }
+
+            System.out.println("✅ Quiz report saved as " + filename);
+        } catch (IOException e) {
+            System.out.println("❌ Error saving report: " + e.getMessage());
+        }
+    }
+    public int getLastScore() {
+        return lastScore;
+    }
 
     private String choose(String what, List<String> opts) {
-        System.out.println("\n\u001B[36mChoose " + what + ":\u001B[0m");
+        System.out.println("\nChoose " + what + ":");
         for (int i = 0; i < opts.size(); i++) {
             System.out.println((i + 1) + ". " + opts.get(i));
         }
@@ -126,8 +169,9 @@ public class QuizModule {
         try {
             int c = Integer.parseInt(sc.nextLine().trim());
             if (c >= 1 && c <= opts.size()) return opts.get(c - 1);
-        } catch (Exception ignored) {}
-        System.out.println("\u001B[31m❌ Invalid choice.\u001B[0m");
+        } catch (Exception ignored) {
+        }
+        System.out.println("❌ Invalid choice.");
         return null;
     }
 
@@ -136,7 +180,7 @@ public class QuizModule {
             System.out.print("Your answer (A/B/C): ");
             String in = sc.nextLine().trim().toUpperCase();
             if (in.matches("[ABC]")) return in.charAt(0);
-            System.out.println("\u001B[33m⚠️  Enter A, B or C only.\u001B[0m");
+            System.out.println("⚠️  Enter A, B or C only.");
         }
     }
 
@@ -148,7 +192,7 @@ public class QuizModule {
                         : "/Project_skillbridge/" + resourceName)) {
 
             if (is == null) {
-                System.out.println("\u001B[31m⚠️  Could not find resource: " + resourceName + "\u001B[0m");
+                System.out.println("⚠️  Could not find resource: " + resourceName);
                 return list;
             }
 
@@ -163,10 +207,9 @@ public class QuizModule {
                 char correct = lines.get(i + 4).trim().toUpperCase().charAt(0);
                 String expl = lines.get(i + 5).trim();
 
-                // ✅ Validate that all three options are distinct
                 Set<String> optionSet = new HashSet<>(Arrays.asList(a, b, c));
                 if (optionSet.size() < 3) {
-                    System.out.println("\u001B[33m⚠️  Skipped question due to duplicate options:\u001B[0m " + q);
+                    System.out.println("⚠️  Skipped question due to duplicate options: " + q);
                     continue;
                 }
 
@@ -174,19 +217,18 @@ public class QuizModule {
             }
 
         } catch (IOException e) {
-            System.out.println("\u001B[31m❌ Error reading resource: " + e.getMessage() + "\u001B[0m");
+            System.out.println("❌ Error reading resource: " + e.getMessage());
         }
 
         return list;
     }
 
-
-    /* Question DTO */
     public static class Question {
         String q, a, b, c, expl;
         char correct;
-        Question(String q, String a, String b, String c,
-                 char correct, String expl) {
+        char userAnswer;
+
+        Question(String q, String a, String b, String c, char correct, String expl) {
             this.q = q;
             this.a = a;
             this.b = b;

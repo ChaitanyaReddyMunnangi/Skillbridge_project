@@ -1,0 +1,375 @@
+📄 SkillBridge Quiz Report
+👤 User: Dhanujay
+🎯 Score: 16
+──────────────────────────────────────────
+🧠 Full Quiz Log:
+
+Q1: What is the primary goal of 'User Acceptance Testing (UAT)'?
+A) A. To test individual software modules
+B) B. To verify that the software meets the user's needs and business requirements
+C) C. To check system performance under load
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: UAT is performed by end-users to ensure the system is fit for purpose.
+------------------------------------------
+Q2: What is the 'Principle of Least Astonishment'?
+A) A. Code should be surprising and complex
+B) B. A system should behave in a way that is consistent with how users are likely to expect it to behave
+C) C. Developers should try to surprise users with new features
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: This principle promotes intuitive and predictable software behavior.
+------------------------------------------
+Q3: What is the goal of 'Performance Optimization'?
+A) A. To increase memory usage
+B) B. To make software run faster, more efficiently, or use fewer resources
+C) C. To add more features to the software
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Performance optimization improves the responsiveness and resource efficiency of applications.
+------------------------------------------
+Q4: What is 'SOLID Principles'?
+A) A. A set of rules for database design
+B) B. A mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable
+C) C. A type of testing methodology
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: SOLID principles are Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
+------------------------------------------
+Q5: What is 'Software Metrics'?
+A) A. The cost of software licenses
+B) B. Quantifiable measures used to characterize software development processes or products
+C) C. The number of developers on a team
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Metrics help assess progress, quality, and productivity.
+------------------------------------------
+Q6: Which software architecture pattern separates an application into three logical layers: presentation, business logic, and data access?
+A) A. Microservices
+B) B. Monolithic
+C) C. Three-tier architecture
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Three-tier architecture improves modularity and scalability.
+------------------------------------------
+Q7: What is the purpose of 'UML' in software engineering?
+A) A. To write code faster
+B) B. To graphically represent the design and structure of software systems
+C) C. To manage project timelines
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: UML (Unified Modeling Language) is a standard for visualizing system design.
+------------------------------------------
+Q8: What is 'Concurrency' in programming?
+A) A. Running multiple tasks simultaneously on multiple processors
+B) B. Executing multiple computations at the same time, possibly interacting with each other
+C) C. Having only one task running at a time
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Concurrency allows multiple tasks to make progress independently.
+------------------------------------------
+Q9: Which artifact contains detailed information about a bug, including steps to reproduce, expected vs. actual results, and severity?
+A) A. User Story
+B) B. Test Case
+C) C. Bug Report/Defect Report
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Bug reports are essential for effective defect resolution.
+------------------------------------------
+Q10: What is 'System Hardening'?
+A) A. Making a system more difficult to use
+B) B. The process of securing a system by reducing its attack surface and vulnerabilities
+C) C. Increasing the hardware specifications of a system
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: System hardening improves security posture.
+------------------------------------------
+Q11: What is a 'Build' in software terms?
+A) A. The process of writing source code
+B) B. The process of converting source code into an executable program or deployable artifact
+C) C. The final user interface
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: A build creates a functional version of the software.
+------------------------------------------
+Q12: What is Continuous Integration (CI)?
+A) A. A process where developers manually test code daily
+B) B. The practice of merging all developers' working copies to a shared mainline several times a day
+C) C. A method for deploying software to production
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: CI helps detect integration issues early and keeps the codebase healthy.
+------------------------------------------
+Q13: What is 'Risk Management' in software projects?
+A) A. Ignoring potential problems
+B) B. Identifying, assessing, and controlling threats to a project's success
+C) C. Only dealing with financial risks
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Effective risk management minimizes negative impacts on projects.
+------------------------------------------
+Q14: Which phase of SDLC involves coding and actual implementation?
+A) A. Design
+B) B. Implementation/Coding
+C) C. Maintenance
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: This is where the software is built according to the design.
+------------------------------------------
+Q15: What is 'Feature Toggle' (or Feature Flag)?
+A) A. A permanent switch to enable a feature
+B) B. A technique to turn features on and off without deploying new code, enabling A/B testing or dark launches
+C) C. A method for deleting features
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Feature toggles offer flexibility in feature management.
+------------------------------------------
+Q16: What is 'User Experience (UX)' design focused on?
+A) A. The visual appearance of the application
+B) B. The overall experience a user has with a product, service, or system, encompassing usability, accessibility, and pleasure
+C) C. The speed of the application
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: UX design considers the entire journey and feelings of the user.
+------------------------------------------
+Q17: What is 'Blue/Green Deployment'?
+A) A. A deployment strategy where two identical production environments are maintained for zero-downtime releases
+B) B. A method for optimizing database performance
+C) C. A way to reduce cloud costs
+✔ Correct Answer: A
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Blue/Green deployment minimizes downtime and risk during releases.
+------------------------------------------
+Q18: What is a 'Proof of Concept (PoC)'?
+A) A. A fully functional software product
+B) B. A small project or exercise to demonstrate the feasibility of a concept or idea
+C) C. A detailed technical specification
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: PoC validates technical viability.
+------------------------------------------
+Q19: What is 'Shift-Left Testing'?
+A) A. Performing all testing at the end of the SDLC
+B) B. Moving testing activities earlier in the software development lifecycle to find defects sooner
+C) C. Testing only the left side of the user interface
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Shift-left testing leads to lower costs and higher quality.
+------------------------------------------
+Q20: What is 'Continuous Delivery (CD)'?
+A) A. Delivering software only once a year
+B) B. The practice of releasing new changes to production manually
+C) C. An extension of Continuous Integration, where code is always in a deployable state and can be released to production at any time
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: CD ensures software can be reliably released at any point.
+------------------------------------------
+
+🗓️ Quiz Session: 2025-07-17 22:03:01
+──────────────────────────────────────────
+📄 SkillBridge Quiz Report
+👤 User: Dhanujay
+🎯 Score: 8
+──────────────────────────────────────────
+🧠 Full Quiz Log:
+
+Q1: Which library is most commonly used for data manipulation in Python (Set 10)?
+A) A. Pandas
+B) B. TensorFlow
+C) C. Matplotlib
+✔ Correct Answer: A
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+------------------------------------------
+Q2: What is the primary goal of exploratory data analysis (EDA) (Set 5)?
+A) A. To deploy machine learning models to production
+B) B. To clean data using regular expressions
+C) C. To summarize main characteristics of data and discover patterns
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+------------------------------------------
+Q3: What is the purpose of one-hot encoding (Set 4)?
+A) A. To reduce dataset dimensionality
+B) B. To encode categorical variables as binary vectors
+C) C. To detect outliers
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+------------------------------------------
+Q4: What is the primary goal of exploratory data analysis (EDA) (Set 10)?
+A) A. To deploy machine learning models to production
+B) B. To clean data using regular expressions
+C) C. To summarize main characteristics of data and discover patterns
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: EDA helps analysts understand data distributions, detect outliers, and uncover patterns before formal modeling.
+------------------------------------------
+Q5: What is the purpose of one-hot encoding (Set 2)?
+A) A. To reduce dataset dimensionality
+B) B. To encode categorical variables as binary vectors
+C) C. To detect outliers
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+------------------------------------------
+Q6: Which of the following is a supervised machine learning algorithm (Set 2)?
+A) A. K-Means Clustering
+B) B. Principal Component Analysis
+C) C. Random Forest
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Random Forest is a supervised learning method used for classification and regression.
+------------------------------------------
+Q7: Which SQL clause is used to filter rows based on a condition (Set 9)?
+A) A. GROUP BY
+B) B. ORDER BY
+C) C. WHERE
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: The WHERE clause is used to filter records based on specified conditions.
+------------------------------------------
+Q8: What type of plot is best for visualizing the distribution of a single numerical variable (Set 5)?
+A) A. Bar Chart
+B) B. Histogram
+C) C. Line Plot
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: Histograms show the frequency distribution of a numerical variable across intervals.
+------------------------------------------
+Q9: In Python, which package is commonly used for numerical computations (Set 3)?
+A) A. Scikit-learn
+B) B. NumPy
+C) C. BeautifulSoup
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: NumPy supports powerful N-dimensional arrays and numerical operations.
+------------------------------------------
+Q10: Which library is most commonly used for data manipulation in Python (Set 7)?
+A) A. Pandas
+B) B. TensorFlow
+C) C. Matplotlib
+✔ Correct Answer: A
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Pandas provides data structures like DataFrames and Series for data manipulation and analysis in Python.
+------------------------------------------
+Q11: What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 5)?
+A) A. axis=0 (columns)
+B) B. axis=1 (rows)
+C) C. axis=2 (entire frame)
+✔ Correct Answer: A
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+------------------------------------------
+Q12: What is the purpose of one-hot encoding (Set 9)?
+A) A. To reduce dataset dimensionality
+B) B. To encode categorical variables as binary vectors
+C) C. To detect outliers
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+------------------------------------------
+Q13: Which evaluation metric is best suited for imbalanced classification problems (Set 2)?
+A) A. Accuracy
+B) B. F1 Score
+C) C. Mean Squared Error
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+------------------------------------------
+Q14: What is the default axis used by the Pandas 'mean()' function on a DataFrame (Set 6)?
+A) A. axis=0 (columns)
+B) B. axis=1 (rows)
+C) C. axis=2 (entire frame)
+✔ Correct Answer: A
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: By default, Pandas 'mean()' computes the mean for each column (i.e., along axis=0).
+------------------------------------------
+Q15: What does 'overfitting' mean in machine learning (Set 7)?
+A) A. Model performs poorly on training data
+B) B. Model generalizes well on unseen data
+C) C. Model learns noise and performs poorly on new data
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Overfitting occurs when a model learns noise in the training data and fails to generalize to unseen data.
+------------------------------------------
+Q16: Which SQL clause is used to filter rows based on a condition (Set 2)?
+A) A. GROUP BY
+B) B. ORDER BY
+C) C. WHERE
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: The WHERE clause is used to filter records based on specified conditions.
+------------------------------------------
+Q17: Which SQL clause is used to filter rows based on a condition (Set 10)?
+A) A. GROUP BY
+B) B. ORDER BY
+C) C. WHERE
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: The WHERE clause is used to filter records based on specified conditions.
+------------------------------------------
+Q18: Which evaluation metric is best suited for imbalanced classification problems (Set 1)?
+A) A. Accuracy
+B) B. F1 Score
+C) C. Mean Squared Error
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: F1 Score balances precision and recall, making it ideal for imbalanced datasets.
+------------------------------------------
+Q19: Which of the following is a supervised machine learning algorithm (Set 5)?
+A) A. K-Means Clustering
+B) B. Principal Component Analysis
+C) C. Random Forest
+✔ Correct Answer: C
+📝 Your Answer: B
+❌ Incorrect
+💡 Explanation: Random Forest is a supervised learning method used for classification and regression.
+------------------------------------------
+Q20: What is the purpose of one-hot encoding (Set 10)?
+A) A. To reduce dataset dimensionality
+B) B. To encode categorical variables as binary vectors
+C) C. To detect outliers
+✔ Correct Answer: B
+📝 Your Answer: B
+✅ Correct
+💡 Explanation: One-hot encoding converts categorical values into binary vectors for machine learning algorithms.
+------------------------------------------

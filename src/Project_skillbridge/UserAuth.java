@@ -6,53 +6,58 @@ import java.util.regex.Pattern;
 
 public class UserAuth {
 
-    private static class User {
-        String password;
-        String securityQuestion;
-        String securityAnswer;
-        Map<String, Integer> quizScores = new HashMap<>();
+    private static class QuizAttempt implements Serializable {
+        String category;
+        int score;
+        Date attemptDate;
 
-        public User(String password, String securityQuestion, String securityAnswer) {
-            this.password = password;
-            this.securityQuestion = securityQuestion;
-            this.securityAnswer = securityAnswer;
-        }
-
-        @Override
-        public String toString() {
-            StringBuilder sb = new StringBuilder();
-            sb.append(password).append(";;")
-                    .append(securityQuestion).append(";;")
-                    .append(securityAnswer).append(";;");
-            for (Map.Entry<String, Integer> entry : quizScores.entrySet()) {
-                sb.append(entry.getKey()).append("::").append(entry.getValue()).append(";;");
-            }
-            return sb.toString();
-        }
-
-        public static User fromString(String data) {
-            String[] parts = data.split(";;");
-            if (parts.length < 3) return null;
-            User user = new User(parts[0], parts[1], parts[2]);
-            for (int i = 3; i < parts.length; i++) {
-                if (parts[i].contains("::")) {
-                    String[] kv = parts[i].split("::");
-                    if (kv.length == 2) {
-                        user.quizScores.put(kv[0], Integer.parseInt(kv[1]));
-                    }
-                }
-            }
-            return user;
+        public QuizAttempt(String category, int score) {
+            this.category = category;
+            this.score = score;
+            this.attemptDate = new Date();
         }
     }
 
-    private static final String DATA_FILE = "users.txt";
+    private static class User implements Serializable {
+        String username;
+        String password;
+        String securityQuestion;
+        String securityAnswer;
+        String educationalBackground;
+        String fullName;
+        int age;
+        String email;
+        String address;
+        String qualification;
+        Set<String> skills = new HashSet<>();
+
+        List<QuizAttempt> quizHistory = new ArrayList<>();
+
+        public User(String username, String password, String securityQuestion, String securityAnswer,
+                    String educationalBackground, String fullName, int age, String email,
+                    String address, String qualification, Set<String> skills) {
+            this.username = username;
+            this.password = password;
+            this.securityQuestion = securityQuestion;
+            this.securityAnswer = securityAnswer;
+            this.educationalBackground = educationalBackground;
+            this.fullName = fullName;
+            this.age = age;
+            this.email = email;
+            this.address = address;
+            this.qualification = qualification;
+            this.skills = skills;
+
+        }
+    }
+
     private Map<String, User> users = new HashMap<>();
     private Scanner sc = new Scanner(System.in);
     private String currentUser = null;
+    private static final String DATA_FILE = "users_data.txt";
 
     public UserAuth() {
-        loadUsers();
+        loadUserData();
     }
 
     public void loginSignup() {
@@ -62,8 +67,7 @@ public class UserAuth {
             System.out.println("\u001B[34m╚══════════════════════════════════════════╝\u001B[0m");
             System.out.println("\u001B[33m1. ✍️  Sign Up\u001B[0m");
             System.out.println("\u001B[32m2. 🔓 Log In\u001B[0m");
-            System.out.println("\u001B[36m3. ❓ Forgot Password\u001B[0m");
-            System.out.println("\u001B[31m4. ❌ Exit\u001B[0m");
+            System.out.println("\u001B[31m3. ❌ Exit\u001B[0m");
             System.out.print("Choose option: ");
             String choice = sc.nextLine();
 
@@ -75,172 +79,211 @@ public class UserAuth {
                         return;
                     }
                     break;
-                case "3": forgotPassword(); break;
-                case "4": System.out.println("Exiting..."); System.exit(0); break;
+                case "3": saveUserData(); System.out.println("Exiting..."); System.exit(0); break;
                 default: System.out.println("Invalid option. Try again.");
             }
         }
     }
 
     private void signUp() {
+        System.out.print("\u001B[34mEnter Full Name: ");
+        String fullName = sc.nextLine().trim();
+
+        int age;
+        while (true) {
+            System.out.print("Enter Age: ");
+            try {
+                age = Integer.parseInt(sc.nextLine().trim());
+                if (age > 0) break;
+            } catch (NumberFormatException ignored) {}
+            System.out.println("❌ Invalid age.");
+        }
+
+        String email;
+        while (true) {
+            System.out.print("\u001B[32mEnter Email ID: ");
+            email = sc.nextLine().trim();
+            if (email.contains("@") && email.contains(".")) break;
+            System.out.println("❌ Invalid email format.");
+        }
+
+        String address;
+        while (true) {
+            System.out.print("\u001B[33mEnter Address: ");
+            address = sc.nextLine().trim();
+            if (!address.isEmpty()) break;
+            System.out.println("❌ Address can't be empty.");
+        }
+
+        System.out.print("\u001B[31mEnter Qualification: ");
+        String qualification = sc.nextLine().trim();
+
+        Set<String> skills = new HashSet<>();
+        System.out.print("\u001B[36mEnter number of skills: ");
+        int numSkills = Integer.parseInt(sc.nextLine().trim());
+        for (int i = 1; i <= numSkills; i++) {
+            System.out.print("Enter skill " + i + ": ");
+            skills.add(sc.nextLine().trim());
+        }
+
+
+
         String username;
         while (true) {
-            System.out.print("Enter username (min 8 chars, no spaces): ");
+            System.out.print("\u001B[35mSet Username (min 8 chars, no spaces): ");
             username = sc.nextLine().trim();
-            if (username.length() >= 8 && !username.contains(" ")) {
-                if (!users.containsKey(username)) break;
-                System.out.println("\u001B[31m⚠️  Username already taken!\u001B[0m");
+            if (username.length() < 8 || username.contains(" ")) {
+                System.out.println("❌ Username must be at least 8 characters and contain no spaces.");
+            } else if (users.containsKey(username)) {
+                System.out.println("🚫 You are already registered with this username.");
+                return; // Exit the signUp() method
             } else {
-                System.out.println("\u001B[31m⚠️  Username must be at least 8 characters and contain no spaces.\u001B[0m");
+                break;
             }
         }
 
         String password;
         while (true) {
-            System.out.print("Enter strong password (min 8 chars, 1 uppercase, 1 lowercase, 1 special char): ");
-            password = sc.nextLine().trim();
+            System.out.print("Set Password (min 8 chars, 1 uppercase, 1 lowercase, 1 special char): ");
+            password = sc.nextLine();
             if (isStrongPassword(password)) break;
-            System.out.println("\u001B[31m⚠️  Weak password! Follow the password policy.\u001B[0m");
+            System.out.println("❌ Weak password.");
         }
+        System.out.print("Enter Educational Background: ");
+        String education = sc.nextLine().trim();
 
-        List<String> securityQuestions = Arrays.asList(
-                "What is your pet's name?",
-                "What is your mother's maiden name?",
-                "What was the name of your first school?",
-                "What is your favorite color?",
-                "What is your birth city?"
+        List<String> questions = Arrays.asList(
+                "Your pet’s name?", "Mother’s maiden name?", "First school name?",
+                "Favorite color?", "Birth city?", "Custom Question"
         );
-
-        for (int i = 0; i < securityQuestions.size(); i++) {
-            System.out.println((i + 1) + ". " + securityQuestions.get(i));
-        }
-        System.out.print("Choose a security question (1-" + securityQuestions.size() + "): ");
-        int questionIndex = Integer.parseInt(sc.nextLine().trim()) - 1;
-        if (questionIndex < 0 || questionIndex >= securityQuestions.size()) {
-            System.out.println("Invalid choice.");
-            return;
-        }
-
-        String question = securityQuestions.get(questionIndex);
-        System.out.print("Enter answer to the security question: ");
+        for (int i = 0; i < questions.size(); i++)
+            System.out.println((i + 1) + ". " + questions.get(i));
+        System.out.print("Choose security question (1-6): ");
+        int qIndex = Integer.parseInt(sc.nextLine()) - 1;
+        String question = (qIndex == 5) ? sc.nextLine().trim() : questions.get(qIndex);
+        System.out.print("Enter answer: ");
         String answer = sc.nextLine().trim().toLowerCase();
 
-        users.put(username, new User(password, question, answer));
-        saveUsers();
-        System.out.println("\u001B[32m✅ User registered successfully!\u001B[0m");
+
+
+        User newUser = new User(username, password, question, answer, education,
+                fullName, age, email, address, qualification, skills);
+        users.put(username, newUser);
+        saveUserData();
+        System.out.println("\u001B[32m✅ You are registered! Welcome, " + fullName + " 🎉\u001B[0m");
     }
 
     private boolean login() {
-        System.out.print("Enter username: ");
+        System.out.print("Enter Username: ");
         String username = sc.nextLine().trim();
 
         if (!users.containsKey(username)) {
-            System.out.println("\u001B[31m⚠️  Username not found!\u001B[0m");
+            System.out.println("\u001B[31m⚠ Username not found!\u001B[0m");
             return false;
-        }
-
-        System.out.print("Enter password: ");
-        String password = sc.nextLine().trim();
-
-        if (users.get(username).password.equals(password)) {
-            currentUser = username;
-            return true;
-        } else {
-            System.out.println("\u001B[31m❌ Incorrect password.\u001B[0m");
-            return false;
-        }
-    }
-
-    private void forgotPassword() {
-        System.out.print("Enter your username: ");
-        String username = sc.nextLine().trim();
-
-        if (!users.containsKey(username)) {
-            System.out.println("Username not found!");
-            return;
         }
 
         User user = users.get(username);
+        int tries = 0;
+
+        while (true) {
+            System.out.print((tries >= 1 ? "Enter password or type 'forgot': " : "Enter password: "));
+            String input = sc.nextLine().trim();
+
+            if (tries >= 1 && input.equalsIgnoreCase("forgot")) {
+                handleForgotPassword(user);
+                return false;
+            }
+
+            if (user.password.equals(input)) {
+                currentUser = username;
+                return true;
+            } else {
+                System.out.println("❌ Incorrect password.");
+                if (++tries >= 10) {
+                    System.out.println("⚠ Too many attempts. Try later.");
+                    return false;
+                }
+            }
+        }
+    }
+
+    private void handleForgotPassword(User user) {
         System.out.println("Security Question: " + user.securityQuestion);
-        System.out.print("Your answer: ");
+        System.out.print("Answer: ");
         String answer = sc.nextLine().trim().toLowerCase();
 
         if (answer.equals(user.securityAnswer)) {
             String newPassword;
             while (true) {
-                System.out.print("Enter new strong password (min 8 chars, 1 uppercase, 1 lowercase, 1 special char): ");
-                newPassword = sc.nextLine().trim();
+                System.out.print("Set new strong password: ");
+                newPassword = sc.nextLine();
                 if (isStrongPassword(newPassword)) break;
-                System.out.println("\u001B[31m⚠️  Weak password! Follow the password policy.\u001B[0m");
+                System.out.println("❌ Weak password.");
             }
             user.password = newPassword;
-            saveUsers();
-            System.out.println("\u001B[32m🔑 Password updated successfully!\u001B[0m");
+            saveUserData();
+            System.out.println("🔑 Password reset successfully!");
         } else {
-            System.out.println("\u001B[31m❌ Incorrect answer to security question.\u001B[0m");
+            System.out.println("❌ Incorrect answer.");
         }
     }
 
     private boolean isStrongPassword(String password) {
-        if (password.length() < 8) return false;
-        boolean hasUpper = !password.equals(password.toLowerCase());
-        boolean hasLower = !password.equals(password.toUpperCase());
-        boolean hasSpecial = Pattern.compile("[^a-zA-Z0-9]").matcher(password).find();
-        return hasUpper && hasLower && hasSpecial;
-    }
-
-    private void saveUsers() {
-        try (PrintWriter writer = new PrintWriter(DATA_FILE)) {
-            for (Map.Entry<String, User> entry : users.entrySet()) {
-                writer.println(entry.getKey() + ">>" + entry.getValue().toString());
-            }
-        } catch (Exception e) {
-            System.out.println("❌ Failed to save users: " + e.getMessage());
-        }
-    }
-
-    private void loadUsers() {
-        File file = new File(DATA_FILE);
-        if (!file.exists()) return;
-
-        try (Scanner fileScanner = new Scanner(file)) {
-            while (fileScanner.hasNextLine()) {
-                String line = fileScanner.nextLine();
-                String[] parts = line.split(">>");
-                if (parts.length == 2) {
-                    User user = User.fromString(parts[1]);
-                    if (user != null) {
-                        users.put(parts[0], user);
-                    }
-                }
-            }
-        } catch (Exception e) {
-            System.out.println("❌ Failed to load users: " + e.getMessage());
-        }
+        return password.length() >= 8 &&
+                !password.equals(password.toLowerCase()) &&
+                !password.equals(password.toUpperCase()) &&
+                Pattern.compile("[^a-zA-Z0-9]").matcher(password).find();
     }
 
     public void updateQuizScore(String category, int score) {
         if (currentUser != null && users.containsKey(currentUser)) {
-            users.get(currentUser).quizScores.put(category, score);
-            saveUsers();
+            users.get(currentUser).quizHistory.add(new QuizAttempt(category, score));
+            saveUserData();
         }
     }
 
     public void showUserProgress() {
         if (currentUser != null && users.containsKey(currentUser)) {
-            Map<String, Integer> scores = users.get(currentUser).quizScores;
-            if (scores.isEmpty()) {
-                System.out.println("📉 No quiz history available yet.");
+            List<QuizAttempt> history = users.get(currentUser).quizHistory;
+            if (history.isEmpty()) {
+                System.out.println("📉 No quiz history yet.");
                 return;
             }
-            System.out.println("📊 Skill Progress for " + currentUser + ":");
-            for (Map.Entry<String, Integer> entry : scores.entrySet()) {
-                System.out.printf("%s → %d/20 (%.1f%%)\n", entry.getKey(), entry.getValue(), (entry.getValue() * 5.0));
+
+            System.out.println("📊 Full Quiz History for " + currentUser + ":");
+            for (QuizAttempt attempt : history) {
+                System.out.printf("%s | %tF %tT → %d/20 (%.1f%%)\n",
+                        attempt.category, attempt.attemptDate, attempt.attemptDate,
+                        attempt.score, attempt.score * 5.0);
             }
         }
     }
 
     public String getCurrentUser() {
         return currentUser;
+    }
+
+    public String getEducationalBackground() {
+        if (currentUser != null && users.containsKey(currentUser)) {
+            return users.get(currentUser).educationalBackground;
+        }
+        return null;
+    }
+
+    @SuppressWarnings("unchecked")
+    private void loadUserData() {
+        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(DATA_FILE))) {
+            users = (Map<String, User>) ois.readObject();
+        } catch (Exception e) {
+            users = new HashMap<>();
+        }
+    }
+
+    private void saveUserData() {
+        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(DATA_FILE))) {
+            oos.writeObject(users);
+        } catch (IOException e) {
+            System.out.println("⚠ Failed to save user data.");
+        }
     }
 }

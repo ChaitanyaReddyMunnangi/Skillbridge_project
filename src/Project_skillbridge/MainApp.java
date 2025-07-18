@@ -45,7 +45,7 @@ public class MainApp {
                         activityTracker.recordSkillGapCheck();
                     }
                     case 2 -> {
-                        quizModule.startQuiz();
+                        quizModule.startQuiz(currentUser);  // ✅ Pass username to avoid compile error
                         activityTracker.recordQuizAttempt(quizModule.getLastScore());
                     }
                     case 3 -> {

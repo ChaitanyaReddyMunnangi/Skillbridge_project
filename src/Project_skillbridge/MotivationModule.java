@@ -14,6 +14,7 @@ public class MotivationModule {
         categoryEmojis.put("Career Tip", "\uD83D\uDCBC");
         categoryEmojis.put("Mindfulness", "\uD83E\uDDB8");
         categoryEmojis.put("Life Advice", "\uD83C\uDF1F");
+        categoryEmojis.put("Motivation Boost", "\uD83C\uDF89");  // New category
 
         tipCategories.put("Study Tip", Arrays.asList(
                 "Break your study time into small chunks with breaks.",
@@ -45,6 +46,23 @@ public class MotivationModule {
                 "Celebrate small wins daily.",
                 "Surround yourself with positive people.",
                 "Focus on progress, not perfection."
+        ));
+
+        // NEW: Motivational Tips from your first file
+        tipCategories.put("Motivation Boost", Arrays.asList(
+                "You’ve taken the first step by choosing your path. Stay consistent and keep learning. Great things take time!",
+                "Excellent! Your hard work is clearly paying off. Keep reaching for the stars!",
+                "You're smashing it! Stay hungry, stay foolish.",
+                "You’ve done a great job—keep building on your momentum!",
+                "Great work! Success is the sum of small efforts repeated daily.",
+                "Nice effort! You're on the right track. Just a bit more focus will make a big difference.",
+                "Good job! Now aim a little higher next time. You’ve got this.",
+                "Keep going—progress over perfection!",
+                "Every master was once a beginner. Don’t give up!",
+                "You only fail when you stop trying. Keep learning!",
+                "Mistakes are proof that you're trying. Keep moving forward!",
+                "Documenting your journey shows commitment. Keep moving forward—your future self will thank you!",
+                "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
         ));
     }
 
